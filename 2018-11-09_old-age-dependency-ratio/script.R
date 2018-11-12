@@ -38,7 +38,7 @@ df <- raw %>%
   mutate(area_name = factor(area_name, levels = area_name))
 
 # plot data ---------------------------
-ggplot(df, aes(x = ratio, y = area_name, ratio)) +
+p <- ggplot(df, aes(x = ratio, y = area_name, ratio)) +
   geom_segment(aes(x = 0, y = area_name, xend = ratio, yend = area_name), color = "#f0f0f0") +
   geom_point(colour = "#fc6721", size = 6) +
   geom_text(aes(label = ratio, fontface = "bold"), color = "white", size = 3) +
@@ -50,11 +50,11 @@ ggplot(df, aes(x = ratio, y = area_name, ratio)) +
   theme(panel.grid.major = element_blank(),
         plot.title = element_text(hjust = 0.13),
         plot.subtitle = element_text(hjust = 0.11),
-        axis.text.y = element_text(face = "bold", hjust = 0, margin = margin(r = -20)),
+        axis.text.y = element_text(family = "Open Sans", hjust = 0, margin = margin(r = -20)),
         aspect.ratio = 0.5)
 
 # write data ---------------------------
 write_csv(df, "old-age-dependency-ratio.csv")
-ggsave("old-age-dependency-ratio.svg", dpi = 300, scale = 1)
-ggsave("old-age-dependency-ratio.png", dpi = 300, scale = 1)
+ggsave("old-age-dependency-ratio.svg", p, dpi = 300, scale = 1)
+ggsave("old-age-dependency-ratio.png", p, dpi = 300, scale = 1)
 
