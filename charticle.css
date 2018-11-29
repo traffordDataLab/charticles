@@ -1,0 +1,87 @@
+article, header, footer, figure, figcaption, nav, figure img
+{
+    display: block;
+    box-sizing: border-box;
+}
+
+article
+{
+    width: 75%;
+    max-width: 600px;
+    padding: 10px;
+    background-color: #ddddcc;
+    border-radius: 20px;
+    color: #212121;
+    border: 2px solid #ccccbb;
+    box-shadow: 0 1px 10px rgba(140,140,140,0.75);
+}
+
+article p, figcaption, footer nav div
+{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.75em;
+    text-align: justify;
+}
+
+header
+{
+    font-family: 'Roboto', sans-serif;
+    margin-top: -9px;
+}
+
+h3
+{
+    color: #212121;
+}
+
+figure
+{
+    margin: 0;
+    padding: 0;
+}
+
+figure img
+{
+    width: 100%;
+    border: 2px solid #eee;
+    border-radius: 10px;
+}
+
+footer
+{
+    margin-top: 1em;
+}
+
+footer nav div
+{
+    float: right;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+footer nav div span
+{
+    display: inline-block;
+    text-align: center;
+    background-color: #ccccbb;
+    padding: 3px 6px;
+    border-radius: 10px;
+    width: 3em;
+}
+
+@media (max-width:800px)
+{
+    article
+    {
+        width: 80%;
+    }
+}
+
+@media (max-width:620px)
+{
+    article
+    {
+        width: 100%;
+        max-width: 500px;
+    }
+}
