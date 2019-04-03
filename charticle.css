@@ -1,87 +1,124 @@
-article, header, footer, figure, figcaption, nav, figure img
+/* Override styles from labBase.css */
+/* -------------------------------- */
+html, body
+{
+    height: auto;
+    margin-bottom: 30px;
+    background-color: #eee;
+}
+
+.labButton
+{
+    margin: 0;
+}
+/* -------------------------------- */
+
+/* HTML5 fallback styles for older browsers */
+/* ---------------------------------------- */
+article, aside, footer, header, nav, section, figure
 {
     display: block;
     box-sizing: border-box;
 }
+/* ---------------------------------------- */
 
 article
 {
-    width: 75%;
-    max-width: 600px;
-    padding: 10px;
-    background-color: #ddddcc;
-    border-radius: 20px;
-    color: #212121;
-    border: 2px solid #ccccbb;
-    box-shadow: 0 1px 10px rgba(140,140,140,0.75);
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+    background-color: #fff;
+    padding: 0 1.5em 0.25em 1.5em;
+    box-shadow: 10px 0px 10px rgba(140,140,140,0.75);
+    border-radius: 6px;
 }
 
-article p, figcaption, footer nav div
+h1
 {
-    font-family: 'Open Sans', sans-serif;
+    font-size: 2.5em;
+    padding-top: 0.5em;
+    margin-bottom: 0.25em;
+}
+
+/* Orange triangle at the end of the headline */
+h1:after
+{
+    content: "";
+    display: inline-block;
+    vertical-align: text-bottom;
+    height: 0;
+    width: 0;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent;
+    border-right-color: #fc6721;
+    border-bottom-color: #fc6721;
+    margin: 0 0 10px 5px;
+}
+
+time
+{
+    text-transform: uppercase;
+    font-style: italic;
     font-size: 0.75em;
+    color: #757575;
+}
+
+p
+{
+    line-height: 1.5em;
+    font-weight: 100;
     text-align: justify;
-}
-
-header
-{
-    font-family: 'Roboto', sans-serif;
-    margin-top: -9px;
-}
-
-h3
-{
-    color: #212121;
 }
 
 figure
 {
-    margin: 0;
-    padding: 0;
+    width: 90%;
+    margin: auto;
+    padding: 1.5em 0 2em 0;
 }
 
 figure img
 {
     width: 100%;
-    border: 2px solid #eee;
-    border-radius: 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-image:
+        linear-gradient(
+            rgba(0, 0, 0, 0),
+            #ddd,
+            rgba(0, 0, 0, 0)
+        ) 1 100%;
 }
 
-footer
+figcaption
 {
-    margin-top: 1em;
+    display: block;
+    font-size: 0.75em;
+    font-weight: bold;
+    text-align: right;
+    padding-bottom: 3px;
 }
 
-footer nav div
+nav
 {
     float: right;
-    margin-top: 10px;
-    font-weight: bold;
 }
 
-footer nav div span
+.notes
 {
     display: inline-block;
-    text-align: center;
-    background-color: #ccccbb;
-    padding: 3px 6px;
-    border-radius: 10px;
-    width: 3em;
+    font-style: italic;
+    font-size: 0.75em;
+    margin-bottom: 1.5em;
 }
 
-@media (max-width:800px)
+/* This is the span containing the word "download" - the buttons are styled using the .labButton class from labBase.css */
+#download
 {
-    article
-    {
-        width: 80%;
-    }
-}
-
-@media (max-width:620px)
-{
-    article
-    {
-        width: 100%;
-        max-width: 500px;
-    }
+    display: inline-block;
+    padding: 3px 5px 3px 5px;
+    margin: 0;
+    font-size: 0.8em;
+    font-weight: bold;
 }
