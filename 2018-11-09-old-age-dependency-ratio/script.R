@@ -40,7 +40,7 @@ df <- raw %>%
 # plot data ---------------------------
 ggplot(df, aes(x = ratio, y = area_name, ratio)) +
   geom_segment(aes(x = 0, y = area_name, xend = ratio, yend = area_name), color = "#f0f0f0") +
-  geom_point(colour = "#fc6721", size = 8) +
+  geom_point(colour = "#fc6721", size = 7) +
   geom_text(aes(label = ratio, fontface = "bold"), color = "white", size = 4) +
   labs(x = NULL, y = NULL,
        title = "Old-age dependency ratios in Trafford's wards, 2017",
@@ -48,12 +48,11 @@ ggplot(df, aes(x = ratio, y = area_name, ratio)) +
        caption = "Source: Office for National Statistics  |  @traffordDataLab") +
   theme_lab() +
   theme(panel.grid.major = element_blank(),
-        plot.title = element_text(hjust = 0.13),
+        plot.title = element_text(hjust = 0.12),
         plot.subtitle = element_text(hjust = 0.10),
-        axis.text.y = element_text(family = "Open Sans", face = "bold", hjust = 0, margin = margin(r = -20)),
-        aspect.ratio = 0.8)
+        axis.text.y = element_text(family = "Open Sans", face = "plain", hjust = 0, margin = margin(r = -20)))
 
 # write data ---------------------------
-write_csv(df, "old-age-dependency-ratio.csv")
-ggsave("old-age-dependency-ratio.svg", dpi = 300, scale = 1)
-ggsave("old-age-dependency-ratio.png", dpi = 300, scale = 1)
+write_csv(df, "data.csv")
+ggsave("plot.svg", dpi = 300, scale = 1)
+ggsave("plot.png", dpi = 300, scale = 1)
