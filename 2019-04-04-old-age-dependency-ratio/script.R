@@ -50,7 +50,7 @@ ggplot(df, aes(x = ratio, y = area_name, ratio)) +
   theme(panel.grid.major = element_blank(),
         plot.title = element_text(hjust = 0.12),
         plot.subtitle = element_text(hjust = 0.10),
-        axis.text.y = element_text(family = "Open Sans", face = "plain", hjust = 0, margin = margin(r = -20)))
+        axis.text.y = element_text(family = "Open Sans", face = "plain", size = 12, hjust = 0))
 
 # write data ---------------------------
 write_csv(df, "data.csv")
