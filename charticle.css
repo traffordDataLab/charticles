@@ -96,13 +96,3 @@ nav
     font-size: 0.75em;
     margin-bottom: 1.5em;
 }
-
-/* This is the span containing the word "download" - the buttons are styled using the .labButton class from labBase.css */
-#download
-{
-    display: inline-block;
-    padding: 3px 5px 3px 5px;
-    margin: 0;
-    font-size: 0.8em;
-    font-weight: bold;
-}
