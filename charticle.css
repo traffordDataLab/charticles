@@ -79,6 +79,7 @@ figcaption
 nav
 {
     float: right;
+    margin-top: 4px;
 }
 
 .notes
