@@ -1,4 +1,4 @@
-# [Bowdon & Hale Barns have the same share of pensioners as Japan](https://www.trafforddatalab.io/charticles/2019-04-04-old-age-dependency-ratio)
+## [Bowdon & Hale Barns have the same share of pensioners as Japan](https://www.trafforddatalab.io/charticles/2019-04-04-old-age-dependency-ratio)
 
 Old-age dependency ratios for residents living in Trafford's wards in 2017.
 
