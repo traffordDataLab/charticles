@@ -14,7 +14,7 @@ df <- raw
 # plot data ---------------------------
 
 # write data ---------------------------
-write_csv(df, ".csv")
-ggsave(".svg", dpi = 300, scale = 1)
-ggsave(".png", dpi = 300, scale = 1)
+write_csv(df, "data.csv")
+ggsave("plot.svg", dpi = 300, scale = 1)
+ggsave("plot.png", dpi = 300, scale = 1)
 
