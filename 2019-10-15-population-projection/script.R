@@ -24,7 +24,7 @@ population_estimate <- read_csv("http://www.nomisweb.co.uk/api/v01/dataset/NM_20
   group_by(period, gender, ageband) %>% 
   summarise(n = sum(n))
 
-# mid-2026 population projection
+# mid-2028 population projection
 # https://www.nomisweb.co.uk/query/construct/summary.asp?mode=construct&version=0&dataset=2006
 population_projection <- read_csv("http://www.nomisweb.co.uk/api/v01/dataset/NM_2006_1.data.csv?geography=1879048225&projected_year=2028&gender=1,2&c_age=101...191&measures=20100&select=geography_name,geography_code,projected_year_name,gender_name,c_age_name,measures_name,obs_value,obs_status_name") %>% 
   select(period = PROJECTED_YEAR_NAME, gender = GENDER_NAME, age = C_AGE_NAME, n = OBS_VALUE) %>% 
