@@ -1,127 +1,127 @@
-area_code,area_name,indicator,period,measure,ageband,n,total,percent,unit
-E36006405,Altrincham,Claimant count by ward,2019-09-01,Count,16-24,20,120,0.16666666666666666,Persons
-E36006406,Ashton upon Mersey,Claimant count by ward,2019-09-01,Count,16-24,10,85,0.11764705882352941,Persons
-E36006407,Bowdon,Claimant count by ward,2019-09-01,Count,16-24,10,70,0.14285714285714285,Persons
-E36006408,Broadheath,Claimant count by ward,2019-09-01,Count,16-24,30,135,0.2222222222222222,Persons
-E36006409,Brooklands,Claimant count by ward,2019-09-01,Count,16-24,10,70,0.14285714285714285,Persons
-E36006410,Bucklow-St Martins,Claimant count by ward,2019-09-01,Count,16-24,70,340,0.20588235294117646,Persons
-E36006411,Clifford,Claimant count by ward,2019-09-01,Count,16-24,95,480,0.19791666666666666,Persons
-E36006412,Davyhulme East,Claimant count by ward,2019-09-01,Count,16-24,30,110,0.2727272727272727,Persons
-E36006413,Davyhulme West,Claimant count by ward,2019-09-01,Count,16-24,25,95,0.2631578947368421,Persons
-E36006414,Flixton,Claimant count by ward,2019-09-01,Count,16-24,15,85,0.17647058823529413,Persons
-E36006415,Gorse Hill,Claimant count by ward,2019-09-01,Count,16-24,60,340,0.17647058823529413,Persons
-E36006416,Hale Barns,Claimant count by ward,2019-09-01,Count,16-24,10,65,0.15384615384615385,Persons
-E36006417,Hale Central,Claimant count by ward,2019-09-01,Count,16-24,0,50,0,Persons
-E36006418,Longford,Claimant count by ward,2019-09-01,Count,16-24,55,315,0.1746031746031746,Persons
-E36006419,Priory,Claimant count by ward,2019-09-01,Count,16-24,15,115,0.13043478260869565,Persons
-E36006420,Sale Moor,Claimant count by ward,2019-09-01,Count,16-24,30,160,0.1875,Persons
-E36006421,St Mary's,Claimant count by ward,2019-09-01,Count,16-24,40,230,0.17391304347826086,Persons
-E36006422,Stretford,Claimant count by ward,2019-09-01,Count,16-24,50,300,0.16666666666666666,Persons
-E36006423,Timperley,Claimant count by ward,2019-09-01,Count,16-24,10,40,0.25,Persons
-E36006424,Urmston,Claimant count by ward,2019-09-01,Count,16-24,20,135,0.14814814814814814,Persons
-E36006425,Village,Claimant count by ward,2019-09-01,Count,16-24,25,145,0.1724137931034483,Persons
-E36006405,Altrincham,Claimant count by ward,2019-09-01,Count,25-34,25,120,0.20833333333333334,Persons
-E36006406,Ashton upon Mersey,Claimant count by ward,2019-09-01,Count,25-34,15,85,0.17647058823529413,Persons
-E36006407,Bowdon,Claimant count by ward,2019-09-01,Count,25-34,20,70,0.2857142857142857,Persons
-E36006408,Broadheath,Claimant count by ward,2019-09-01,Count,25-34,30,135,0.2222222222222222,Persons
-E36006409,Brooklands,Claimant count by ward,2019-09-01,Count,25-34,15,70,0.21428571428571427,Persons
-E36006410,Bucklow-St Martins,Claimant count by ward,2019-09-01,Count,25-34,90,340,0.2647058823529412,Persons
-E36006411,Clifford,Claimant count by ward,2019-09-01,Count,25-34,135,480,0.28125,Persons
-E36006412,Davyhulme East,Claimant count by ward,2019-09-01,Count,25-34,20,110,0.18181818181818182,Persons
-E36006413,Davyhulme West,Claimant count by ward,2019-09-01,Count,25-34,15,95,0.15789473684210525,Persons
-E36006414,Flixton,Claimant count by ward,2019-09-01,Count,25-34,25,85,0.29411764705882354,Persons
-E36006415,Gorse Hill,Claimant count by ward,2019-09-01,Count,25-34,100,340,0.29411764705882354,Persons
-E36006416,Hale Barns,Claimant count by ward,2019-09-01,Count,25-34,10,65,0.15384615384615385,Persons
-E36006417,Hale Central,Claimant count by ward,2019-09-01,Count,25-34,15,50,0.3,Persons
-E36006418,Longford,Claimant count by ward,2019-09-01,Count,25-34,75,315,0.23809523809523808,Persons
-E36006419,Priory,Claimant count by ward,2019-09-01,Count,25-34,25,115,0.21739130434782608,Persons
-E36006420,Sale Moor,Claimant count by ward,2019-09-01,Count,25-34,40,160,0.25,Persons
-E36006421,St Mary's,Claimant count by ward,2019-09-01,Count,25-34,70,230,0.30434782608695654,Persons
-E36006422,Stretford,Claimant count by ward,2019-09-01,Count,25-34,70,300,0.23333333333333334,Persons
-E36006423,Timperley,Claimant count by ward,2019-09-01,Count,25-34,5,40,0.125,Persons
-E36006424,Urmston,Claimant count by ward,2019-09-01,Count,25-34,30,135,0.2222222222222222,Persons
-E36006425,Village,Claimant count by ward,2019-09-01,Count,25-34,40,145,0.27586206896551724,Persons
-E36006405,Altrincham,Claimant count by ward,2019-09-01,Count,35-44,25,120,0.20833333333333334,Persons
-E36006406,Ashton upon Mersey,Claimant count by ward,2019-09-01,Count,35-44,25,85,0.29411764705882354,Persons
-E36006407,Bowdon,Claimant count by ward,2019-09-01,Count,35-44,15,70,0.21428571428571427,Persons
-E36006408,Broadheath,Claimant count by ward,2019-09-01,Count,35-44,25,135,0.18518518518518517,Persons
-E36006409,Brooklands,Claimant count by ward,2019-09-01,Count,35-44,20,70,0.2857142857142857,Persons
-E36006410,Bucklow-St Martins,Claimant count by ward,2019-09-01,Count,35-44,70,340,0.20588235294117646,Persons
-E36006411,Clifford,Claimant count by ward,2019-09-01,Count,35-44,90,480,0.1875,Persons
-E36006412,Davyhulme East,Claimant count by ward,2019-09-01,Count,35-44,25,110,0.22727272727272727,Persons
-E36006413,Davyhulme West,Claimant count by ward,2019-09-01,Count,35-44,15,95,0.15789473684210525,Persons
-E36006414,Flixton,Claimant count by ward,2019-09-01,Count,35-44,20,85,0.23529411764705882,Persons
-E36006415,Gorse Hill,Claimant count by ward,2019-09-01,Count,35-44,75,340,0.22058823529411764,Persons
-E36006416,Hale Barns,Claimant count by ward,2019-09-01,Count,35-44,15,65,0.23076923076923078,Persons
-E36006417,Hale Central,Claimant count by ward,2019-09-01,Count,35-44,10,50,0.2,Persons
-E36006418,Longford,Claimant count by ward,2019-09-01,Count,35-44,70,315,0.2222222222222222,Persons
-E36006419,Priory,Claimant count by ward,2019-09-01,Count,35-44,35,115,0.30434782608695654,Persons
-E36006420,Sale Moor,Claimant count by ward,2019-09-01,Count,35-44,40,160,0.25,Persons
-E36006421,St Mary's,Claimant count by ward,2019-09-01,Count,35-44,45,230,0.1956521739130435,Persons
-E36006422,Stretford,Claimant count by ward,2019-09-01,Count,35-44,75,300,0.25,Persons
-E36006423,Timperley,Claimant count by ward,2019-09-01,Count,35-44,10,40,0.25,Persons
-E36006424,Urmston,Claimant count by ward,2019-09-01,Count,35-44,30,135,0.2222222222222222,Persons
-E36006425,Village,Claimant count by ward,2019-09-01,Count,35-44,40,145,0.27586206896551724,Persons
-E36006405,Altrincham,Claimant count by ward,2019-09-01,Count,45-54,30,120,0.25,Persons
-E36006406,Ashton upon Mersey,Claimant count by ward,2019-09-01,Count,45-54,20,85,0.23529411764705882,Persons
-E36006407,Bowdon,Claimant count by ward,2019-09-01,Count,45-54,10,70,0.14285714285714285,Persons
-E36006408,Broadheath,Claimant count by ward,2019-09-01,Count,45-54,30,135,0.2222222222222222,Persons
-E36006409,Brooklands,Claimant count by ward,2019-09-01,Count,45-54,15,70,0.21428571428571427,Persons
-E36006410,Bucklow-St Martins,Claimant count by ward,2019-09-01,Count,45-54,60,340,0.17647058823529413,Persons
-E36006411,Clifford,Claimant count by ward,2019-09-01,Count,45-54,75,480,0.15625,Persons
-E36006412,Davyhulme East,Claimant count by ward,2019-09-01,Count,45-54,15,110,0.13636363636363635,Persons
-E36006413,Davyhulme West,Claimant count by ward,2019-09-01,Count,45-54,15,95,0.15789473684210525,Persons
-E36006414,Flixton,Claimant count by ward,2019-09-01,Count,45-54,15,85,0.17647058823529413,Persons
-E36006415,Gorse Hill,Claimant count by ward,2019-09-01,Count,45-54,55,340,0.16176470588235295,Persons
-E36006416,Hale Barns,Claimant count by ward,2019-09-01,Count,45-54,20,65,0.3076923076923077,Persons
-E36006417,Hale Central,Claimant count by ward,2019-09-01,Count,45-54,15,50,0.3,Persons
-E36006418,Longford,Claimant count by ward,2019-09-01,Count,45-54,65,315,0.20634920634920634,Persons
-E36006419,Priory,Claimant count by ward,2019-09-01,Count,45-54,25,115,0.21739130434782608,Persons
-E36006420,Sale Moor,Claimant count by ward,2019-09-01,Count,45-54,25,160,0.15625,Persons
-E36006421,St Mary's,Claimant count by ward,2019-09-01,Count,45-54,45,230,0.1956521739130435,Persons
-E36006422,Stretford,Claimant count by ward,2019-09-01,Count,45-54,65,300,0.21666666666666667,Persons
-E36006423,Timperley,Claimant count by ward,2019-09-01,Count,45-54,10,40,0.25,Persons
-E36006424,Urmston,Claimant count by ward,2019-09-01,Count,45-54,30,135,0.2222222222222222,Persons
-E36006425,Village,Claimant count by ward,2019-09-01,Count,45-54,25,145,0.1724137931034483,Persons
-E36006405,Altrincham,Claimant count by ward,2019-09-01,Count,55-64,20,120,0.16666666666666666,Persons
-E36006406,Ashton upon Mersey,Claimant count by ward,2019-09-01,Count,55-64,15,85,0.17647058823529413,Persons
-E36006407,Bowdon,Claimant count by ward,2019-09-01,Count,55-64,15,70,0.21428571428571427,Persons
-E36006408,Broadheath,Claimant count by ward,2019-09-01,Count,55-64,20,135,0.14814814814814814,Persons
-E36006409,Brooklands,Claimant count by ward,2019-09-01,Count,55-64,10,70,0.14285714285714285,Persons
-E36006410,Bucklow-St Martins,Claimant count by ward,2019-09-01,Count,55-64,50,340,0.14705882352941177,Persons
-E36006411,Clifford,Claimant count by ward,2019-09-01,Count,55-64,80,480,0.16666666666666666,Persons
-E36006412,Davyhulme East,Claimant count by ward,2019-09-01,Count,55-64,20,110,0.18181818181818182,Persons
-E36006413,Davyhulme West,Claimant count by ward,2019-09-01,Count,55-64,25,95,0.2631578947368421,Persons
-E36006414,Flixton,Claimant count by ward,2019-09-01,Count,55-64,10,85,0.11764705882352941,Persons
-E36006415,Gorse Hill,Claimant count by ward,2019-09-01,Count,55-64,45,340,0.1323529411764706,Persons
-E36006416,Hale Barns,Claimant count by ward,2019-09-01,Count,55-64,10,65,0.15384615384615385,Persons
-E36006417,Hale Central,Claimant count by ward,2019-09-01,Count,55-64,10,50,0.2,Persons
-E36006418,Longford,Claimant count by ward,2019-09-01,Count,55-64,50,315,0.15873015873015872,Persons
-E36006419,Priory,Claimant count by ward,2019-09-01,Count,55-64,15,115,0.13043478260869565,Persons
-E36006420,Sale Moor,Claimant count by ward,2019-09-01,Count,55-64,25,160,0.15625,Persons
-E36006421,St Mary's,Claimant count by ward,2019-09-01,Count,55-64,30,230,0.13043478260869565,Persons
-E36006422,Stretford,Claimant count by ward,2019-09-01,Count,55-64,40,300,0.13333333333333333,Persons
-E36006423,Timperley,Claimant count by ward,2019-09-01,Count,55-64,5,40,0.125,Persons
-E36006424,Urmston,Claimant count by ward,2019-09-01,Count,55-64,25,135,0.18518518518518517,Persons
-E36006425,Village,Claimant count by ward,2019-09-01,Count,55-64,15,145,0.10344827586206896,Persons
-E36006405,Altrincham,Claimant count by ward,2019-09-01,Count,65+,0,120,0,Persons
-E36006406,Ashton upon Mersey,Claimant count by ward,2019-09-01,Count,65+,0,85,0,Persons
-E36006407,Bowdon,Claimant count by ward,2019-09-01,Count,65+,0,70,0,Persons
-E36006408,Broadheath,Claimant count by ward,2019-09-01,Count,65+,0,135,0,Persons
-E36006409,Brooklands,Claimant count by ward,2019-09-01,Count,65+,0,70,0,Persons
-E36006410,Bucklow-St Martins,Claimant count by ward,2019-09-01,Count,65+,0,340,0,Persons
-E36006411,Clifford,Claimant count by ward,2019-09-01,Count,65+,5,480,0.010416666666666666,Persons
-E36006412,Davyhulme East,Claimant count by ward,2019-09-01,Count,65+,0,110,0,Persons
-E36006413,Davyhulme West,Claimant count by ward,2019-09-01,Count,65+,0,95,0,Persons
-E36006414,Flixton,Claimant count by ward,2019-09-01,Count,65+,0,85,0,Persons
-E36006415,Gorse Hill,Claimant count by ward,2019-09-01,Count,65+,5,340,0.014705882352941176,Persons
-E36006416,Hale Barns,Claimant count by ward,2019-09-01,Count,65+,0,65,0,Persons
-E36006417,Hale Central,Claimant count by ward,2019-09-01,Count,65+,0,50,0,Persons
-E36006418,Longford,Claimant count by ward,2019-09-01,Count,65+,0,315,0,Persons
-E36006419,Priory,Claimant count by ward,2019-09-01,Count,65+,0,115,0,Persons
-E36006420,Sale Moor,Claimant count by ward,2019-09-01,Count,65+,0,160,0,Persons
-E36006421,St Mary's,Claimant count by ward,2019-09-01,Count,65+,0,230,0,Persons
-E36006422,Stretford,Claimant count by ward,2019-09-01,Count,65+,0,300,0,Persons
-E36006423,Timperley,Claimant count by ward,2019-09-01,Count,65+,0,40,0,Persons
-E36006424,Urmston,Claimant count by ward,2019-09-01,Count,65+,0,135,0,Persons
-E36006425,Village,Claimant count by ward,2019-09-01,Count,65+,0,145,0,Persons
+area_code,area_name,indicator,period,measure,unit,ageband,n,total,percent
+E36006405,Altrincham,Claimant count by ward,2019-09-01,Count,Persons,16-24,20,120,0.16666666666666666
+E36006406,Ashton upon Mersey,Claimant count by ward,2019-09-01,Count,Persons,16-24,10,85,0.11764705882352941
+E36006407,Bowdon,Claimant count by ward,2019-09-01,Count,Persons,16-24,10,70,0.14285714285714285
+E36006408,Broadheath,Claimant count by ward,2019-09-01,Count,Persons,16-24,30,135,0.2222222222222222
+E36006409,Brooklands,Claimant count by ward,2019-09-01,Count,Persons,16-24,10,70,0.14285714285714285
+E36006410,Bucklow-St Martins,Claimant count by ward,2019-09-01,Count,Persons,16-24,70,340,0.20588235294117646
+E36006411,Clifford,Claimant count by ward,2019-09-01,Count,Persons,16-24,95,480,0.19791666666666666
+E36006412,Davyhulme East,Claimant count by ward,2019-09-01,Count,Persons,16-24,30,110,0.2727272727272727
+E36006413,Davyhulme West,Claimant count by ward,2019-09-01,Count,Persons,16-24,25,95,0.2631578947368421
+E36006414,Flixton,Claimant count by ward,2019-09-01,Count,Persons,16-24,15,85,0.17647058823529413
+E36006415,Gorse Hill,Claimant count by ward,2019-09-01,Count,Persons,16-24,60,340,0.17647058823529413
+E36006416,Hale Barns,Claimant count by ward,2019-09-01,Count,Persons,16-24,10,65,0.15384615384615385
+E36006417,Hale Central,Claimant count by ward,2019-09-01,Count,Persons,16-24,0,50,0
+E36006418,Longford,Claimant count by ward,2019-09-01,Count,Persons,16-24,55,315,0.1746031746031746
+E36006419,Priory,Claimant count by ward,2019-09-01,Count,Persons,16-24,15,115,0.13043478260869565
+E36006420,Sale Moor,Claimant count by ward,2019-09-01,Count,Persons,16-24,30,160,0.1875
+E36006421,St Mary's,Claimant count by ward,2019-09-01,Count,Persons,16-24,40,230,0.17391304347826086
+E36006422,Stretford,Claimant count by ward,2019-09-01,Count,Persons,16-24,50,300,0.16666666666666666
+E36006423,Timperley,Claimant count by ward,2019-09-01,Count,Persons,16-24,10,40,0.25
+E36006424,Urmston,Claimant count by ward,2019-09-01,Count,Persons,16-24,20,135,0.14814814814814814
+E36006425,Village,Claimant count by ward,2019-09-01,Count,Persons,16-24,25,145,0.1724137931034483
+E36006405,Altrincham,Claimant count by ward,2019-09-01,Count,Persons,25-34,25,120,0.20833333333333334
+E36006406,Ashton upon Mersey,Claimant count by ward,2019-09-01,Count,Persons,25-34,15,85,0.17647058823529413
+E36006407,Bowdon,Claimant count by ward,2019-09-01,Count,Persons,25-34,20,70,0.2857142857142857
+E36006408,Broadheath,Claimant count by ward,2019-09-01,Count,Persons,25-34,30,135,0.2222222222222222
+E36006409,Brooklands,Claimant count by ward,2019-09-01,Count,Persons,25-34,15,70,0.21428571428571427
+E36006410,Bucklow-St Martins,Claimant count by ward,2019-09-01,Count,Persons,25-34,90,340,0.2647058823529412
+E36006411,Clifford,Claimant count by ward,2019-09-01,Count,Persons,25-34,135,480,0.28125
+E36006412,Davyhulme East,Claimant count by ward,2019-09-01,Count,Persons,25-34,20,110,0.18181818181818182
+E36006413,Davyhulme West,Claimant count by ward,2019-09-01,Count,Persons,25-34,15,95,0.15789473684210525
+E36006414,Flixton,Claimant count by ward,2019-09-01,Count,Persons,25-34,25,85,0.29411764705882354
+E36006415,Gorse Hill,Claimant count by ward,2019-09-01,Count,Persons,25-34,100,340,0.29411764705882354
+E36006416,Hale Barns,Claimant count by ward,2019-09-01,Count,Persons,25-34,10,65,0.15384615384615385
+E36006417,Hale Central,Claimant count by ward,2019-09-01,Count,Persons,25-34,15,50,0.3
+E36006418,Longford,Claimant count by ward,2019-09-01,Count,Persons,25-34,75,315,0.23809523809523808
+E36006419,Priory,Claimant count by ward,2019-09-01,Count,Persons,25-34,25,115,0.21739130434782608
+E36006420,Sale Moor,Claimant count by ward,2019-09-01,Count,Persons,25-34,40,160,0.25
+E36006421,St Mary's,Claimant count by ward,2019-09-01,Count,Persons,25-34,70,230,0.30434782608695654
+E36006422,Stretford,Claimant count by ward,2019-09-01,Count,Persons,25-34,70,300,0.23333333333333334
+E36006423,Timperley,Claimant count by ward,2019-09-01,Count,Persons,25-34,5,40,0.125
+E36006424,Urmston,Claimant count by ward,2019-09-01,Count,Persons,25-34,30,135,0.2222222222222222
+E36006425,Village,Claimant count by ward,2019-09-01,Count,Persons,25-34,40,145,0.27586206896551724
+E36006405,Altrincham,Claimant count by ward,2019-09-01,Count,Persons,35-44,25,120,0.20833333333333334
+E36006406,Ashton upon Mersey,Claimant count by ward,2019-09-01,Count,Persons,35-44,25,85,0.29411764705882354
+E36006407,Bowdon,Claimant count by ward,2019-09-01,Count,Persons,35-44,15,70,0.21428571428571427
+E36006408,Broadheath,Claimant count by ward,2019-09-01,Count,Persons,35-44,25,135,0.18518518518518517
+E36006409,Brooklands,Claimant count by ward,2019-09-01,Count,Persons,35-44,20,70,0.2857142857142857
+E36006410,Bucklow-St Martins,Claimant count by ward,2019-09-01,Count,Persons,35-44,70,340,0.20588235294117646
+E36006411,Clifford,Claimant count by ward,2019-09-01,Count,Persons,35-44,90,480,0.1875
+E36006412,Davyhulme East,Claimant count by ward,2019-09-01,Count,Persons,35-44,25,110,0.22727272727272727
+E36006413,Davyhulme West,Claimant count by ward,2019-09-01,Count,Persons,35-44,15,95,0.15789473684210525
+E36006414,Flixton,Claimant count by ward,2019-09-01,Count,Persons,35-44,20,85,0.23529411764705882
+E36006415,Gorse Hill,Claimant count by ward,2019-09-01,Count,Persons,35-44,75,340,0.22058823529411764
+E36006416,Hale Barns,Claimant count by ward,2019-09-01,Count,Persons,35-44,15,65,0.23076923076923078
+E36006417,Hale Central,Claimant count by ward,2019-09-01,Count,Persons,35-44,10,50,0.2
+E36006418,Longford,Claimant count by ward,2019-09-01,Count,Persons,35-44,70,315,0.2222222222222222
+E36006419,Priory,Claimant count by ward,2019-09-01,Count,Persons,35-44,35,115,0.30434782608695654
+E36006420,Sale Moor,Claimant count by ward,2019-09-01,Count,Persons,35-44,40,160,0.25
+E36006421,St Mary's,Claimant count by ward,2019-09-01,Count,Persons,35-44,45,230,0.1956521739130435
+E36006422,Stretford,Claimant count by ward,2019-09-01,Count,Persons,35-44,75,300,0.25
+E36006423,Timperley,Claimant count by ward,2019-09-01,Count,Persons,35-44,10,40,0.25
+E36006424,Urmston,Claimant count by ward,2019-09-01,Count,Persons,35-44,30,135,0.2222222222222222
+E36006425,Village,Claimant count by ward,2019-09-01,Count,Persons,35-44,40,145,0.27586206896551724
+E36006405,Altrincham,Claimant count by ward,2019-09-01,Count,Persons,45-54,30,120,0.25
+E36006406,Ashton upon Mersey,Claimant count by ward,2019-09-01,Count,Persons,45-54,20,85,0.23529411764705882
+E36006407,Bowdon,Claimant count by ward,2019-09-01,Count,Persons,45-54,10,70,0.14285714285714285
+E36006408,Broadheath,Claimant count by ward,2019-09-01,Count,Persons,45-54,30,135,0.2222222222222222
+E36006409,Brooklands,Claimant count by ward,2019-09-01,Count,Persons,45-54,15,70,0.21428571428571427
+E36006410,Bucklow-St Martins,Claimant count by ward,2019-09-01,Count,Persons,45-54,60,340,0.17647058823529413
+E36006411,Clifford,Claimant count by ward,2019-09-01,Count,Persons,45-54,75,480,0.15625
+E36006412,Davyhulme East,Claimant count by ward,2019-09-01,Count,Persons,45-54,15,110,0.13636363636363635
+E36006413,Davyhulme West,Claimant count by ward,2019-09-01,Count,Persons,45-54,15,95,0.15789473684210525
+E36006414,Flixton,Claimant count by ward,2019-09-01,Count,Persons,45-54,15,85,0.17647058823529413
+E36006415,Gorse Hill,Claimant count by ward,2019-09-01,Count,Persons,45-54,55,340,0.16176470588235295
+E36006416,Hale Barns,Claimant count by ward,2019-09-01,Count,Persons,45-54,20,65,0.3076923076923077
+E36006417,Hale Central,Claimant count by ward,2019-09-01,Count,Persons,45-54,15,50,0.3
+E36006418,Longford,Claimant count by ward,2019-09-01,Count,Persons,45-54,65,315,0.20634920634920634
+E36006419,Priory,Claimant count by ward,2019-09-01,Count,Persons,45-54,25,115,0.21739130434782608
+E36006420,Sale Moor,Claimant count by ward,2019-09-01,Count,Persons,45-54,25,160,0.15625
+E36006421,St Mary's,Claimant count by ward,2019-09-01,Count,Persons,45-54,45,230,0.1956521739130435
+E36006422,Stretford,Claimant count by ward,2019-09-01,Count,Persons,45-54,65,300,0.21666666666666667
+E36006423,Timperley,Claimant count by ward,2019-09-01,Count,Persons,45-54,10,40,0.25
+E36006424,Urmston,Claimant count by ward,2019-09-01,Count,Persons,45-54,30,135,0.2222222222222222
+E36006425,Village,Claimant count by ward,2019-09-01,Count,Persons,45-54,25,145,0.1724137931034483
+E36006405,Altrincham,Claimant count by ward,2019-09-01,Count,Persons,55-64,20,120,0.16666666666666666
+E36006406,Ashton upon Mersey,Claimant count by ward,2019-09-01,Count,Persons,55-64,15,85,0.17647058823529413
+E36006407,Bowdon,Claimant count by ward,2019-09-01,Count,Persons,55-64,15,70,0.21428571428571427
+E36006408,Broadheath,Claimant count by ward,2019-09-01,Count,Persons,55-64,20,135,0.14814814814814814
+E36006409,Brooklands,Claimant count by ward,2019-09-01,Count,Persons,55-64,10,70,0.14285714285714285
+E36006410,Bucklow-St Martins,Claimant count by ward,2019-09-01,Count,Persons,55-64,50,340,0.14705882352941177
+E36006411,Clifford,Claimant count by ward,2019-09-01,Count,Persons,55-64,80,480,0.16666666666666666
+E36006412,Davyhulme East,Claimant count by ward,2019-09-01,Count,Persons,55-64,20,110,0.18181818181818182
+E36006413,Davyhulme West,Claimant count by ward,2019-09-01,Count,Persons,55-64,25,95,0.2631578947368421
+E36006414,Flixton,Claimant count by ward,2019-09-01,Count,Persons,55-64,10,85,0.11764705882352941
+E36006415,Gorse Hill,Claimant count by ward,2019-09-01,Count,Persons,55-64,45,340,0.1323529411764706
+E36006416,Hale Barns,Claimant count by ward,2019-09-01,Count,Persons,55-64,10,65,0.15384615384615385
+E36006417,Hale Central,Claimant count by ward,2019-09-01,Count,Persons,55-64,10,50,0.2
+E36006418,Longford,Claimant count by ward,2019-09-01,Count,Persons,55-64,50,315,0.15873015873015872
+E36006419,Priory,Claimant count by ward,2019-09-01,Count,Persons,55-64,15,115,0.13043478260869565
+E36006420,Sale Moor,Claimant count by ward,2019-09-01,Count,Persons,55-64,25,160,0.15625
+E36006421,St Mary's,Claimant count by ward,2019-09-01,Count,Persons,55-64,30,230,0.13043478260869565
+E36006422,Stretford,Claimant count by ward,2019-09-01,Count,Persons,55-64,40,300,0.13333333333333333
+E36006423,Timperley,Claimant count by ward,2019-09-01,Count,Persons,55-64,5,40,0.125
+E36006424,Urmston,Claimant count by ward,2019-09-01,Count,Persons,55-64,25,135,0.18518518518518517
+E36006425,Village,Claimant count by ward,2019-09-01,Count,Persons,55-64,15,145,0.10344827586206896
+E36006405,Altrincham,Claimant count by ward,2019-09-01,Count,Persons,65+,0,120,0
+E36006406,Ashton upon Mersey,Claimant count by ward,2019-09-01,Count,Persons,65+,0,85,0
+E36006407,Bowdon,Claimant count by ward,2019-09-01,Count,Persons,65+,0,70,0
+E36006408,Broadheath,Claimant count by ward,2019-09-01,Count,Persons,65+,0,135,0
+E36006409,Brooklands,Claimant count by ward,2019-09-01,Count,Persons,65+,0,70,0
+E36006410,Bucklow-St Martins,Claimant count by ward,2019-09-01,Count,Persons,65+,0,340,0
+E36006411,Clifford,Claimant count by ward,2019-09-01,Count,Persons,65+,5,480,0.010416666666666666
+E36006412,Davyhulme East,Claimant count by ward,2019-09-01,Count,Persons,65+,0,110,0
+E36006413,Davyhulme West,Claimant count by ward,2019-09-01,Count,Persons,65+,0,95,0
+E36006414,Flixton,Claimant count by ward,2019-09-01,Count,Persons,65+,0,85,0
+E36006415,Gorse Hill,Claimant count by ward,2019-09-01,Count,Persons,65+,5,340,0.014705882352941176
+E36006416,Hale Barns,Claimant count by ward,2019-09-01,Count,Persons,65+,0,65,0
+E36006417,Hale Central,Claimant count by ward,2019-09-01,Count,Persons,65+,0,50,0
+E36006418,Longford,Claimant count by ward,2019-09-01,Count,Persons,65+,0,315,0
+E36006419,Priory,Claimant count by ward,2019-09-01,Count,Persons,65+,0,115,0
+E36006420,Sale Moor,Claimant count by ward,2019-09-01,Count,Persons,65+,0,160,0
+E36006421,St Mary's,Claimant count by ward,2019-09-01,Count,Persons,65+,0,230,0
+E36006422,Stretford,Claimant count by ward,2019-09-01,Count,Persons,65+,0,300,0
+E36006423,Timperley,Claimant count by ward,2019-09-01,Count,Persons,65+,0,40,0
+E36006424,Urmston,Claimant count by ward,2019-09-01,Count,Persons,65+,0,135,0
+E36006425,Village,Claimant count by ward,2019-09-01,Count,Persons,65+,0,145,0

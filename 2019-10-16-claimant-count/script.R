@@ -28,7 +28,7 @@ df <- read_csv("http://www.nomisweb.co.uk/api/v01/dataset/NM_162_1.data.csv?geog
          indicator = "Claimant count by ward",
          measure = "Count",
          unit = "Persons") %>% 
-  select(area_code, area_name, indicator, period, measure, everything())
+  select(area_code, area_name, indicator, period, measure, unit, everything())
 
 
 # plot data ---------------------------
