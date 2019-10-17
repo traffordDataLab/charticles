@@ -44,8 +44,7 @@ ggplot(sf) +
        fill = NULL) +
   coord_sf(datum = NA) +
   theme_lab() +
-  theme(plot.margin = unit(rep(0, 4), "cm"),
-        plot.title = element_text(size = 16),
+  theme(plot.title = element_text(size = 16),
         legend.position = "right",
         legend.text = element_text(size = 10))
 
