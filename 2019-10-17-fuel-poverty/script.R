@@ -4,7 +4,7 @@
 # URL: https://www.gov.uk/government/statistics/sub-regional-fuel-poverty-data-2019
 # Licence: Open Government Licence 3.0
 
-library(tidyverse) ; library(httr) ; library(readxl)
+library(tidyverse) ; library(httr) ; library(readxl) ; library(sf) ; library(viridis)
 source("https://github.com/traffordDataLab/assets/raw/master/theme/ggplot2/theme_lab.R")
 
 # load data ---------------------------
@@ -44,7 +44,8 @@ ggplot(sf) +
        fill = NULL) +
   coord_sf(datum = NA) +
   theme_lab() +
-  theme(plot.title = element_text(size = 16),
+  theme(plot.margin = unit(rep(0, 4), "cm"),
+        plot.title = element_text(size = 16),
         legend.position = "right",
         legend.text = element_text(size = 10))
 
