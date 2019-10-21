@@ -9,5 +9,6 @@
 | `2019-10-16` | [Claimant count](https://www.trafforddatalab.io/charticles/2019-10-16-claimant-count) |
 | `2019-10-17` | [Fuel poverty](https://www.trafforddatalab.io/charticles/2019-10-17-fuel-poverty) |
 | `2019-10-18` | [Median house prices](https://www.trafforddatalab.io/charticles/2019-10-18-median-house-prices) |
+| `2019-10-21` | [Air pollution](https://www.trafforddatalab.io/charticles/2019-10-21-air-pollution) |
 
 
