@@ -11,4 +11,5 @@
 | `2019-10-18` | [Median house prices](https://www.trafforddatalab.io/charticles/2019-10-18-median-house-prices) |
 | `2019-10-21` | [Air pollution](https://www.trafforddatalab.io/charticles/2019-10-21-air-pollution) |
 | `2019-10-22` | [Electric vehicles](https://www.trafforddatalab.io/charticles/2019-10-22-electric-vehicles) |
+| `2019-10-23` | [Travel to work](https://www.trafforddatalab.io/charticles/2019-10-23-travel-to-work) |
 

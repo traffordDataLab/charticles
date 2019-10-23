@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 647.00 602.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    line, polyline, polygon, path, rect, circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMTQuMTd8NjMyLjgzfDU2My42Mnw2NS40NQ=='>
+    <rect x='14.17' y='65.45' width='618.65' height='498.17' />
+  </clipPath>
+</defs>
+<rect x='436.97' y='65.45' width='130.42' height='74.23' style='stroke-width: 0.38; stroke: #212121; stroke-linecap: butt; fill: #9467BD;' clip-path='url(#cpMTQuMTd8NjMyLjgzfDU2My42Mnw2NS40NQ==)' />
+<rect x='14.17' y='65.45' width='422.80' height='498.17' style='stroke-width: 0.38; stroke: #212121; stroke-linecap: butt; fill: #1F77B4;' clip-path='url(#cpMTQuMTd8NjMyLjgzfDU2My42Mnw2NS40NQ==)' />
+<rect x='603.21' y='65.45' width='29.62' height='47.09' style='stroke-width: 0.38; stroke: #212121; stroke-linecap: butt; fill: #7F7F7F;' clip-path='url(#cpMTQuMTd8NjMyLjgzfDU2My42Mnw2NS40NQ==)' />
+<rect x='567.39' y='112.54' width='65.44' height='27.14' style='stroke-width: 0.38; stroke: #212121; stroke-linecap: butt; fill: #8C564B;' clip-path='url(#cpMTQuMTd8NjMyLjgzfDU2My42Mnw2NS40NQ==)' />
+<rect x='436.97' y='352.65' width='195.86' height='210.97' style='stroke-width: 0.38; stroke: #212121; stroke-linecap: butt; fill: #FF7F0E;' clip-path='url(#cpMTQuMTd8NjMyLjgzfDU2My42Mnw2NS40NQ==)' />
+<rect x='567.39' y='65.45' width='35.82' height='47.09' style='stroke-width: 0.38; stroke: #212121; stroke-linecap: butt; fill: #E377C2;' clip-path='url(#cpMTQuMTd8NjMyLjgzfDU2My42Mnw2NS40NQ==)' />
+<rect x='436.97' y='226.51' width='195.86' height='126.14' style='stroke-width: 0.38; stroke: #212121; stroke-linecap: butt; fill: #2CA02C;' clip-path='url(#cpMTQuMTd8NjMyLjgzfDU2My42Mnw2NS40NQ==)' />
+<rect x='436.97' y='139.68' width='195.86' height='86.83' style='stroke-width: 0.38; stroke: #212121; stroke-linecap: butt; fill: #D62728;' clip-path='url(#cpMTQuMTd8NjMyLjgzfDU2My42Mnw2NS40NQ==)' />
+<g clip-path='url(#cpMTQuMTd8NjMyLjgzfDU2My42Mnw2NS40NQ==)'><text x='441.22' y='134.01' style='font-size: 14.00px; fill: #FFFFFF; font-family: Arial;' textLength='66.92px' lengthAdjust='spacingAndGlyphs'>Bike: 3.1%</text></g>
+<g clip-path='url(#cpMTQuMTd8NjMyLjgzfDU2My42Mnw2NS40NQ==)'><text x='18.43' y='557.95' style='font-size: 14.00px; fill: #FFFFFF; font-family: Arial;' textLength='112.83px' lengthAdjust='spacingAndGlyphs'>Car or van: 68.3%</text></g>
+<g clip-path='url(#cpMTQuMTd8NjMyLjgzfDU2My42Mnw2NS40NQ==)'><text x='607.46' y='89.03' style='font-size: 4.13px; fill: #FFFFFF; font-family: Arial;' textLength='20.45px' lengthAdjust='spacingAndGlyphs'>Motorcycle,</text></g>
+<g clip-path='url(#cpMTQuMTd8NjMyLjgzfDU2My42Mnw2NS40NQ==)'><text x='607.46' y='93.49' style='font-size: 4.13px; fill: #FFFFFF; font-family: Arial;' textLength='13.12px' lengthAdjust='spacingAndGlyphs'>scooter</text></g>
+<g clip-path='url(#cpMTQuMTd8NjMyLjgzfDU2My42Mnw2NS40NQ==)'><text x='607.46' y='97.95' style='font-size: 4.13px; fill: #FFFFFF; font-family: Arial;' textLength='3.56px' lengthAdjust='spacingAndGlyphs'>or</text></g>
+<g clip-path='url(#cpMTQuMTd8NjMyLjgzfDU2My42Mnw2NS40NQ==)'><text x='607.46' y='102.41' style='font-size: 4.13px; fill: #FFFFFF; font-family: Arial;' textLength='13.34px' lengthAdjust='spacingAndGlyphs'>moped:</text></g>
+<g clip-path='url(#cpMTQuMTd8NjMyLjgzfDU2My42Mnw2NS40NQ==)'><text x='607.46' y='106.87' style='font-size: 4.13px; fill: #FFFFFF; font-family: Arial;' textLength='9.12px' lengthAdjust='spacingAndGlyphs'>0.5%</text></g>
+<g clip-path='url(#cpMTQuMTd8NjMyLjgzfDU2My42Mnw2NS40NQ==)'><text x='571.64' y='122.14' style='font-size: 5.49px; fill: #FFFFFF; font-family: Arial;' textLength='43.36px' lengthAdjust='spacingAndGlyphs'>Other method of</text></g>
+<g clip-path='url(#cpMTQuMTd8NjMyLjgzfDU2My42Mnw2NS40NQ==)'><text x='571.64' y='128.08' style='font-size: 5.49px; fill: #FFFFFF; font-family: Arial;' textLength='37.34px' lengthAdjust='spacingAndGlyphs'>travel to work:</text></g>
+<g clip-path='url(#cpMTQuMTd8NjMyLjgzfDU2My42Mnw2NS40NQ==)'><text x='571.64' y='134.01' style='font-size: 5.49px; fill: #FFFFFF; font-family: Arial;' textLength='13.68px' lengthAdjust='spacingAndGlyphs'>0.6%</text></g>
+<g clip-path='url(#cpMTQuMTd8NjMyLjgzfDU2My42Mnw2NS40NQ==)'><text x='441.22' y='557.95' style='font-size: 14.00px; fill: #FFFFFF; font-family: Arial;' textLength='144.74px' lengthAdjust='spacingAndGlyphs'>Public transport: 13.4%</text></g>
+<g clip-path='url(#cpMTQuMTd8NjMyLjgzfDU2My42Mnw2NS40NQ==)'><text x='571.64' y='93.93' style='font-size: 11.98px; fill: #FFFFFF; font-family: Arial;' textLength='26.00px' lengthAdjust='spacingAndGlyphs'>Taxi:</text></g>
+<g clip-path='url(#cpMTQuMTd8NjMyLjgzfDU2My42Mnw2NS40NQ==)'><text x='571.64' y='106.87' style='font-size: 11.98px; fill: #FFFFFF; font-family: Arial;' textLength='27.35px' lengthAdjust='spacingAndGlyphs'>0.5%</text></g>
+<g clip-path='url(#cpMTQuMTd8NjMyLjgzfDU2My42Mnw2NS40NQ==)'><text x='441.22' y='346.98' style='font-size: 14.00px; fill: #FFFFFF; font-family: Arial;' textLength='89.48px' lengthAdjust='spacingAndGlyphs'>Walking: 8.0%</text></g>
+<g clip-path='url(#cpMTQuMTd8NjMyLjgzfDU2My42Mnw2NS40NQ==)'><text x='441.22' y='205.72' style='font-size: 14.00px; fill: #FFFFFF; font-family: Arial;' textLength='183.60px' lengthAdjust='spacingAndGlyphs'>Work mainly at or from home:</text></g>
+<g clip-path='url(#cpMTQuMTd8NjMyLjgzfDU2My42Mnw2NS40NQ==)'><text x='441.22' y='220.84' style='font-size: 14.00px; fill: #FFFFFF; font-family: Arial;' textLength='31.91px' lengthAdjust='spacingAndGlyphs'>5.5%</text></g>
+<defs>
+  <clipPath id='cpMC4wMHw2NDcuMDB8NjAyLjAwfDAuMDA='>
+    <rect x='0.00' y='0.00' width='647.00' height='602.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw2NDcuMDB8NjAyLjAwfDAuMDA=)'><text x='14.17' y='54.80' style='font-size: 16.00px; fill: #757575; font-family: Arial;' textLength='100.50px' lengthAdjust='spacingAndGlyphs'>Trafford, 2011</text></g>
+<g clip-path='url(#cpMC4wMHw2NDcuMDB8NjAyLjAwfDAuMDA=)'><text x='14.17' y='30.59' style='font-size: 20.00px; font-weight: bold; fill: #757575; font-family: Arial;' textLength='405.58px' lengthAdjust='spacingAndGlyphs'>Commuting journeys by mode of transport</text></g>
+<g clip-path='url(#cpMC4wMHw2NDcuMDB8NjAyLjAwfDAuMDA=)'><text x='536.65' y='586.77' style='font-size: 10.00px; fill: #7F7F7F; font-family: Arial;' textLength='96.17px' lengthAdjust='spacingAndGlyphs'>Source: 2011 Census</text></g>
+</svg>

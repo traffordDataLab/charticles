@@ -1,0 +1,9 @@
+area_code,area_name,indicator,period,measure,unit,value,group
+E08000009,Trafford,Commuting journeys by mode of transport,2011-03-27,Proportion,Persons,0.03141229082515869,Bike
+E08000009,Trafford,Commuting journeys by mode of transport,2011-03-27,Proportion,Persons,0.6834156809001731,Car or van
+E08000009,Trafford,Commuting journeys by mode of transport,2011-03-27,Proportion,Persons,0.004526110790536642,"Motorcycle, scooter or moped"
+E08000009,Trafford,Commuting journeys by mode of transport,2011-03-27,Proportion,Persons,0.0057613242931332945,Other method of travel to work
+E08000009,Trafford,Commuting journeys by mode of transport,2011-03-27,Proportion,Persons,0.1340702538949798,Public transport
+E08000009,Trafford,Commuting journeys by mode of transport,2011-03-27,Proportion,Persons,0.005472807270628967,Taxi
+E08000009,Trafford,Commuting journeys by mode of transport,2011-03-27,Proportion,Persons,0.08016265147143682,Walking
+E08000009,Trafford,Commuting journeys by mode of transport,2011-03-27,Proportion,Persons,0.05517888055395268,Work mainly at or from home
