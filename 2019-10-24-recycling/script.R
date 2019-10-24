@@ -48,7 +48,7 @@ ggplot(filter(df, period %in% c("2010-11", "2017-18"))) +
                       guide = guide_legend(reverse = TRUE)) +
   labs(x = NULL, y = NULL,
        title = "Household waste sent for recycling",
-       subtitle = "", caption = "Source: DEFRA",
+       subtitle = "", caption = "Source: DEFRA | @traffordDataLab",
        colour = NULL) +
   theme_lab() +
   theme(panel.grid.major.y = element_blank(),

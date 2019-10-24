@@ -40,7 +40,7 @@ ggplot(df, aes(x = period, y = value)) +
   labs(x = NULL, y = NULL,
        title = "Number of licensed electric vehicles in Trafford",
        subtitle = NULL,
-       caption = "Source: DfT and DVLA") +
+       caption = "Source: DfT and DVLA | @traffordDataLab") +
   theme_lab() 
 
 # write data ---------------------------

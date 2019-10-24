@@ -42,7 +42,7 @@ ggplot(temp,
   labs(x = NULL, y = NULL, 
        title = "Commuting journeys by mode of transport",
        subtitle = "Trafford, 2011",
-       caption = "Source: 2011 Census") +
+       caption = "Source: 2011 Census | @traffordDataLab") +
   theme_lab() +
   theme(legend.position = "none") 
 

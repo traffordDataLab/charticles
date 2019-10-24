@@ -70,7 +70,7 @@ ggplot(sf) +
   labs(x = NULL, y = NULL,
        title = "Median house prices in Trafford's wards, 2018",
        subtitle = NULL,
-       caption = "Source: Office for National Statistics \n Contains Ordnance Survey data © Crown copyright and database right 2019",
+       caption = "Source: Office for National Statistics | @traffordDataLab\n Contains Ordnance Survey data © Crown copyright and database right 2019",
        fill = NULL) +
   coord_sf(datum = NA) +
   theme_lab() +

@@ -39,7 +39,7 @@ df %>%
   labs(
     title = "Employment rate",
     subtitle = NULL,
-    caption = "Source: Annual Population Survey",
+    caption = "Source: Annual Population Survey | @traffordDataLab",
     x = "12 months ending",
     y = "Percentage",
     colour = NULL

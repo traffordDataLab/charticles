@@ -40,7 +40,7 @@ ggplot(df, aes(x = area_name, y = percent, width = total, fill = ageband)) +
   labs(x = NULL, y = NULL, 
        title = "Age profile of Trafford's Universal Credit and JSA claimants",
        subtitle = as.yearmon(unique(df$period)),
-       caption = "Source: Department for Work and Pensions",
+       caption = "Source: Department for Work and Pensions | @traffordDataLab",
        fill = NULL) +
   theme_lab() +
   theme(

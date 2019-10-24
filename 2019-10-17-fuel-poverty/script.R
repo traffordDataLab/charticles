@@ -40,7 +40,7 @@ ggplot(sf) +
   labs(x = NULL, y = NULL,
        title = "Proportion of households in fuel poverty",
        subtitle = "Trafford, 2017",
-       caption = "Source: BEIS \n Contains Ordnance Survey data © Crown copyright and database right 2019",
+       caption = "Source: BEIS | @traffordDataLab\n Contains Ordnance Survey data © Crown copyright and database right 2019",
        fill = NULL) +
   coord_sf(datum = NA) +
   theme_lab() +

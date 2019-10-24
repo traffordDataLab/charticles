@@ -37,10 +37,10 @@ ggplot(df, aes(x = period, y = mean)) +
   annotate(geom = "text", x = Sys.Date()-50, y = 50, 
            label = "Legal limit (35 exceedances allowed)", fontface = "bold", vjust = 2) +
   scale_x_date(breaks = df$period, date_labels = "%b", date_breaks = "1 month") +
-  scale_y_continuous(limits = c(0, max(readings$mean))) +
+  scale_y_continuous(limits = c(0, max(df$mean))) +
   labs(title = expression(bold(paste("24-hour mean ", PM[10], " concentrations"))),
        subtitle = paste0(sum(df$mean >= 50, na.rm = TRUE), " exceedances at Trafford A56 over last 12 months"),
-       caption = "Source: Trafford Council / Ricardo EE",
+       caption = "Source: Trafford Council / Ricardo EE | @traffordDataLab",
        x = "",
        y = "µg/m³") +
   theme_lab()

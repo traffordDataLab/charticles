@@ -56,7 +56,7 @@ ggplot() +
   coord_flip() +
   labs(x = NULL, y = NULL, 
        title = "Age composition of Trafford, mid-2018",
-       caption = "Source: Office for National Statistics",
+       caption = "Source: Office for National Statistics | @traffordDataLab",
        tag = "mid-2028\nprojection") +
   theme_minimal() +
   theme(plot.margin = unit(c(1,1,1,1), "cm"),
