@@ -13,4 +13,5 @@
 | `2019-10-22` | [Electric vehicles](https://www.trafforddatalab.io/charticles/2019-10-22-electric-vehicles) |
 | `2019-10-23` | [Travel to work](https://www.trafforddatalab.io/charticles/2019-10-23-travel-to-work) |
 | `2019-10-24` | [Recycling](https://www.trafforddatalab.io/charticles/2019-10-24-recycling) |
+| `2019-10-25` | [Green belt](https://www.trafforddatalab.io/charticles/2019-10-25-green-belt) |
 
