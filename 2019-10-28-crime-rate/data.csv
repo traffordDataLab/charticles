@@ -1,0 +1,19 @@
+area_name,indicator,period,measure,unit,value,group
+Greater Manchester,Police recorded crime,Year ending 2019-06,Rate,Crimes,10.081530444230879,Violence with injury
+Trafford,Police recorded crime,Year ending 2019-06,Rate,Crimes,6.413673478021745,Violence with injury
+Greater Manchester,Police recorded crime,Year ending 2019-06,Rate,Crimes,15.810456561243475,Violence without injury
+Trafford,Police recorded crime,Year ending 2019-06,Rate,Crimes,10.877014849600204,Violence without injury
+Greater Manchester,Police recorded crime,Year ending 2019-06,Rate,Crimes,3.385872488817163,Sexual offences
+Trafford,Police recorded crime,Year ending 2019-06,Rate,Crimes,2.288784532724119,Sexual offences
+Greater Manchester,Police recorded crime,Year ending 2019-06,Rate,Crimes,2.6367353120936765,Robbery
+Trafford,Police recorded crime,Year ending 2019-06,Rate,Crimes,2.0857130769556207,Robbery
+Greater Manchester,Police recorded crime,Year ending 2019-06,Rate,Crimes,18.109517589891105,Domestic burglary
+Trafford,Police recorded crime,Year ending 2019-06,Rate,Crimes,15.279540272576268,Domestic burglary
+Greater Manchester,Police recorded crime,Year ending 2019-06,Rate,Crimes,1.395165771933062,Bicycle theft
+Trafford,Police recorded crime,Year ending 2019-06,Rate,Crimes,1.4384228116935314,Bicycle theft
+Greater Manchester,Police recorded crime,Year ending 2019-06,Rate,Crimes,11.222835777540036,Vehicle offences
+Trafford,Police recorded crime,Year ending 2019-06,Rate,Crimes,6.989042602699158,Vehicle offences
+Greater Manchester,Police recorded crime,Year ending 2019-06,Rate,Crimes,12.200234020925352,Criminal damage and arson
+Trafford,Police recorded crime,Year ending 2019-06,Rate,Crimes,7.716715319202945,Criminal damage and arson
+Greater Manchester,Police recorded crime,Year ending 2019-06,Rate,Crimes,14.457956409247204,Public order offences
+Trafford,Police recorded crime,Year ending 2019-06,Rate,Crimes,11.405846765664002,Public order offences

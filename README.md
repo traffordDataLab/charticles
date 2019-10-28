@@ -14,4 +14,5 @@
 | `2019-10-23` | [Travel to work](https://www.trafforddatalab.io/charticles/2019-10-23-travel-to-work) |
 | `2019-10-24` | [Recycling](https://www.trafforddatalab.io/charticles/2019-10-24-recycling) |
 | `2019-10-25` | [Green belt](https://www.trafforddatalab.io/charticles/2019-10-25-green-belt) |
+| `2019-10-28` | [Crime rate](https://www.trafforddatalab.io/charticles/2019-10-28-crime-rate) |
 
