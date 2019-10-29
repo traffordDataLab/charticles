@@ -15,4 +15,4 @@
 | `2019-10-24` | [Recycling](https://www.trafforddatalab.io/charticles/2019-10-24-recycling) |
 | `2019-10-25` | [Green belt](https://www.trafforddatalab.io/charticles/2019-10-25-green-belt) |
 | `2019-10-28` | [Crime rate](https://www.trafforddatalab.io/charticles/2019-10-28-crime-rate) |
-
+| `2019-10-29` | [Broadband speed](https://www.trafforddatalab.io/charticles/2019-10-29-broadband-speed) |
