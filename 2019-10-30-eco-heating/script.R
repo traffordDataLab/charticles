@@ -16,7 +16,7 @@ df <- read_xlsx(tmp, sheet = 20, skip = 4) %>%
   select(area_code = `Area Codes`,
          area_name = `Area names`,
          value = `Number of accredited installations`) %>% 
-  mutate(period = "2011-11 to 2019-09",
+  mutate(period = "2014-04 to 2019-09",
          value = case_when(value %in% c("#", "^") ~ "NA", TRUE ~ value),
          value = as.integer(value),
          indicator = "Domestic Renewable Heat Incentive",
@@ -31,7 +31,7 @@ ggplot(df, aes(x = fct_reorder(area_name, value), y = value)) +
             hjust = 1, size = 4, colour = "#212121") +
   labs(x = NULL, y = NULL,
        title = "Domestic Renewable Heat Incentive accreditations",
-       subtitle = "Greater Manchester, 2011-11 to 2019-09",
+       subtitle = "Greater Manchester, 2014-04 to 2019-09",
        caption = "Source: Ofgem | @traffordDataLab",
        fill = NULL) +
   theme_lab() +
