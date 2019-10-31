@@ -17,3 +17,4 @@
 | `2019-10-28` | [Crime rate](https://www.trafforddatalab.io/charticles/2019-10-28-crime-rate) |
 | `2019-10-29` | [Broadband speed](https://www.trafforddatalab.io/charticles/2019-10-29-broadband-speed) |
 | `2019-10-30` | [Eco-heating](https://www.trafforddatalab.io/charticles/2019-10-30-eco-heating) |
+| `2019-10-31` | [GVA](https://www.trafforddatalab.io/charticles/2019-10-31-gva) |
