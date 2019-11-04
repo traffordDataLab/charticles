@@ -1,0 +1,28 @@
+area_code,area_name,indicator,period,measure,unit,value,group
+E08000009,Trafford,Number of businesses,2019,Count,Enterprises by employment size band,9135,0 to 4
+E08000009,Trafford,Number of businesses,2019,Count,Enterprises by employment size band,1165,5 to 9
+E08000009,Trafford,Number of businesses,2019,Count,Enterprises by employment size band,620,10 to 19
+E08000009,Trafford,Number of businesses,2019,Count,Enterprises by employment size band,360,20 to 49
+E08000009,Trafford,Number of businesses,2019,Count,Enterprises by employment size band,140,50 to 99
+E08000009,Trafford,Number of businesses,2019,Count,Enterprises by employment size band,65,100 to 249
+E08000009,Trafford,Number of businesses,2019,Count,Enterprises by employment size band,25,250 to 499
+E08000009,Trafford,Number of businesses,2019,Count,Enterprises by employment size band,20,500 to 999
+E08000009,Trafford,Number of businesses,2019,Count,Enterprises by employment size band,15,1000+
+E47000001,Greater Manchester,Number of businesses,2019,Count,Enterprises by employment size band,80145,0 to 4
+E47000001,Greater Manchester,Number of businesses,2019,Count,Enterprises by employment size band,12415,5 to 9
+E47000001,Greater Manchester,Number of businesses,2019,Count,Enterprises by employment size band,6160,10 to 19
+E47000001,Greater Manchester,Number of businesses,2019,Count,Enterprises by employment size band,3255,20 to 49
+E47000001,Greater Manchester,Number of businesses,2019,Count,Enterprises by employment size band,1125,50 to 99
+E47000001,Greater Manchester,Number of businesses,2019,Count,Enterprises by employment size band,585,100 to 249
+E47000001,Greater Manchester,Number of businesses,2019,Count,Enterprises by employment size band,205,250 to 499
+E47000001,Greater Manchester,Number of businesses,2019,Count,Enterprises by employment size band,115,500 to 999
+E47000001,Greater Manchester,Number of businesses,2019,Count,Enterprises by employment size band,110,1000+
+E92000001,England,Number of businesses,2019,Count,Enterprises by employment size band,1854115,0 to 4
+E92000001,England,Number of businesses,2019,Count,Enterprises by employment size band,260850,5 to 9
+E92000001,England,Number of businesses,2019,Count,Enterprises by employment size band,130720,10 to 19
+E92000001,England,Number of businesses,2019,Count,Enterprises by employment size band,69345,20 to 49
+E92000001,England,Number of businesses,2019,Count,Enterprises by employment size band,23350,50 to 99
+E92000001,England,Number of businesses,2019,Count,Enterprises by employment size band,13150,100 to 249
+E92000001,England,Number of businesses,2019,Count,Enterprises by employment size band,4510,250 to 499
+E92000001,England,Number of businesses,2019,Count,Enterprises by employment size band,2310,500 to 999
+E92000001,England,Number of businesses,2019,Count,Enterprises by employment size band,2430,1000+

@@ -19,3 +19,4 @@
 | `2019-10-30` | [Eco-heating](https://www.trafforddatalab.io/charticles/2019-10-30-eco-heating) |
 | `2019-10-31` | [GVA](https://www.trafforddatalab.io/charticles/2019-10-31-gva) |
 | `2019-11-01` | [Relative deprivation](https://www.trafforddatalab.io/charticles/2019-11-01-relative-deprivation) |
+| `2019-11-04` | [Businesses](https://www.trafforddatalab.io/charticles/2019-11-04-businesses) |
