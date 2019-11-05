@@ -1,0 +1,157 @@
+area_code,area_name,indicator,period,measure,unit,value,group
+NA,England,CO₂ emissions,2005-01-01,CO₂,CO₂ (kt),126251.61485994303,Domestic
+NA,England,CO₂ emissions,2005-01-01,CO₂,CO₂ (kt),191965.8948382747,Industry and commercial
+NA,England,CO₂ emissions,2005-01-01,CO₂,CO₂ (kt),114857.87162208172,Transport
+NA,England,CO₂ emissions,2005-01-01,CO₂,CO₂ (kt),429976.1469839661,All sectors
+E47000001,Greater Manchester,CO₂ emissions,2005-01-01,CO₂,CO₂ (kt),18405.582480356385,All sectors
+E47000001,Greater Manchester,CO₂ emissions,2005-01-01,CO₂,CO₂ (kt),6375.4916625099095,Domestic
+E47000001,Greater Manchester,CO₂ emissions,2005-01-01,CO₂,CO₂ (kt),6901.0914108697325,Industry and commercial
+E47000001,Greater Manchester,CO₂ emissions,2005-01-01,CO₂,CO₂ (kt),5077.625436281714,Transport
+E08000009,Trafford,CO₂ emissions,2005-01-01,CO₂,CO₂ (kt),579.6695394448834,Domestic
+E08000009,Trafford,CO₂ emissions,2005-01-01,CO₂,CO₂ (kt),1151.9912383026096,Industry and commercial
+E08000009,Trafford,CO₂ emissions,2005-01-01,CO₂,CO₂ (kt),419.449892032319,Transport
+E08000009,Trafford,CO₂ emissions,2005-01-01,CO₂,CO₂ (kt),2156.013699933271,All sectors
+NA,England,CO₂ emissions,2006-01-01,CO₂,CO₂ (kt),126024.32075880817,Domestic
+NA,England,CO₂ emissions,2006-01-01,CO₂,CO₂ (kt),191615.8211586773,Industry and commercial
+NA,England,CO₂ emissions,2006-01-01,CO₂,CO₂ (kt),113842.64428040414,Transport
+NA,England,CO₂ emissions,2006-01-01,CO₂,CO₂ (kt),428011.57679780474,All sectors
+E47000001,Greater Manchester,CO₂ emissions,2006-01-01,CO₂,CO₂ (kt),18423.061196374983,All sectors
+E47000001,Greater Manchester,CO₂ emissions,2006-01-01,CO₂,CO₂ (kt),6351.479569550043,Domestic
+E47000001,Greater Manchester,CO₂ emissions,2006-01-01,CO₂,CO₂ (kt),7052.705653754184,Industry and commercial
+E47000001,Greater Manchester,CO₂ emissions,2006-01-01,CO₂,CO₂ (kt),4971.571561195221,Transport
+E08000009,Trafford,CO₂ emissions,2006-01-01,CO₂,CO₂ (kt),582.6190260432387,Domestic
+E08000009,Trafford,CO₂ emissions,2006-01-01,CO₂,CO₂ (kt),1170.3473470926222,Industry and commercial
+E08000009,Trafford,CO₂ emissions,2006-01-01,CO₂,CO₂ (kt),409.70463816751766,Transport
+E08000009,Trafford,CO₂ emissions,2006-01-01,CO₂,CO₂ (kt),2167.3843930581324,All sectors
+NA,England,CO₂ emissions,2007-01-01,CO₂,CO₂ (kt),122021.9998513903,Domestic
+NA,England,CO₂ emissions,2007-01-01,CO₂,CO₂ (kt),185446.16963099304,Industry and commercial
+NA,England,CO₂ emissions,2007-01-01,CO₂,CO₂ (kt),114528.04190440144,Transport
+NA,England,CO₂ emissions,2007-01-01,CO₂,CO₂ (kt),418171.48752266157,All sectors
+E47000001,Greater Manchester,CO₂ emissions,2007-01-01,CO₂,CO₂ (kt),17832.977520415727,All sectors
+E47000001,Greater Manchester,CO₂ emissions,2007-01-01,CO₂,CO₂ (kt),6149.4651369722005,Domestic
+E47000001,Greater Manchester,CO₂ emissions,2007-01-01,CO₂,CO₂ (kt),6648.096576373807,Industry and commercial
+E47000001,Greater Manchester,CO₂ emissions,2007-01-01,CO₂,CO₂ (kt),4992.682310594245,Transport
+E08000009,Trafford,CO₂ emissions,2007-01-01,CO₂,CO₂ (kt),558.2742438586656,Domestic
+E08000009,Trafford,CO₂ emissions,2007-01-01,CO₂,CO₂ (kt),1114.0196711788349,Industry and commercial
+E08000009,Trafford,CO₂ emissions,2007-01-01,CO₂,CO₂ (kt),408.19917741143706,Transport
+E08000009,Trafford,CO₂ emissions,2007-01-01,CO₂,CO₂ (kt),2085.026564645524,All sectors
+NA,England,CO₂ emissions,2008-01-01,CO₂,CO₂ (kt),122153.72748713127,Domestic
+NA,England,CO₂ emissions,2008-01-01,CO₂,CO₂ (kt),179757.15298181062,Industry and commercial
+NA,England,CO₂ emissions,2008-01-01,CO₂,CO₂ (kt),109529.71920279162,Transport
+NA,England,CO₂ emissions,2008-01-01,CO₂,CO₂ (kt),407366.42231094535,All sectors
+E47000001,Greater Manchester,CO₂ emissions,2008-01-01,CO₂,CO₂ (kt),17556.59361698167,All sectors
+E47000001,Greater Manchester,CO₂ emissions,2008-01-01,CO₂,CO₂ (kt),6132.183703566814,Domestic
+E47000001,Greater Manchester,CO₂ emissions,2008-01-01,CO₂,CO₂ (kt),6623.30775619468,Industry and commercial
+E47000001,Greater Manchester,CO₂ emissions,2008-01-01,CO₂,CO₂ (kt),4762.739541121049,Transport
+E08000009,Trafford,CO₂ emissions,2008-01-01,CO₂,CO₂ (kt),558.6925752339675,Domestic
+E08000009,Trafford,CO₂ emissions,2008-01-01,CO₂,CO₂ (kt),1115.9132078567145,Industry and commercial
+E08000009,Trafford,CO₂ emissions,2008-01-01,CO₂,CO₂ (kt),391.71875462177167,Transport
+E08000009,Trafford,CO₂ emissions,2008-01-01,CO₂,CO₂ (kt),2070.7403979735864,All sectors
+NA,England,CO₂ emissions,2009-01-01,CO₂,CO₂ (kt),111066.6628436311,Domestic
+NA,England,CO₂ emissions,2009-01-01,CO₂,CO₂ (kt),154525.32934405105,Industry and commercial
+NA,England,CO₂ emissions,2009-01-01,CO₂,CO₂ (kt),106107.09117630217,Transport
+NA,England,CO₂ emissions,2009-01-01,CO₂,CO₂ (kt),367680.1308431129,All sectors
+E47000001,Greater Manchester,CO₂ emissions,2009-01-01,CO₂,CO₂ (kt),15918.663405496502,All sectors
+E47000001,Greater Manchester,CO₂ emissions,2009-01-01,CO₂,CO₂ (kt),5545.616404977478,Domestic
+E47000001,Greater Manchester,CO₂ emissions,2009-01-01,CO₂,CO₂ (kt),5670.035737250541,Industry and commercial
+E47000001,Greater Manchester,CO₂ emissions,2009-01-01,CO₂,CO₂ (kt),4665.4961169538865,Transport
+E08000009,Trafford,CO₂ emissions,2009-01-01,CO₂,CO₂ (kt),507.51712551145107,Domestic
+E08000009,Trafford,CO₂ emissions,2009-01-01,CO₂,CO₂ (kt),1053.8144287610385,Industry and commercial
+E08000009,Trafford,CO₂ emissions,2009-01-01,CO₂,CO₂ (kt),380.3087037695405,Transport
+E08000009,Trafford,CO₂ emissions,2009-01-01,CO₂,CO₂ (kt),1946.002721868453,All sectors
+NA,England,CO₂ emissions,2010-01-01,CO₂,CO₂ (kt),119083.88364686564,Domestic
+NA,England,CO₂ emissions,2010-01-01,CO₂,CO₂ (kt),160310.89581272876,Industry and commercial
+NA,England,CO₂ emissions,2010-01-01,CO₂,CO₂ (kt),105194.40597953596,Transport
+NA,England,CO₂ emissions,2010-01-01,CO₂,CO₂ (kt),380322.86172009975,All sectors
+E47000001,Greater Manchester,CO₂ emissions,2010-01-01,CO₂,CO₂ (kt),16633.756842761744,All sectors
+E47000001,Greater Manchester,CO₂ emissions,2010-01-01,CO₂,CO₂ (kt),5868.079261882186,Domestic
+E47000001,Greater Manchester,CO₂ emissions,2010-01-01,CO₂,CO₂ (kt),6120.206325598878,Industry and commercial
+E47000001,Greater Manchester,CO₂ emissions,2010-01-01,CO₂,CO₂ (kt),4608.125637196453,Transport
+E08000009,Trafford,CO₂ emissions,2010-01-01,CO₂,CO₂ (kt),541.227878674241,Domestic
+E08000009,Trafford,CO₂ emissions,2010-01-01,CO₂,CO₂ (kt),1148.8815888584486,Industry and commercial
+E08000009,Trafford,CO₂ emissions,2010-01-01,CO₂,CO₂ (kt),375.7645288356522,Transport
+E08000009,Trafford,CO₂ emissions,2010-01-01,CO₂,CO₂ (kt),2070.0861036054057,All sectors
+NA,England,CO₂ emissions,2011-01-01,CO₂,CO₂ (kt),104136.42966924957,Domestic
+NA,England,CO₂ emissions,2011-01-01,CO₂,CO₂ (kt),145030.34322016942,Industry and commercial
+NA,England,CO₂ emissions,2011-01-01,CO₂,CO₂ (kt),103502.23194089973,Transport
+NA,England,CO₂ emissions,2011-01-01,CO₂,CO₂ (kt),348226.3592117548,All sectors
+E47000001,Greater Manchester,CO₂ emissions,2011-01-01,CO₂,CO₂ (kt),14930.656896144845,All sectors
+E47000001,Greater Manchester,CO₂ emissions,2011-01-01,CO₂,CO₂ (kt),5140.496787238624,Domestic
+E47000001,Greater Manchester,CO₂ emissions,2011-01-01,CO₂,CO₂ (kt),5231.405969103461,Industry and commercial
+E47000001,Greater Manchester,CO₂ emissions,2011-01-01,CO₂,CO₂ (kt),4523.465510197311,Transport
+E08000009,Trafford,CO₂ emissions,2011-01-01,CO₂,CO₂ (kt),470.72554207663586,Domestic
+E08000009,Trafford,CO₂ emissions,2011-01-01,CO₂,CO₂ (kt),916.286978898385,Industry and commercial
+E08000009,Trafford,CO₂ emissions,2011-01-01,CO₂,CO₂ (kt),369.37334532107235,Transport
+E08000009,Trafford,CO₂ emissions,2011-01-01,CO₂,CO₂ (kt),1760.4645428470394,All sectors
+NA,England,CO₂ emissions,2012-01-01,CO₂,CO₂ (kt),111765.00167149282,Domestic
+NA,England,CO₂ emissions,2012-01-01,CO₂,CO₂ (kt),156351.7531134595,Industry and commercial
+NA,England,CO₂ emissions,2012-01-01,CO₂,CO₂ (kt),102268.26265473003,Transport
+NA,England,CO₂ emissions,2012-01-01,CO₂,CO₂ (kt),366120.75054844335,All sectors
+E47000001,Greater Manchester,CO₂ emissions,2012-01-01,CO₂,CO₂ (kt),16010.959305832728,All sectors
+E47000001,Greater Manchester,CO₂ emissions,2012-01-01,CO₂,CO₂ (kt),5507.9704796996775,Domestic
+E47000001,Greater Manchester,CO₂ emissions,2012-01-01,CO₂,CO₂ (kt),6010.046806094257,Industry and commercial
+E47000001,Greater Manchester,CO₂ emissions,2012-01-01,CO₂,CO₂ (kt),4458.9797731409735,Transport
+E08000009,Trafford,CO₂ emissions,2012-01-01,CO₂,CO₂ (kt),510.9296205068704,Domestic
+E08000009,Trafford,CO₂ emissions,2012-01-01,CO₂,CO₂ (kt),1119.522290972829,Industry and commercial
+E08000009,Trafford,CO₂ emissions,2012-01-01,CO₂,CO₂ (kt),369.2370952188709,Transport
+E08000009,Trafford,CO₂ emissions,2012-01-01,CO₂,CO₂ (kt),2003.6760435183123,All sectors
+NA,England,CO₂ emissions,2013-01-01,CO₂,CO₂ (kt),109252.79539780479,Domestic
+NA,England,CO₂ emissions,2013-01-01,CO₂,CO₂ (kt),150985.70680029053,Industry and commercial
+NA,England,CO₂ emissions,2013-01-01,CO₂,CO₂ (kt),101403.09525408737,Transport
+NA,England,CO₂ emissions,2013-01-01,CO₂,CO₂ (kt),357006.55871083215,All sectors
+E47000001,Greater Manchester,CO₂ emissions,2013-01-01,CO₂,CO₂ (kt),15497.786236677346,All sectors
+E47000001,Greater Manchester,CO₂ emissions,2013-01-01,CO₂,CO₂ (kt),5386.84182686739,Domestic
+E47000001,Greater Manchester,CO₂ emissions,2013-01-01,CO₂,CO₂ (kt),5692.216922081689,Industry and commercial
+E47000001,Greater Manchester,CO₂ emissions,2013-01-01,CO₂,CO₂ (kt),4382.960354546927,Transport
+E08000009,Trafford,CO₂ emissions,2013-01-01,CO₂,CO₂ (kt),501.2856753346954,Domestic
+E08000009,Trafford,CO₂ emissions,2013-01-01,CO₂,CO₂ (kt),1086.1106373632665,Industry and commercial
+E08000009,Trafford,CO₂ emissions,2013-01-01,CO₂,CO₂ (kt),363.9319808977888,Transport
+E08000009,Trafford,CO₂ emissions,2013-01-01,CO₂,CO₂ (kt),1955.1572991386358,All sectors
+NA,England,CO₂ emissions,2014-01-01,CO₂,CO₂ (kt),92106.16977001922,Domestic
+NA,England,CO₂ emissions,2014-01-01,CO₂,CO₂ (kt),131970.48269272095,Industry and commercial
+NA,England,CO₂ emissions,2014-01-01,CO₂,CO₂ (kt),102674.67105787792,Transport
+NA,England,CO₂ emissions,2014-01-01,CO₂,CO₂ (kt),321881.98276463186,All sectors
+E47000001,Greater Manchester,CO₂ emissions,2014-01-01,CO₂,CO₂ (kt),13590.466798583324,All sectors
+E47000001,Greater Manchester,CO₂ emissions,2014-01-01,CO₂,CO₂ (kt),4495.900867460232,Domestic
+E47000001,Greater Manchester,CO₂ emissions,2014-01-01,CO₂,CO₂ (kt),4662.5253230855915,Industry and commercial
+E47000001,Greater Manchester,CO₂ emissions,2014-01-01,CO₂,CO₂ (kt),4404.701184216286,Transport
+E08000009,Trafford,CO₂ emissions,2014-01-01,CO₂,CO₂ (kt),417.2541162935684,Domestic
+E08000009,Trafford,CO₂ emissions,2014-01-01,CO₂,CO₂ (kt),879.0540686878813,Industry and commercial
+E08000009,Trafford,CO₂ emissions,2014-01-01,CO₂,CO₂ (kt),370.3811655127514,Transport
+E08000009,Trafford,CO₂ emissions,2014-01-01,CO₂,CO₂ (kt),1670.4292582676787,All sectors
+NA,England,CO₂ emissions,2015-01-01,CO₂,CO₂ (kt),89452.00498451595,Domestic
+NA,England,CO₂ emissions,2015-01-01,CO₂,CO₂ (kt),124292.8121992807,Industry and commercial
+NA,England,CO₂ emissions,2015-01-01,CO₂,CO₂ (kt),104948.45803248152,Transport
+NA,England,CO₂ emissions,2015-01-01,CO₂,CO₂ (kt),313734.378237705,All sectors
+E47000001,Greater Manchester,CO₂ emissions,2015-01-01,CO₂,CO₂ (kt),13237.985766726933,All sectors
+E47000001,Greater Manchester,CO₂ emissions,2015-01-01,CO₂,CO₂ (kt),4345.121134730693,Domestic
+E47000001,Greater Manchester,CO₂ emissions,2015-01-01,CO₂,CO₂ (kt),4428.156186564186,Industry and commercial
+E47000001,Greater Manchester,CO₂ emissions,2015-01-01,CO₂,CO₂ (kt),4435.802916630036,Transport
+E08000009,Trafford,CO₂ emissions,2015-01-01,CO₂,CO₂ (kt),403.28485571208955,Domestic
+E08000009,Trafford,CO₂ emissions,2015-01-01,CO₂,CO₂ (kt),859.2812610766356,Industry and commercial
+E08000009,Trafford,CO₂ emissions,2015-01-01,CO₂,CO₂ (kt),362.72177867516064,Transport
+E08000009,Trafford,CO₂ emissions,2015-01-01,CO₂,CO₂ (kt),1628.9169961694954,All sectors
+NA,England,CO₂ emissions,2016-01-01,CO₂,CO₂ (kt),85674.50466157834,Domestic
+NA,England,CO₂ emissions,2016-01-01,CO₂,CO₂ (kt),107987.02504250615,Industry and commercial
+NA,England,CO₂ emissions,2016-01-01,CO₂,CO₂ (kt),106968.3706610091,Transport
+NA,England,CO₂ emissions,2016-01-01,CO₂,CO₂ (kt),295686.23336093884,All sectors
+E47000001,Greater Manchester,CO₂ emissions,2016-01-01,CO₂,CO₂ (kt),12633.536036632951,All sectors
+E47000001,Greater Manchester,CO₂ emissions,2016-01-01,CO₂,CO₂ (kt),4156.400861106177,Domestic
+E47000001,Greater Manchester,CO₂ emissions,2016-01-01,CO₂,CO₂ (kt),3993.7943027682645,Industry and commercial
+E47000001,Greater Manchester,CO₂ emissions,2016-01-01,CO₂,CO₂ (kt),4455.286196899785,Transport
+E08000009,Trafford,CO₂ emissions,2016-01-01,CO₂,CO₂ (kt),388.1003334520748,Domestic
+E08000009,Trafford,CO₂ emissions,2016-01-01,CO₂,CO₂ (kt),828.6893102555073,Industry and commercial
+E08000009,Trafford,CO₂ emissions,2016-01-01,CO₂,CO₂ (kt),357.7278772272232,Transport
+E08000009,Trafford,CO₂ emissions,2016-01-01,CO₂,CO₂ (kt),1578.105591732282,All sectors
+NA,England,CO₂ emissions,2017-01-01,CO₂,CO₂ (kt),80782.14444349831,Domestic
+NA,England,CO₂ emissions,2017-01-01,CO₂,CO₂ (kt),102047.2366319128,Industry and commercial
+NA,England,CO₂ emissions,2017-01-01,CO₂,CO₂ (kt),107177.8646959276,Transport
+NA,England,CO₂ emissions,2017-01-01,CO₂,CO₂ (kt),284921.0237233837,All sectors
+E47000001,Greater Manchester,CO₂ emissions,2017-01-01,CO₂,CO₂ (kt),12164.555681831709,All sectors
+E47000001,Greater Manchester,CO₂ emissions,2017-01-01,CO₂,CO₂ (kt),3993.4073030680424,Domestic
+E47000001,Greater Manchester,CO₂ emissions,2017-01-01,CO₂,CO₂ (kt),3787.4979146121173,Industry and commercial
+E47000001,Greater Manchester,CO₂ emissions,2017-01-01,CO₂,CO₂ (kt),4356.614909360222,Transport
+E08000009,Trafford,CO₂ emissions,2017-01-01,CO₂,CO₂ (kt),368.3686316653425,Domestic
+E08000009,Trafford,CO₂ emissions,2017-01-01,CO₂,CO₂ (kt),821.0400461060921,Industry and commercial
+E08000009,Trafford,CO₂ emissions,2017-01-01,CO₂,CO₂ (kt),353.8705774438459,Transport
+E08000009,Trafford,CO₂ emissions,2017-01-01,CO₂,CO₂ (kt),1546.7808379442563,All sectors
