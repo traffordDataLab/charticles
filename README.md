@@ -21,3 +21,4 @@
 | `2019-11-01` | [Relative deprivation](https://www.trafforddatalab.io/charticles/2019-11-01-relative-deprivation) |
 | `2019-11-04` | [Businesses](https://www.trafforddatalab.io/charticles/2019-11-04-businesses) |
 | `2019-11-05` | [CO<sub>2</sub> emissions](https://www.trafforddatalab.io/charticles/2019-11-05-co2-emissions) |
+| `2019-11-06` | [Childhood obesity](https://www.trafforddatalab.io/charticles/2019-11-06-childhood-obesity) |
