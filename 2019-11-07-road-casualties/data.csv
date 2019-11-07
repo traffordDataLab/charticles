@@ -1,0 +1,6 @@
+area_code,area_name,indicator,period,measure,unit,value,group
+E08000009,Trafford,KSIs by road user type,2018,Count,Casualties,1,Bus or Coach
+E08000009,Trafford,KSIs by road user type,2018,Count,Casualties,13,Car
+E08000009,Trafford,KSIs by road user type,2018,Count,Casualties,15,Pedal Cycle
+E08000009,Trafford,KSIs by road user type,2018,Count,Casualties,21,Pedestrian
+E08000009,Trafford,KSIs by road user type,2018,Count,Casualties,8,Powered 2 Wheeler
