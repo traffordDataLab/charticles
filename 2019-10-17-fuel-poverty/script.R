@@ -29,7 +29,7 @@ sf <- left_join(st_read(paste0("https://ons-inspire.esriuk.com/arcgis/rest/servi
 # plot data ---------------------------
 ggplot(sf) + 
   geom_sf(aes(fill = value), color = "#FFFFFF", size = 0.5, alpha = 0.8) +
-  scale_fill_viridis(discrete = F, 
+  scale_fill_viridis(option = "E", discrete = F, 
                      label = function(x) paste0(x, "%"),
                      direction = -1,
                      guide = guide_colourbar(
