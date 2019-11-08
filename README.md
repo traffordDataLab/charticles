@@ -23,3 +23,4 @@
 | `2019-11-05` | [CO<sub>2</sub> emissions](https://www.trafforddatalab.io/charticles/2019-11-05-co2-emissions) |
 | `2019-11-06` | [Childhood obesity](https://www.trafforddatalab.io/charticles/2019-11-06-childhood-obesity) |
 | `2019-11-07` | [Road casualties](https://www.trafforddatalab.io/charticles/2019-11-07-road-casualties) |
+| `2019-11-08` | [Living alone](https://www.trafforddatalab.io/charticles/2019-11-08-living-alone) |
