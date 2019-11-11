@@ -24,3 +24,4 @@
 | `2019-11-06` | [Childhood obesity](https://www.trafforddatalab.io/charticles/2019-11-06-childhood-obesity) |
 | `2019-11-07` | [Road casualties](https://www.trafforddatalab.io/charticles/2019-11-07-road-casualties) |
 | `2019-11-08` | [Living alone](https://www.trafforddatalab.io/charticles/2019-11-08-living-alone) |
+| `2019-11-11` | [Alcohol related deaths](https://www.trafforddatalab.io/charticles/2019-11-11-alcohol-related-deaths) |

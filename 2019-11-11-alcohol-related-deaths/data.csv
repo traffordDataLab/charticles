@@ -1,0 +1,13 @@
+area_code,area_name,period,value,LCI,UCI,indicator,measure,unit,significance
+E92000001,England,2017,46.2,45.57132192,46.73880069,Alcohol related mortality,"Age standardised rate per 100,000",Persons,Not compared
+E08000001,Bolton,2017,56,47.22147312,66.00935359,Alcohol related mortality,"Age standardised rate per 100,000",Persons,Worse
+E08000002,Bury,2017,55,44.6641253,67.11336933,Alcohol related mortality,"Age standardised rate per 100,000",Persons,Similar
+E08000003,Manchester,2017,64.2,55.49845216,73.86454845,Alcohol related mortality,"Age standardised rate per 100,000",Persons,Worse
+E08000004,Oldham,2017,61.5,51.06830547,73.34015568,Alcohol related mortality,"Age standardised rate per 100,000",Persons,Worse
+E08000005,Rochdale,2017,53.2,43.35142231,64.5388631,Alcohol related mortality,"Age standardised rate per 100,000",Persons,Similar
+E08000006,Salford,2017,63.3,52.80087721,75.29909693,Alcohol related mortality,"Age standardised rate per 100,000",Persons,Worse
+E08000007,Stockport,2017,50.3,42.5329769,59.15388075,Alcohol related mortality,"Age standardised rate per 100,000",Persons,Similar
+E08000008,Tameside,2017,66.7,56.02032086,78.78554988,Alcohol related mortality,"Age standardised rate per 100,000",Persons,Worse
+E08000009,Trafford,2017,49.6,40.72019394,59.78387968,Alcohol related mortality,"Age standardised rate per 100,000",Persons,Similar
+E08000010,Wigan,2017,57.5,49.23113283,66.77361802,Alcohol related mortality,"Age standardised rate per 100,000",Persons,Worse
+E47000001,Greater Manchester,2017,57.3,54.33312807,60.45411742,Alcohol related mortality,"Age standardised rate per 100,000",Persons,Worse
