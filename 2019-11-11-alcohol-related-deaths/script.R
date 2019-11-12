@@ -1,7 +1,7 @@
 # Alcohol related mortality #
 
-# Source: Office for National Statistics
-# URL: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths
+# Source: Public Health England
+# URL: https://fingertips.phe.org.uk/profile/local-alcohol-profiles
 # Licence: Open Government Licence v3.0
 
 library(tidyverse) ; library(fingertipsR) ; library(scales)

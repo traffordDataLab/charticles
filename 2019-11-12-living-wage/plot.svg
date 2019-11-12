@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 1025.00 640.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    line, polyline, polygon, path, rect, circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU='>
+    <rect x='127.96' y='65.45' width='809.47' height='515.52' />
+  </clipPath>
+</defs>
+<polyline points='132.08,580.97 132.08,65.45 ' style='stroke-width: 1.07; stroke: #CBCBCB; stroke-linecap: butt;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<polyline points='361.00,580.97 361.00,65.45 ' style='stroke-width: 1.07; stroke: #CBCBCB; stroke-linecap: butt;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<polyline points='589.92,580.97 589.92,65.45 ' style='stroke-width: 1.07; stroke: #CBCBCB; stroke-linecap: butt;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<polyline points='818.85,580.97 818.85,65.45 ' style='stroke-width: 1.07; stroke: #CBCBCB; stroke-linecap: butt;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<line x1='640.29' y1='555.62' x2='656.31' y2='555.62' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<line x1='635.71' y1='513.36' x2='676.91' y2='513.36' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<line x1='482.33' y1='471.10' x2='546.43' y2='471.10' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<line x1='509.80' y1='428.85' x2='562.45' y2='428.85' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<line x1='672.34' y1='386.59' x2='711.25' y2='386.59' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<line x1='699.81' y1='344.34' x2='763.90' y2='344.34' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<line x1='718.12' y1='302.08' x2='745.59' y2='302.08' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<line x1='720.41' y1='259.83' x2='750.17' y2='259.83' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<line x1='752.46' y1='217.57' x2='761.62' y2='217.57' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<line x1='768.48' y1='175.31' x2='823.42' y2='175.31' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<line x1='795.95' y1='133.06' x2='814.27' y2='133.06' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<line x1='802.82' y1='90.80' x2='853.18' y2='90.80' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<circle cx='640.29' cy='555.62' r='4.62pt' style='stroke-width: 0.71; stroke: #D2FBD4; fill: #D2FBD4;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<circle cx='635.71' cy='513.36' r='4.62pt' style='stroke-width: 0.71; stroke: #D2FBD4; fill: #D2FBD4;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<circle cx='699.81' cy='344.34' r='4.62pt' style='stroke-width: 0.71; stroke: #D2FBD4; fill: #D2FBD4;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<circle cx='752.46' cy='217.57' r='4.62pt' style='stroke-width: 0.71; stroke: #D2FBD4; fill: #D2FBD4;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<circle cx='482.33' cy='471.10' r='4.62pt' style='stroke-width: 0.71; stroke: #D2FBD4; fill: #D2FBD4;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<circle cx='823.42' cy='175.31' r='4.62pt' style='stroke-width: 0.71; stroke: #D2FBD4; fill: #D2FBD4;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<circle cx='795.95' cy='133.06' r='4.62pt' style='stroke-width: 0.71; stroke: #D2FBD4; fill: #D2FBD4;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<circle cx='509.80' cy='428.85' r='4.62pt' style='stroke-width: 0.71; stroke: #D2FBD4; fill: #D2FBD4;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<circle cx='718.12' cy='302.08' r='4.62pt' style='stroke-width: 0.71; stroke: #D2FBD4; fill: #D2FBD4;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<circle cx='720.41' cy='259.83' r='4.62pt' style='stroke-width: 0.71; stroke: #D2FBD4; fill: #D2FBD4;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<circle cx='711.25' cy='386.59' r='4.62pt' style='stroke-width: 0.71; stroke: #D2FBD4; fill: #D2FBD4;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<circle cx='802.82' cy='90.80' r='4.62pt' style='stroke-width: 0.71; stroke: #D2FBD4; fill: #D2FBD4;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<circle cx='656.31' cy='555.62' r='4.62pt' style='stroke-width: 0.71; stroke: #559C9E; fill: #559C9E;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<circle cx='676.91' cy='513.36' r='4.62pt' style='stroke-width: 0.71; stroke: #559C9E; fill: #559C9E;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<circle cx='763.90' cy='344.34' r='4.62pt' style='stroke-width: 0.71; stroke: #559C9E; fill: #559C9E;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<circle cx='761.62' cy='217.57' r='4.62pt' style='stroke-width: 0.71; stroke: #559C9E; fill: #559C9E;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<circle cx='546.43' cy='471.10' r='4.62pt' style='stroke-width: 0.71; stroke: #559C9E; fill: #559C9E;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<circle cx='768.48' cy='175.31' r='4.62pt' style='stroke-width: 0.71; stroke: #559C9E; fill: #559C9E;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<circle cx='814.27' cy='133.06' r='4.62pt' style='stroke-width: 0.71; stroke: #559C9E; fill: #559C9E;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<circle cx='562.45' cy='428.85' r='4.62pt' style='stroke-width: 0.71; stroke: #559C9E; fill: #559C9E;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<circle cx='745.59' cy='302.08' r='4.62pt' style='stroke-width: 0.71; stroke: #559C9E; fill: #559C9E;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<circle cx='750.17' cy='259.83' r='4.62pt' style='stroke-width: 0.71; stroke: #559C9E; fill: #559C9E;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<circle cx='672.34' cy='386.59' r='4.62pt' style='stroke-width: 0.71; stroke: #559C9E; fill: #559C9E;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<circle cx='853.18' cy='90.80' r='4.62pt' style='stroke-width: 0.71; stroke: #559C9E; fill: #559C9E;' clip-path='url(#cpMTI3Ljk2fDkzNy40M3w1ODAuOTd8NjUuNDU=)' />
+<defs>
+  <clipPath id='cpMC4wMHwxMDI1LjAwfDY0MC4wMHwwLjAw'>
+    <rect x='0.00' y='0.00' width='1025.00' height='640.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHwxMDI1LjAwfDY0MC4wMHwwLjAw)'><text x='21.15' y='559.55' style='font-size: 11.20px; font-weight: bold; fill: #4D4D4D; font-family: Arial;' textLength='43.39px' lengthAdjust='spacingAndGlyphs'>England</text></g>
+<g clip-path='url(#cpMC4wMHwxMDI1LjAwfDY0MC4wMHwwLjAw)'><text x='21.15' y='517.30' style='font-size: 11.20px; font-weight: bold; fill: #4D4D4D; font-family: Arial;' textLength='103.32px' lengthAdjust='spacingAndGlyphs'>Greater Manchester</text></g>
+<g clip-path='url(#cpMC4wMHwxMDI1LjAwfDY0MC4wMHwwLjAw)'><text x='21.15' y='475.04' style='font-size: 11.20px; font-weight: bold; fill: #4D4D4D; font-family: Arial;' textLength='61.13px' lengthAdjust='spacingAndGlyphs'>Manchester</text></g>
+<g clip-path='url(#cpMC4wMHwxMDI1LjAwfDY0MC4wMHwwLjAw)'><text x='21.15' y='432.79' style='font-size: 11.20px; font-weight: bold; fill: #4D4D4D; font-family: Arial;' textLength='37.89px' lengthAdjust='spacingAndGlyphs'>Salford</text></g>
+<g clip-path='url(#cpMC4wMHwxMDI1LjAwfDY0MC4wMHwwLjAw)'><text x='21.15' y='390.53' style='font-size: 11.20px; font-weight: bold; fill: #4D4D4D; font-family: Arial;' textLength='42.16px' lengthAdjust='spacingAndGlyphs'>Trafford</text></g>
+<g clip-path='url(#cpMC4wMHwxMDI1LjAwfDY0MC4wMHwwLjAw)'><text x='21.15' y='348.27' style='font-size: 11.20px; font-weight: bold; fill: #4D4D4D; font-family: Arial;' textLength='34.82px' lengthAdjust='spacingAndGlyphs'>Bolton</text></g>
+<g clip-path='url(#cpMC4wMHwxMDI1LjAwfDY0MC4wMHwwLjAw)'><text x='21.15' y='306.02' style='font-size: 11.20px; font-weight: bold; fill: #4D4D4D; font-family: Arial;' textLength='51.34px' lengthAdjust='spacingAndGlyphs'>Stockport</text></g>
+<g clip-path='url(#cpMC4wMHwxMDI1LjAwfDY0MC4wMHwwLjAw)'><text x='21.15' y='263.76' style='font-size: 11.20px; font-weight: bold; fill: #4D4D4D; font-family: Arial;' textLength='50.75px' lengthAdjust='spacingAndGlyphs'>Tameside</text></g>
+<g clip-path='url(#cpMC4wMHwxMDI1LjAwfDY0MC4wMHwwLjAw)'><text x='21.15' y='221.51' style='font-size: 11.20px; font-weight: bold; fill: #4D4D4D; font-family: Arial;' textLength='25.06px' lengthAdjust='spacingAndGlyphs'>Bury</text></g>
+<g clip-path='url(#cpMC4wMHwxMDI1LjAwfDY0MC4wMHwwLjAw)'><text x='21.15' y='179.25' style='font-size: 11.20px; font-weight: bold; fill: #4D4D4D; font-family: Arial;' textLength='40.95px' lengthAdjust='spacingAndGlyphs'>Oldham</text></g>
+<g clip-path='url(#cpMC4wMHwxMDI1LjAwfDY0MC4wMHwwLjAw)'><text x='21.15' y='137.00' style='font-size: 11.20px; font-weight: bold; fill: #4D4D4D; font-family: Arial;' textLength='49.51px' lengthAdjust='spacingAndGlyphs'>Rochdale</text></g>
+<g clip-path='url(#cpMC4wMHwxMDI1LjAwfDY0MC4wMHwwLjAw)'><text x='21.15' y='94.74' style='font-size: 11.20px; font-weight: bold; fill: #4D4D4D; font-family: Arial;' textLength='32.99px' lengthAdjust='spacingAndGlyphs'>Wigan</text></g>
+<g clip-path='url(#cpMC4wMHwxMDI1LjAwfDY0MC4wMHwwLjAw)'><text x='124.13' y='593.49' style='font-size: 11.20px; fill: #4D4D4D; font-family: Arial;' textLength='15.90px' lengthAdjust='spacingAndGlyphs'>0%</text></g>
+<g clip-path='url(#cpMC4wMHwxMDI1LjAwfDY0MC4wMHwwLjAw)'><text x='349.99' y='593.49' style='font-size: 11.20px; fill: #4D4D4D; font-family: Arial;' textLength='22.02px' lengthAdjust='spacingAndGlyphs'>10%</text></g>
+<g clip-path='url(#cpMC4wMHwxMDI1LjAwfDY0MC4wMHwwLjAw)'><text x='578.92' y='593.49' style='font-size: 11.20px; fill: #4D4D4D; font-family: Arial;' textLength='22.02px' lengthAdjust='spacingAndGlyphs'>20%</text></g>
+<g clip-path='url(#cpMC4wMHwxMDI1LjAwfDY0MC4wMHwwLjAw)'><text x='807.84' y='593.49' style='font-size: 11.20px; fill: #4D4D4D; font-family: Arial;' textLength='22.02px' lengthAdjust='spacingAndGlyphs'>30%</text></g>
+<circle cx='966.99' cy='317.56' r='4.62pt' style='stroke-width: 0.71; stroke: #D2FBD4; fill: #D2FBD4;' clip-path='url(#cpMC4wMHwxMDI1LjAwfDY0MC4wMHwwLjAw)' />
+<circle cx='966.99' cy='334.84' r='4.62pt' style='stroke-width: 0.71; stroke: #559C9E; fill: #559C9E;' clip-path='url(#cpMC4wMHwxMDI1LjAwfDY0MC4wMHwwLjAw)' />
+<g clip-path='url(#cpMC4wMHwxMDI1LjAwfDY0MC4wMHwwLjAw)'><text x='981.61' y='321.14' style='font-size: 10.00px; fill: #757575; font-family: Arial;' textLength='22.25px' lengthAdjust='spacingAndGlyphs'>2017</text></g>
+<g clip-path='url(#cpMC4wMHwxMDI1LjAwfDY0MC4wMHwwLjAw)'><text x='981.61' y='338.42' style='font-size: 10.00px; fill: #757575; font-family: Arial;' textLength='22.25px' lengthAdjust='spacingAndGlyphs'>2018</text></g>
+<g clip-path='url(#cpMC4wMHwxMDI1LjAwfDY0MC4wMHwwLjAw)'><text x='127.96' y='54.80' style='font-size: 16.00px; fill: #757575; font-family: Arial;' textLength='373.53px' lengthAdjust='spacingAndGlyphs'>Greater Manchester district authorities, 2017 to 2018</text></g>
+<g clip-path='url(#cpMC4wMHwxMDI1LjAwfDY0MC4wMHwwLjAw)'><text x='127.96' y='30.59' style='font-size: 20.00px; font-weight: bold; fill: #757575; font-family: Arial;' textLength='352.29px' lengthAdjust='spacingAndGlyphs'>Employee jobs below the living wage</text></g>
+<g clip-path='url(#cpMC4wMHwxMDI1LjAwfDY0MC4wMHwwLjAw)'><text x='692.90' y='624.77' style='font-size: 10.00px; fill: #7F7F7F; font-family: Arial;' textLength='244.53px' lengthAdjust='spacingAndGlyphs'>Source: Office of National Statistics | @traffordDataLab</text></g>
+</svg>
