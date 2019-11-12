@@ -79,7 +79,26 @@ figcaption
 nav
 {
     float: right;
-    margin-top: 4px;
+    font-size: 1.25em;
+    margin-top: 2px;
+}
+
+nav a
+{
+    background-color: #757575;
+    color: #fff;
+    padding: 3px;
+    border-radius: 3px;
+    width: 25px;
+    text-align: center;
+    display: inline-block;
+}
+
+nav a:hover
+{
+    background-color: #fc6721;
+    text-decoration: none;
+    cursor: pointer;
 }
 
 .notes
