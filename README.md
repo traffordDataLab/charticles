@@ -26,3 +26,4 @@
 | `2019-11-08` | [Living alone](https://www.trafforddatalab.io/charticles/2019-11-08-living-alone) |
 | `2019-11-11` | [Alcohol related deaths](https://www.trafforddatalab.io/charticles/2019-11-11-alcohol-related-deaths) |
 | `2019-11-12` | [Living wage](https://www.trafforddatalab.io/charticles/2019-11-12-living-wage) |
+| `2019-11-13` | [Green flags](https://www.trafforddatalab.io/charticles/2019-11-13-green-flags) |
