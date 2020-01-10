@@ -3,18 +3,18 @@
     <head>
         <meta charset="UTF-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
-        <meta name="keywords" content=""/>
-        <meta name="description" content=""/>
+        <meta name="keywords" content="domestic, renewable, heat, incentive, heating, eco, low carbon, biomass, heat pumps, solar, thermal, panels, visualisation, charticle"/>
+        <meta name="description" content="Charticle visualising Domestic Renewable Heat Incentive accreditations across Greater Manchester."/>
 
         <title>Eco-heating</title>
 
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" crossorigin="anonymous">
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300|Roboto:300"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300%7CRoboto:300"/>
         <link rel="stylesheet" href="https://www.trafforddatalab.io/css/labBase.css"/>
         <link rel="stylesheet" href="../charticle.css"/>
     </head>
     <body>
-        <article>
+        <main>
             <header>
                 <h1>Eco-heating</h1>
                 <time datetime="2019-10-30">October 30, 2019</time>
@@ -26,17 +26,22 @@
             </p>
 
             <figure>
-                <a href="plot.svg" target="_blank"><img src="plot.png" title="enlarge plot in new window" alt="Radial bar chart" border="0"/></a>
+                <a href="plot.svg" target="_blank" aria-label="The image visualises the data as a radial bar chart, listing each Local Authority in Greater Manchester along with the number of applications for Domestic Renewable Heat Incentive accredited for payment, ordered from highest to lowest. You can use this link to open an SVG version in a new window."><img src="plot.png" alt="Data visualisation"/></a>
+                <figcaption>Select the visualisation to open an SVG version in a new window.</figcaption>
             </figure>
 
             <footer>
+                <div>
+                    <span class="hideContent">Download options: </span>
+                    <a href="data.csv" target="_blank" aria-label="Download the CSV data" class="labButton" download>CSV <span class="fas fa-download"></span></a>
+                    <a href="plot.png" target="_blank" aria-label="Download the PNG image" class="labButton" download>PNG <span class="fas fa-download"></span></a>
+                    <a href="script.R" target="_blank" aria-label="Download the R script code" class="labButton" download>R <span class="fas fa-download"></span></a>
+                </div>
+
                 <nav>
-                    <a href="data.csv" target="_blank" title="Download the data" class="fas fa-file-csv"><span class="hideContent">Data | </span></a>
-                    <a href="plot.png" target="_blank" title="Download the image" class="fas fa-image"><span class="hideContent">Image | </span></a>
-                    <a href="script.R" target="_blank" title="Download the code" class="fas fa-code"><span class="hideContent">Code</span></a>
+                    <a href="https://www.trafforddatalab.io" aria-label="Return to Trafford Data Lab home page"><img src="https://www.trafforddatalab.io/assets/logo/trafforddatalab_logo.svg" alt="Trafford Data Lab" width="93"/></a>
                 </nav>
-                <a href="https://www.trafforddatalab.io"><img src="https://www.trafforddatalab.io/assets/logo/trafforddatalab_logo.svg" alt="Trafford Data Lab" width="93" border="0"/></a>
             </footer>
-        </article>
+        </main>
     </body>
 </html>

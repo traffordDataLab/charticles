@@ -3,18 +3,18 @@
     <head>
         <meta charset="UTF-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
-        <meta name="keywords" content=""/>
-        <meta name="description" content=""/>
+        <meta name="keywords" content="electric, vehicles, licensed, ev, emissions, visualisation, charticle"/>
+        <meta name="description" content="Charticle visualising the number of licensed electric vehicles in Trafford"/>
 
         <title>Electric vehicles</title>
 
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" crossorigin="anonymous">
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300|Roboto:300"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300%7CRoboto:300"/>
         <link rel="stylesheet" href="https://www.trafforddatalab.io/css/labBase.css"/>
         <link rel="stylesheet" href="../charticle.css"/>
     </head>
     <body>
-        <article>
+        <main>
             <header>
                 <h1>Electric vehicles</h1>
                 <time datetime="2019-10-22">October 22, 2019</time>
@@ -28,18 +28,22 @@
             </p>
 
             <figure>
-                <a href="plot.svg" target="_blank"><img src="plot.png" title="enlarge plot in new window" alt="Area chart" border="0"/></a>
-                <figcaption></figcaption>
+                <a href="plot.svg" target="_blank" aria-label="The image visualises the data as an area chart showing the change in the number of licensed electric vehicles in Trafford over time. With the exception of a small decrease around the second quarter of 2016, the number of licensed electric vehicles in Trafford has risen consistently since 2015. You can use this link to open an SVG version in a new window."><img src="plot.png" alt="Data visualisation"/></a>
+                <figcaption>Select the visualisation to open an SVG version in a new window.</figcaption>
             </figure>
 
             <footer>
+                <div>
+                    <span class="hideContent">Download options: </span>
+                    <a href="data.csv" target="_blank" aria-label="Download the CSV data" class="labButton" download>CSV <span class="fas fa-download"></span></a>
+                    <a href="plot.png" target="_blank" aria-label="Download the PNG image" class="labButton" download>PNG <span class="fas fa-download"></span></a>
+                    <a href="script.R" target="_blank" aria-label="Download the R script code" class="labButton" download>R <span class="fas fa-download"></span></a>
+                </div>
+
                 <nav>
-                    <a href="data.csv" target="_blank" title="Download the data" class="fas fa-file-csv"><span class="hideContent">Data | </span></a>
-                    <a href="plot.png" target="_blank" title="Download the image" class="fas fa-image"><span class="hideContent">Image | </span></a>
-                    <a href="script.R" target="_blank" title="Download the code" class="fas fa-code"><span class="hideContent">Code</span></a>
+                    <a href="https://www.trafforddatalab.io" aria-label="Return to Trafford Data Lab home page"><img src="https://www.trafforddatalab.io/assets/logo/trafforddatalab_logo.svg" alt="Trafford Data Lab" width="93"/></a>
                 </nav>
-                <a href="https://www.trafforddatalab.io"><img src="https://www.trafforddatalab.io/assets/logo/trafforddatalab_logo.svg" alt="Trafford Data Lab" width="93" border="0"/></a>
             </footer>
-        </article>
+        </main>
     </body>
 </html>
