@@ -1,15 +1,21 @@
 ## Road casualties 2005-2018 ##
 
-# Source: Transport for Greater Manchester
+# Source: Transport for Greater Manchester (TfGM)
 # Publisher URL: https://data.gov.uk/dataset/25170a92-0736-4090-baea-bf6add82d118/gm-road-casualty-accidents-full-stats19-data
 # Licence: OS "Free to Use Data" Licence
+
+# 2020-03-09 Relating to GitHub issue #1:
+#   Function geom_waffle() is available in v1.0.1 of the waffle package, current version on CRAN is 0.7.0
+#   To install the latest version use: install.packages("waffle", repos = "https://cinc.rud.is")
+#   See: https://git.sr.ht/~hrbrmstr/waffle for more information.
+#   URLs for the data will need updating each year as TfGM don't seem to keep the previous versions.
 
 library(tidyverse) ; library(lubridate) ; library(waffle) ; library(ggthemes)
 source("https://github.com/traffordDataLab/assets/raw/master/theme/ggplot2/theme_lab.R")
 
 # load data ---------------------------
-accident <- read_csv("http://odata.tfgm.com/opendata/downloads/STATS19AccData20052018.csv") 
-casualty <- read_csv("http://odata.tfgm.com/opendata/downloads/STATS19CasData20052018.csv")
+accident <- read_csv("http://odata.tfgm.com/opendata/downloads/STATS19AccData20052019.csv") 
+casualty <- read_csv("http://odata.tfgm.com/opendata/downloads/STATS19CasData20052019.csv")
 
 # tidy data  ---------------------------
 df <- left_join(casualty, accident, by = "Accident Index") %>% 
