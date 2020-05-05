@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 956.00 636.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    line, polyline, polygon, path, rect, circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpNTMuMzN8OTQxLjgzfDU2MC41MXwxMTUuMDg='>
+    <rect x='53.33' y='115.08' width='888.50' height='445.43' />
+  </clipPath>
+</defs>
+<polyline points='53.33,540.27 941.83,540.27 ' style='stroke-width: 1.07; stroke: #CBCBCB; stroke-linecap: butt;' clip-path='url(#cpNTMuMzN8OTQxLjgzfDU2MC41MXwxMTUuMDg=)' />
+<polyline points='53.33,405.29 941.83,405.29 ' style='stroke-width: 1.07; stroke: #CBCBCB; stroke-linecap: butt;' clip-path='url(#cpNTMuMzN8OTQxLjgzfDU2MC41MXwxMTUuMDg=)' />
+<polyline points='53.33,270.31 941.83,270.31 ' style='stroke-width: 1.07; stroke: #CBCBCB; stroke-linecap: butt;' clip-path='url(#cpNTMuMzN8OTQxLjgzfDU2MC41MXwxMTUuMDg=)' />
+<polyline points='53.33,135.33 941.83,135.33 ' style='stroke-width: 1.07; stroke: #CBCBCB; stroke-linecap: butt;' clip-path='url(#cpNTMuMzN8OTQxLjgzfDU2MC41MXwxMTUuMDg=)' />
+<polyline points='93.71,321.60 161.02,273.01 228.33,278.40 295.64,314.17 362.95,373.57 430.27,246.68 497.58,345.89 564.89,322.27 632.20,356.02 699.51,327.67 766.82,318.22 834.13,346.57 901.44,393.14 ' style='stroke-width: 2.13; stroke: #52BCA3; stroke-linecap: butt;' clip-path='url(#cpNTMuMzN8OTQxLjgzfDU2MC41MXwxMTUuMDg=)' />
+<polyline points='93.71,235.89 161.02,312.82 228.33,290.55 295.64,221.04 362.95,235.21 430.27,378.29 497.58,424.86 564.89,334.42 632.20,279.08 699.51,349.27 766.82,370.19 834.13,283.13 901.44,363.44 ' style='stroke-width: 2.13; stroke: #51757A; stroke-linecap: butt;' clip-path='url(#cpNTMuMzN8OTQxLjgzfDU2MC41MXwxMTUuMDg=)' />
+<polyline points='93.71,419.46 161.02,355.34 228.33,399.21 295.64,431.61 362.95,401.24 420.65,349.27 487.96,426.88 555.27,393.14 622.58,416.76 689.89,470.75 757.20,433.63 824.51,429.58 891.82,422.16 ' style='stroke-width: 2.13; stroke: #814047; stroke-linecap: butt;' clip-path='url(#cpNTMuMzN8OTQxLjgzfDU2MC41MXwxMTUuMDg=)' />
+<line x1='603.35' y1='560.51' x2='603.35' y2='115.08' style='stroke-width: 2.13; stroke: #212121; stroke-linecap: butt;' clip-path='url(#cpNTMuMzN8OTQxLjgzfDU2MC41MXwxMTUuMDg=)' />
+<g clip-path='url(#cpNTMuMzN8OTQxLjgzfDU2MC41MXwxMTUuMDg=)'><text x='614.27' y='131.39' style='font-size: 11.04px; font-weight: bold; font-family: Arial;' textLength='132.01px' lengthAdjust='spacingAndGlyphs'>First day of UK lockdown</text></g>
+<defs>
+  <clipPath id='cpMC4wMHw5NTYuMDB8NjM2LjAwfDAuMDA='>
+    <rect x='0.00' y='0.00' width='956.00' height='636.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw5NTYuMDB8NjM2LjAwfDAuMDA=)'><text x='40.66' y='544.20' style='font-size: 11.20px; fill: #4D4D4D; font-family: Arial;' textLength='6.12px' lengthAdjust='spacingAndGlyphs'>0</text></g>
+<g clip-path='url(#cpMC4wMHw5NTYuMDB8NjM2LjAwfDAuMDA=)'><text x='37.60' y='409.22' style='font-size: 11.20px; fill: #4D4D4D; font-family: Arial;' textLength='12.24px' lengthAdjust='spacingAndGlyphs'>20</text></g>
+<g clip-path='url(#cpMC4wMHw5NTYuMDB8NjM2LjAwfDAuMDA=)'><text x='37.60' y='274.24' style='font-size: 11.20px; fill: #4D4D4D; font-family: Arial;' textLength='12.24px' lengthAdjust='spacingAndGlyphs'>40</text></g>
+<g clip-path='url(#cpMC4wMHw5NTYuMDB8NjM2LjAwfDAuMDA=)'><text x='37.60' y='139.26' style='font-size: 11.20px; fill: #4D4D4D; font-family: Arial;' textLength='12.24px' lengthAdjust='spacingAndGlyphs'>60</text></g>
+<g clip-path='url(#cpMC4wMHw5NTYuMDB8NjM2LjAwfDAuMDA=)'><text x='113.08' y='573.03' style='font-size: 11.20px; fill: #4D4D4D; font-family: Arial;' textLength='18.95px' lengthAdjust='spacingAndGlyphs'>Feb</text></g>
+<g clip-path='url(#cpMC4wMHw5NTYuMDB8NjM2LjAwfDAuMDA=)'><text x='382.33' y='573.03' style='font-size: 11.20px; fill: #4D4D4D; font-family: Arial;' textLength='18.94px' lengthAdjust='spacingAndGlyphs'>Mar</text></g>
+<g clip-path='url(#cpMC4wMHw5NTYuMDB8NjM2LjAwfDAuMDA=)'><text x='681.33' y='573.03' style='font-size: 11.20px; fill: #4D4D4D; font-family: Arial;' textLength='17.12px' lengthAdjust='spacingAndGlyphs'>Apr</text></g>
+<g clip-path='url(#cpMC4wMHw5NTYuMDB8NjM2LjAwfDAuMDA=)'><text transform='translate(24.19,151.14) rotate(-90)' style='font-size: 14.00px; fill: #757575; font-family: Arial;' textLength='36.07px' lengthAdjust='spacingAndGlyphs'>µg/m³</text></g>
+<line x1='414.71' y1='85.52' x2='428.54' y2='85.52' style='stroke-width: 2.13; stroke: #52BCA3; stroke-linecap: butt;' clip-path='url(#cpMC4wMHw5NTYuMDB8NjM2LjAwfDAuMDA=)' />
+<line x1='475.09' y1='85.52' x2='488.92' y2='85.52' style='stroke-width: 2.13; stroke: #51757A; stroke-linecap: butt;' clip-path='url(#cpMC4wMHw5NTYuMDB8NjM2LjAwfDAuMDA=)' />
+<line x1='535.47' y1='85.52' x2='549.30' y2='85.52' style='stroke-width: 2.13; stroke: #814047; stroke-linecap: butt;' clip-path='url(#cpMC4wMHw5NTYuMDB8NjM2LjAwfDAuMDA=)' />
+<g clip-path='url(#cpMC4wMHw5NTYuMDB8NjM2LjAwfDAuMDA=)'><text x='436.24' y='90.52' style='font-size: 14.00px; fill: #757575; font-family: Arial;' textLength='31.14px' lengthAdjust='spacingAndGlyphs'>2018</text></g>
+<g clip-path='url(#cpMC4wMHw5NTYuMDB8NjM2LjAwfDAuMDA=)'><text x='496.62' y='90.52' style='font-size: 14.00px; fill: #757575; font-family: Arial;' textLength='31.14px' lengthAdjust='spacingAndGlyphs'>2019</text></g>
+<g clip-path='url(#cpMC4wMHw5NTYuMDB8NjM2LjAwfDAuMDA=)'><text x='557.00' y='90.52' style='font-size: 14.00px; fill: #757575; font-family: Arial;' textLength='31.14px' lengthAdjust='spacingAndGlyphs'>2020</text></g>
+<g clip-path='url(#cpMC4wMHw5NTYuMDB8NjM2LjAwfDAuMDA=)'><text x='53.33' y='59.25' style='font-size: 16.00px; fill: #757575; font-family: Arial;' textLength='206.35px' lengthAdjust='spacingAndGlyphs'>Trafford A56 Site, 2018-2020</text></g>
+<g clip-path='url(#cpMC4wMHw5NTYuMDB8NjM2LjAwfDAuMDA=)'><text x='53.33' y='30.84' style='font-size: 20.00px; font-weight: bold; fill: #757575; font-family: Arial;' textLength='132.29px' lengthAdjust='spacingAndGlyphs'>Weekly mean </text></g>
+<g clip-path='url(#cpMC4wMHw5NTYuMDB8NjM2LjAwfDAuMDA=)'><text x='185.61' y='30.84' style='font-size: 20.00px; font-weight: bold; fill: #757575; font-family: Arial;' textLength='14.44px' lengthAdjust='spacingAndGlyphs'>N</text></g>
+<g clip-path='url(#cpMC4wMHw5NTYuMDB8NjM2LjAwfDAuMDA=)'><text x='200.05' y='30.84' style='font-size: 20.00px; font-weight: bold; fill: #757575; font-family: Arial;' textLength='15.56px' lengthAdjust='spacingAndGlyphs'>O</text></g>
+<g clip-path='url(#cpMC4wMHw5NTYuMDB8NjM2LjAwfDAuMDA=)'><text x='215.61' y='34.47' style='font-size: 14.00px; fill: #757575; font-family: Arial;' textLength='7.79px' lengthAdjust='spacingAndGlyphs'>2</text></g>
+<g clip-path='url(#cpMC4wMHw5NTYuMDB8NjM2LjAwfDAuMDA=)'><text x='223.40' y='30.84' style='font-size: 20.00px; font-weight: bold; fill: #757575; font-family: Arial;' textLength='412.27px' lengthAdjust='spacingAndGlyphs'> concentrations during COVID-19 lockdown</text></g>
+<g clip-path='url(#cpMC4wMHw5NTYuMDB8NjM2LjAwfDAuMDA=)'><text x='708.95' y='620.77' style='font-size: 10.00px; fill: #7F7F7F; font-family: Arial;' textLength='232.88px' lengthAdjust='spacingAndGlyphs'>Source: airqualityengland.co.uk  |  @traffordDataLab</text></g>
+</svg>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
+        <meta name="keywords" content="coronavirus, covid-19, pollution, air, nitrogen, dioxide, lockdown, visualisation, charticle"/>
+        <meta name="description" content="Charticle visualising the air pollution levels at the A56 monitoring station in Trafford during the COVID-19 lockdown."/>
+
+        <title>NO<sup>2</sup> levels during COVID-19</title>
+
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300%7CRoboto:300"/>
+        <link rel="stylesheet" href="https://www.trafforddatalab.io/css/labBase.css"/>
+        <link rel="stylesheet" href="../charticle.css"/>
+    </head>
+    <body>
+        <main>
+            <header>
+                <h1>Air pollution levels during COVID-19</h1>
+                <time datetime="2020-04-30">April 30, 2020</time>
+            </header>
+
+            <p>
+              During the <a href="https://www.who.int/health-topics/coronavirus" target="_blank">COVID-19</a> pandemic the UK started a lockdown on 23th of March 2020. Low levels of pollution have been reported attributed to reduced road traffic and industrial activity <a href="https://www.bbc.co.uk/news/uk-england-52202974" target="_blank">across the UK</a>. During the lockdown, the weekly mean on levels of nitrogen dioxide (NO<sub>2</sub>) recorded by the monitoring station on the A56 in Trafford has remained lower than the weekly mean levels during the same period for the previous two years.
+            </p>
+
+            <figure>
+                <a href="plot.svg" target="_blank" aria-label="The image visualises the weekly mean measured by the Trafford A56 pollution monitoring station from February to April for 2018,2019 and 2020 as a line chart. A vertical line mark the start of the UK COVID-19 lockdown on 23th of March 2020. You can use this link to open an SVG version in a new window."><img src="plot.png" alt="Data visualisation"/></a>
+                <figcaption>Select the visualisation to open an SVG version in a new window.</figcaption>
+            </figure>
+
+            <footer>
+                <div>
+                    <span class="hideContent">Download options: </span>
+                    <a href="data.csv" target="_blank" aria-label="Download the CSV data" class="labButton" download>CSV <span class="fas fa-download"></span></a>
+                    <a href="plot.png" target="_blank" aria-label="Download the PNG image" class="labButton" download>PNG <span class="fas fa-download"></span></a>
+                    <a href="script.R" target="_blank" aria-label="Download the R script code" class="labButton" download>R <span class="fas fa-download"></span></a>
+                </div>
+
+                <nav>
+                    <a href="https://www.trafforddatalab.io" aria-label="Return to Trafford Data Lab home page"><img src="https://www.trafforddatalab.io/assets/logo/trafforddatalab_logo.svg" alt="Trafford Data Lab" width="93"/></a>
+                </nav>
+            </footer>
+        </main>
+    </body>
+</html>
