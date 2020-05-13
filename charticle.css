@@ -72,6 +72,11 @@ footer div
     margin-top: 6px;
 }
 
+footer .fas
+{
+    margin-left: 0.25em;
+}
+
 .notes
 {
     display: inline-block;
