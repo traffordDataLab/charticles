@@ -1,4 +1,4 @@
-/* Override styles from labBase.css */
+/* Override styles from base.css */
 /* -------------------------------- */
 html, body
 {
@@ -10,18 +10,8 @@ html, body
 .labButton
 {
     margin: 0;
-    font-weight: bold;
 }
 /* -------------------------------- */
-
-/* HTML5 fallback styles for older browsers */
-/* ---------------------------------------- */
-main, header, footer, nav, figure, figcaption, time
-{
-    display: block;
-    box-sizing: border-box;
-}
-/* ---------------------------------------- */
 
 main
 {
@@ -52,7 +42,7 @@ time
 p
 {
     line-height: 1.5em;
-    font-weight: 100;
+    font-weight: 300;
 }
 
 figure
@@ -69,9 +59,7 @@ figure img
 
 figcaption
 {
-    display: block;
     font-size: 0.75em;
-    font-weight: bold;
     padding-bottom: 3px;
 }
 
