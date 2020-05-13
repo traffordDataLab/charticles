@@ -9,12 +9,15 @@ html, body
 
 .labButton
 {
-    margin: 0;
+    margin: 0 0 0 0.5em;
+    width: 4em;
+    text-align: center;
 }
 /* -------------------------------- */
 
-main
+.container
 {
+    box-sizing: border-box;
     width: 100%;
     max-width: 800px;
     margin: auto;
