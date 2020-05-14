@@ -85,7 +85,7 @@ footer .fas
     margin-bottom: 1.5em;
 }
 
-@media (max-width:400px)
+@media (max-width:370px)
 {
     /* The following styles adjust the layout for very narrow screens, reducing the margins and allowing the download buttons to appear above the Trafford Data Lab logo and flush with the left margin. */
     footer div
