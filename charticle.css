@@ -14,6 +14,33 @@ html, body
 }
 /* -------------------------------- */
 
+/* Accessibility skip links - these are positioned off screen not hidden, so that they can be read out as well as focussed using keyboard */
+#a11yNav
+{
+    position: absolute;
+	top: -30em;
+	z-index: 333;
+}
+
+#a11yNav a
+{
+    position: absolute;
+    left: 0;
+    width: 20em;
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+    padding: 0.75em 0;
+    border-radius: 6px;
+}
+
+#a11yNav a:focus, #a11yNav a:hover
+{
+    top: 31.75em;
+    left: -1.25em;
+}
+/* -------------------------------- */
+
 .container
 {
     box-sizing: border-box;
