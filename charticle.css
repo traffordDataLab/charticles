@@ -50,7 +50,8 @@ p
 
 figure
 {
-    width: 90%;
+    /* width: 100% + margin: auto required in order for us to use the max space without the image bleeding off the right edge of the layout */
+    width: 100%;
     margin: auto;
     padding: 1.5em 0 2em 0;
 }
@@ -69,7 +70,7 @@ figcaption
 footer div
 {
     float: right;
-    margin-top: 6px;
+    margin-top: 4px;
 }
 
 footer .fas
@@ -83,4 +84,24 @@ footer .fas
     font-style: italic;
     font-size: 0.75em;
     margin-bottom: 1.5em;
+}
+
+@media (max-width:400px)
+{
+    /* The following styles adjust the layout for very narrow screens, reducing the margins and allowing the download buttons to appear above the Trafford Data Lab logo and flush with the left margin. */
+    footer div
+    {
+        float: none;
+        padding-bottom: 0.5em;
+    }
+
+    .labButton
+    {
+        margin: 0 0.5em 0.5em 0;
+    }
+
+    .container
+    {
+        padding: 0 0.25em 0.25em 0.25em;
+    }
 }
