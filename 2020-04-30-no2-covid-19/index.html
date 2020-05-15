@@ -15,7 +15,7 @@
     </head>
     <body>
         <div class="container">
-            <span id="a11yNav"><a href="#visualisation" class="themeBlockDark">Skip to visualisation</a></span>
+            <span id="a11yNav"><a href="#downloads" class="themeBlockDark">Skip to download options</a></span>
             <main>
                 <h1>Air pollution levels during COVID-19</h1>
                 <time datetime="2020-04-30">April 30, 2020</time>
@@ -25,13 +25,13 @@
                 </p>
 
                 <figure>
-                    <a id="visualisation" href="plot.svg" target="_blank" aria-label="Open data visualisation as an SVG in a new window"><img src="plot.png" width="600" alt="Data visualisation"/></a>
-                    <figcaption>Visualisation of the weekly mean levels of nitrogen dioxide measured by the Trafford A56 pollution monitoring station from February to April for 2018, 2019 and 2020. A vertical line marks the start of the UK COVID-19 lockdown on 23<sup>rd</sup> of March 2020. Select the image to open an SVG version in a new window.</figcaption>
+                    <img src="plot.png" width="600" alt="Data visualisation" aria-describedby="visualisationDescription"/>
+                    <figcaption id="visualisationDescription">Line chart showing roadside levels of NO<sub>2</sub> in Trafford from February to April in 2018, 2019 and 2020.</figcaption>
                 </figure>
             </main>
 
             <footer>
-                <div>
+                <div id="downloads">
                     <span class="hideContent">Download options: </span>
                     <a href="data.csv" target="_blank" aria-label="Download the CSV data" class="labButton" download>CSV<span class="fas fa-download"></span></a><span class="hideContent">, </span>
                     <a href="plot.png" target="_blank" aria-label="Download the PNG image" class="labButton" download>PNG<span class="fas fa-download"></span></a><span class="hideContent">, </span>
