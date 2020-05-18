@@ -8,26 +8,27 @@
 
         <title>Living wage</title>
 
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" crossorigin="anonymous">
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300%7CRoboto:300"/>
-        <link rel="stylesheet" href="https://www.trafforddatalab.io/css/labBase.css"/>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" crossorigin="anonymous"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400%7CRoboto:300"/>
+        <link rel="stylesheet" href="../base.css"/>
         <link rel="stylesheet" href="../charticle.css"/>
     </head>
     <body>
-        <main>
-            <header>
+        <div class="container">
+            <span id="a11yNav"><a href="#downloads" class="themeBlockDark">Skip to download options</a></span>
+            <main>
                 <h1>Living wage</h1>
                 <time datetime="2019-11-12">November 12, 2019</time>
-            </header>
 
-            <p>
-                The percentage of employee jobs with hourly pay below the living wage in Trafford was 23.6% in 2018. This percentage is higher than England (22.9%) but similar to Greater Manchester (23.8%). Manchester recorded the lowest percentage of employee jobs with hourly pay below the living wage (18.1%) and Wigan the highest (31.5%).
-            </p>
+                <p>
+                    The percentage of employee jobs with hourly pay below the living wage in Trafford was 23.6% in 2018. This percentage is higher than England (22.9%) but similar to Greater Manchester (23.8%). Manchester recorded the lowest percentage of employee jobs with hourly pay below the living wage (18.1%) and Wigan the highest (31.5%).
+                </p>
 
-            <figure>
-                <a href="plot.svg" target="_blank" aria-label="The image visualises the data as a dot plot, with 2 dots for each Local Authority representing the percentage of employee jobs below the living wage in 2017 and 2018. Comparisons with Greater Manchester overall and England are provided at the bottom. You can use this link to open an SVG version in a new window."><img src="plot.png" alt="Data visualisation"/></a>
-                <figcaption>Select the visualisation to open an SVG version in a new window.</figcaption>
-            </figure>
+                <figure>
+                    <img src="plot.png" width="600" alt="Data visualisation" aria-describedby="plotDescription"/>
+                    <figcaption id="plotDescription">Chart with 2 dots for each Local Authority representing the percentage of employee jobs below the living wage in 2017 and 2018. Manchester and Salford are the only Local Authorities below 20% and Wigan is the only one above 30%. Oldham is the only Local Authority showing a decrease in 2018 compared to the previous year.</figcaption>
+                </figure>
+            </main>
 
             <footer>
                 <div>
