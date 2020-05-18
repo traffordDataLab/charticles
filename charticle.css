@@ -89,8 +89,10 @@ figure img
 
 figcaption
 {
-    font-size: 0.75em;
-    padding-bottom: 3px;
+    /* The contents should be read by screen readers but not rendered visibly on the page as they are a description of the data visualisation */
+    width:1px;
+    height:1px;
+    overflow:hidden;
 }
 
 footer div
