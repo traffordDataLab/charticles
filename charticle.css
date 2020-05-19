@@ -87,14 +87,6 @@ figure img
     width: 100%;
 }
 
-figcaption
-{
-    /* The contents should be read by screen readers but not rendered visibly on the page as they are a description of the data visualisation */
-    width: 1px;
-    height: 1px;
-    overflow: hidden;
-}
-
 footer div
 {
     float: right;
