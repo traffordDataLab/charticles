@@ -8,47 +8,53 @@
 
         <title>Businesses</title>
 
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" crossorigin="anonymous">
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300%7CRoboto:300"/>
-        <link rel="stylesheet" href="https://www.trafforddatalab.io/css/labBase.css"/>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" crossorigin="anonymous"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400%7CRoboto:300"/>
+        <link rel="stylesheet" href="../base.css"/>
         <link rel="stylesheet" href="../charticle.css"/>
 
         <style>
-            h4
+            h2
             {
                 font-size: 1.25em;
+                text-align: left;
+            }
+
+            #figSource
+            {
+                font-size: 0.75em;
+                text-align: right;
+                color: #636363;
             }
         </style>
     </head>
     <body>
-        <main>
-            <header>
+        <div class="container">
+            <span id="a11yNav"><a href="#downloads" class="themeBlockDark">Skip to download options</a></span>
+            <main>
                 <h1>Businesses</h1>
                 <time datetime="2019-11-04">November 04, 2019</time>
-            </header>
 
-            <p>
-                The majority of businesses in Trafford employ 4 or fewer people (9,135, 79.1%) which is a similar proportion to Greater Manchester and England. There are 15 businesses in Trafford that employ 1,000 or more people (0.1%).
-            </p>
+                <p>
+                    The majority of businesses in Trafford employ 4 or fewer people (9,135, 79.1%) which is a similar proportion to Greater Manchester and England. There are 15 businesses in Trafford that employ 1,000 or more people (0.1%).
+                </p>
 
-            <figure>
-                <h2 style="font-size: 1.2em; text-align: left;">Number of businesses by size, 2019</h2>
-                <a href="table.html" target="_blank" aria-label="The image visualises the data as a table, listing employment size bands as the rows, ordered from lowest to highest. The percentage of businesses for each band in Trafford, Greater Manchester and England are displayed as the columns. You can use this link to open an HTML version in a new window."><img src="table.png" alt="Data visualisation" border="0"/></a>
-                <figcaption><span style="display: block; font-size: 0.95em; text-align: right; color: #636363;">Source: Inter Departmental Business Register, ONS</span><br />Select the visualisation to open an HTML version in a new window.</figcaption>
-            </figure>
+                <figure>
+                    <h2>Number of businesses by size, 2019</h2>
+                    <img src="table.png" width="600" alt="Businesses by employment size band in Trafford, Greater Manchester and England, 2019."/>
+                    <div id="figSource">Source: Inter Departmental Business Register, <abbr title="Office for National Statistics">ONS</abbr></div>
+                </figure>
+            </main>
 
             <footer>
-                <div>
-                    <span class="hideContent">Download options: </span>
-                    <a href="data.csv" target="_blank" aria-label="Download the CSV data" class="labButton" download>CSV <span class="fas fa-download"></span></a>
-                    <a href="table.png" target="_blank" aria-label="Download the PNG image" class="labButton" download>PNG <span class="fas fa-download"></span></a>
-                    <a href="script.R" target="_blank" aria-label="Download the R script code" class="labButton" download>R <span class="fas fa-download"></span></a>
-                </div>
-
-                <nav>
-                    <a href="https://www.trafforddatalab.io" aria-label="Return to Trafford Data Lab home page"><img src="https://www.trafforddatalab.io/assets/logo/trafforddatalab_logo.svg" alt="Trafford Data Lab" width="93"/></a>
-                </nav>
+                <span class="hideContent" id="downloadsLabel">Download options:</span>
+                <ul id="downloads" aria-labelledby="downloadsLabel">
+                    <li><a href="data.csv" aria-label="Download the CSV data" class="labButton" download>CSV<span class="fas fa-download"></span></a></li>
+                    <li><a href="table.png" aria-label="Download the PNG image" class="labButton" download>PNG<span class="fas fa-download"></span></a></li>
+                    <li><a href="script.R" aria-label="Download the R script code" class="labButton" download>R<span class="fas fa-download"></span></a></li>
+                </ul>
+                <a href="https://www.trafforddatalab.io/charticles.html" aria-label="Return to Trafford Data Lab charticles page"><img src="https://www.trafforddatalab.io/assets/logo/trafforddatalab_logo.svg" alt="Trafford Data Lab" width="93"/></a>
             </footer>
-        </main>
+        </div>
     </body>
 </html>
