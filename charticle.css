@@ -9,7 +9,7 @@ html, body
 
 .labButton
 {
-    margin: 0 0 0 0.5em;
+    margin: 0 0 0 0.75em;
     width: 4em;
 }
 /* -------------------------------- */
@@ -87,17 +87,6 @@ figure img
     width: 100%;
 }
 
-footer div
-{
-    float: right;
-    margin-top: 4px;
-}
-
-footer .fas
-{
-    margin-left: 0.25em;
-}
-
 .notes
 {
     display: inline-block;
@@ -106,18 +95,35 @@ footer .fas
     margin-bottom: 1.5em;
 }
 
+#downloads
+{
+    list-style-type: none;  /* this is marked-up as a list so remove the bullets */
+    float: right;
+    margin-top: 4px;
+    padding: 0;
+}
+
+#downloads li
+{
+    float: left;    /* prevent the list items appearing underneath each other */
+}
+
+#downloads .fas
+{
+    margin-left: 0.25em;    /* spacing of the Font Awesome icons away from the text */
+}
+
 @media (max-width:360px)
 {
-    /* The following styles adjust the layout for very narrow screens, reducing the margins and allowing the download buttons to appear above the Trafford Data Lab logo and flush with the left margin. */
-    footer div
-    {
-        float: none;
-        padding-bottom: 0.5em;
-    }
-
+    /* The following styles adjust the layout for very narrow screens, reducing the margins and allowing the download buttons to appear above the Trafford Data Lab logo in very extreme zooms. */
     .labButton
     {
-        margin: 0 0.5em 0.5em 0;
+        margin: 0 0.75em 0.5em 0;
+    }
+
+    #downloads li:last-of-type .labButton
+    {
+        margin-right: 0;
     }
 
     .container
