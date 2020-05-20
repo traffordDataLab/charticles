@@ -8,39 +8,36 @@
 
         <title>CO2 emissions</title>
 
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" crossorigin="anonymous">
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300%7CRoboto:300"/>
-        <link rel="stylesheet" href="https://www.trafforddatalab.io/css/labBase.css"/>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" crossorigin="anonymous"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400%7CRoboto:300"/>
+        <link rel="stylesheet" href="../base.css"/>
         <link rel="stylesheet" href="../charticle.css"/>
     </head>
     <body>
-        <main>
-            <header>
+        <div class="container">
+            <span id="a11yNav"><a href="#downloads" class="themeBlockDark">Skip to download options</a></span>
+            <main>
                 <h1>CO<sub>2</sub> emissions</h1>
                 <time datetime="2019-11-05">November 5, 2019</time>
-            </header>
 
-            <p>
-                In 2017, the industry and commercial sector accounted for 53.2% of CO<sub>2</sub> emissions in Trafford. In Greater Manchester this sector contributed 31.2% and 35.2% in England. CO<sub>2</sub> emissions since 2005 have fallen by 29% in Trafford, 45% in Greater Manchester and 47% in England.
-            </p>
+                <p>
+                    In 2017, the industry and commercial sector accounted for 53.2% of CO<sub>2</sub> emissions in Trafford. In Greater Manchester this sector contributed 31.2% and 35.2% in England. CO<sub>2</sub> emissions since 2005 have fallen by 29% in Trafford, 45% in Greater Manchester and 47% in England.
+                </p>
 
-            <figure>
-                <a href="plot.svg" target="_blank" aria-label="The image visualises the data as a line chart, with separate lines showing the change in carbon dioxide emissions from industry and the commercial sector between 2005 and 2017 in Trafford, Greater Manchester and England. You can use this link to open an SVG version in a new window."><img src="plot.png" alt="Data visualisation"/></a>
-                <figcaption>Select the visualisation to open an SVG version in a new window.</figcaption>
-            </figure>
+                <figure>
+                    <img src="plot.png" width="600" alt="Change in carbon dioxide emissions in Trafford, Greater Manchester & England 2005-17."/>
+                </figure>
+            </main>
 
             <footer>
-                <div>
-                    <span class="hideContent">Download options: </span>
-                    <a href="data.csv" target="_blank" aria-label="Download the CSV data" class="labButton" download>CSV <span class="fas fa-download"></span></a>
-                    <a href="plot.png" target="_blank" aria-label="Download the PNG image" class="labButton" download>PNG <span class="fas fa-download"></span></a>
-                    <a href="script.R" target="_blank" aria-label="Download the R script code" class="labButton" download>R <span class="fas fa-download"></span></a>
-                </div>
-
-                <nav>
-                    <a href="https://www.trafforddatalab.io" aria-label="Return to Trafford Data Lab home page"><img src="https://www.trafforddatalab.io/assets/logo/trafforddatalab_logo.svg" alt="Trafford Data Lab" width="93"/></a>
-                </nav>
+                <span class="hideContent" id="downloadsLabel">Download options:</span>
+                <ul id="downloads" aria-labelledby="downloadsLabel">
+                    <li><a href="data.csv" aria-label="Download the CSV data" class="labButton" download>CSV<span class="fas fa-download"></span></a></li>
+                    <li><a href="plot.png" aria-label="Download the PNG image" class="labButton" download>PNG<span class="fas fa-download"></span></a></li>
+                    <li><a href="script.R" aria-label="Download the R script code" class="labButton" download>R<span class="fas fa-download"></span></a></li>
+                </ul>
+                <a href="https://www.trafforddatalab.io/charticles.html" aria-label="Return to Trafford Data Lab charticles page"><img src="https://www.trafforddatalab.io/assets/logo/trafforddatalab_logo.svg" alt="Trafford Data Lab" width="93"/></a>
             </footer>
-        </main>
+        </div>
     </body>
 </html>
