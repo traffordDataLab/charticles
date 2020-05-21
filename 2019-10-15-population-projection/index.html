@@ -8,39 +8,36 @@
 
         <title>Population projection</title>
 
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" crossorigin="anonymous">
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300%7CRoboto:300"/>
-        <link rel="stylesheet" href="https://www.trafforddatalab.io/css/labBase.css"/>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" crossorigin="anonymous"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400%7CRoboto:300"/>
+        <link rel="stylesheet" href="../base.css"/>
         <link rel="stylesheet" href="../charticle.css"/>
     </head>
     <body>
-        <main>
-            <header>
+        <div class="container">
+            <span id="a11yNav"><a href="#downloads" class="themeBlockDark">Skip to download options</a></span>
+            <main>
                 <h1>Population projection</h1>
                 <time datetime="2019-10-15">OCTOBER 15, 2019</time>
-            </header>
 
-            <p>
-                Between mid-2018 and mid-2028, Trafford's population is projected to grow by 6.4% or 15,049 residents. The proportion of the population aged 0-15 years is projected to increase by 2.6% (1,300 residents), those of working age (16-64 years) by 3.9% (5,656 residents), and those aged 65 or more by 19.9% (8,095 residents).
-            </p>
+                <p>
+                    Between mid-2018 and mid-2028, Trafford's population is projected to grow by 6.4% or 15,049 residents. The proportion of the population aged 0-15 years is projected to increase by 2.6% (1,300 residents), those of working age (16-64 years) by 3.9% (5,656 residents), and those aged 65 or more by 19.9% (8,095 residents).
+                </p>
 
-            <figure>
-                <a href="plot.svg" target="_blank" aria-label="The image visualises the data as a population pyramid, males on the left and females on the right, with the age increasing in 5 year bands from 0 to 4 at the bottom to 90+ at the top. The data for mid-2018 is represented by bars whilst the mid-2028 projection is represented by lines. You can use this link to open an SVG version in a new window."><img src="plot.png" alt="Data visualisation"/></a>
-                <figcaption>Select the visualisation to open an SVG version in a new window.</figcaption>
-            </figure>
+                <figure>
+                    <img src="plot.png" width="600" alt="Age composition of Trafford from mid-2018 by gender and age band with mid-2028 projections."/>
+                </figure>
+            </main>
 
             <footer>
-                <div>
-                    <span class="hideContent">Download options: </span>
-                    <a href="data.csv" target="_blank" aria-label="Download the CSV data" class="labButton" download>CSV <span class="fas fa-download"></span></a>
-                    <a href="plot.png" target="_blank" aria-label="Download the PNG image" class="labButton" download>PNG <span class="fas fa-download"></span></a>
-                    <a href="script.R" target="_blank" aria-label="Download the R script code" class="labButton" download>R <span class="fas fa-download"></span></a>
-                </div>
-
-                <nav>
-                    <a href="https://www.trafforddatalab.io" aria-label="Return to Trafford Data Lab home page"><img src="https://www.trafforddatalab.io/assets/logo/trafforddatalab_logo.svg" alt="Trafford Data Lab" width="93"/></a>
-                </nav>
+                <span class="hideContent" id="downloadsLabel">Download options:</span>
+                <ul id="downloads" aria-labelledby="downloadsLabel">
+                    <li><a href="data.csv" aria-label="Download the CSV data" class="labButton" download>CSV<span class="fas fa-download"></span></a></li>
+                    <li><a href="plot.png" aria-label="Download the PNG image" class="labButton" download>PNG<span class="fas fa-download"></span></a></li>
+                    <li><a href="script.R" aria-label="Download the R script code" class="labButton" download>R<span class="fas fa-download"></span></a></li>
+                </ul>
+                <a href="https://www.trafforddatalab.io/charticles.html" aria-label="Return to Trafford Data Lab charticles page"><img src="https://www.trafforddatalab.io/assets/logo/trafforddatalab_logo.svg" alt="Trafford Data Lab" width="93"/></a>
             </footer>
-        </main>
+        </div>
     </body>
 </html>
