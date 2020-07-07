@@ -1,3 +1,10 @@
+## 2020
+
+| Date | Title |
+| :--- | :--- |
+| `2019-04-30` | [Air pollution levels during COVID-19](https://www.trafforddatalab.io/charticles/2020-04-30-no2-covid-19) |
+| `2020-07-07` | [Generations](https://www.trafforddatalab.io/charticles/2020-07-07-generations) |
+
 ## 2019
 
 | Date | Title |
@@ -27,5 +34,3 @@
 | `2019-11-11` | [Alcohol related deaths](https://www.trafforddatalab.io/charticles/2019-11-11-alcohol-related-deaths) |
 | `2019-11-12` | [Living wage](https://www.trafforddatalab.io/charticles/2019-11-12-living-wage) |
 | `2019-11-13` | [Green flags](https://www.trafforddatalab.io/charticles/2019-11-13-green-flags) |
-| `2019-04-30` | [Air pollution levels during COVID-19](https://www.trafforddatalab.io/charticles/2020-04-30-no2-covid-19) |
-| `2020-07-07` | [Generations](https://www.trafforddatalab.io/charticles/2020-07-07-generations) |
