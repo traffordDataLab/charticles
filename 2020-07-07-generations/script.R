@@ -40,7 +40,7 @@ df <- read_xls(tmp, sheet = 6, skip = 4) %>%
 
 # plot data ---------------------------
 ggplot(df, aes(x = age, y = percent, fill = generation)) + 
-  geom_col(fill = "#ED5E90", colour = NA, alpha = 0.8, width = 0.9) +
+  geom_col(fill = "#F4C494", colour = NA, alpha = 0.8, width = 0.9) +
   geom_vline(xintercept = 6.5, size = 0.5, colour = "#333333") +
   geom_vline(xintercept = 22.5, size = 0.5, colour = "#333333") +
   geom_vline(xintercept = 38.5, size = 0.5, colour = "#333333") +
