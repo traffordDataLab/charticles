@@ -40,7 +40,7 @@ ggplot(df, aes(value,area_name)) +
        caption = "Source: ONS  |  @traffordDataLab")+
   theme_lab() +
   theme(panel.grid.major.y = element_blank(),
-        axis.text.y = element_text(face = "bold", hjust = 0),
+        axis.text.y = element_text(hjust = 1),
         legend.position = "bottom", 
         legend.title = element_blank())
 
