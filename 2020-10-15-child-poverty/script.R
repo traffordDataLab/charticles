@@ -37,7 +37,7 @@ ggplot() +
                      labels = c("2014/15", "2018/19")) +
   labs(x = NULL, y = NULL, 
        title = "Children living in poverty, after housing costs", 
-       subtitle = "Greater Manchester, 2014/15 and 2018/19", 
+       subtitle = paste0("<span style = 'color:#757575;'>Greater Manchester, 2014/15 and 2018/19</span>"),
        caption = "Source: End Child Poverty | @traffordDataLab", 
        fill = NULL) +
   theme_minimal() +
