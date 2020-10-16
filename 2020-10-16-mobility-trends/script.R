@@ -4,7 +4,7 @@
 # URL: https://www.google.com/covid19/mobility
 # Licence: Google's Terms of Service
 
-library(tidyverse) ; library(scales) ; library(ggtext)
+library(tidyverse) ; library(zoo) ; library(scales) ; library(ggtext) 
 
 # load data ---------------------------
 url <- "https://www.gstatic.com/covid19/mobility/Region_Mobility_Report_CSVs.zip"
@@ -30,23 +30,19 @@ df <- read_csv("2020_GB_Region_Mobility_Report.csv") %>%
          indicator = "Google community mobility trends",
          measure = "Percentage change from baseline",
          unit = "Visits and length of stay") %>% 
-  select(area_name, indicator, date, measure, unit, value, group) %>% 
-  # smooth out with 7-day rolling average
-  group_by(group) %>% 
-  arrange(date) %>% 
-  mutate(ma = rollmean(value, 7, align = "right", fill = NA))
+  select(area_name, indicator, date, measure, unit, value, group)
   
 # plot data ---------------------------
-ggplot(df, aes(x = date, y = ma)) +
+ggplot(df, aes(x = date, y = value)) +
   geom_hline(yintercept = 0, size = 0.5, colour = "#333333", linetype = "dotted") +
-  geom_line(aes(col = group), size = 1, show.legend = FALSE) +
+  geom_line(aes(col = group), size = 0.5, show.legend = FALSE) +
   scale_colour_manual(values = c("Retail & recreation" = "#C1A13E", "Supermarket & pharmacy" = "#5D641E", "Parks*" = "#BAD0C4")) +
   scale_x_date(breaks = c(min(df$date), median(df$date), max(df$date)), date_labels = "%d %b") +
   scale_y_continuous(expand = c(0.005, 0.005), labels = percent) +
   facet_wrap(~group, nrow = 1) +
   labs(x = NULL, y = NULL,
        title = "Mobility trends in Trafford",
-       subtitle = paste0("<span style = 'color:#757575;'>Percentage change compared with baseline, 7-day rolling average</span>"),
+       subtitle = paste0("<span style = 'color:#757575;'>Percentage change compared with baseline</span>"),
        caption = "Source: Google COVID-19 Community Mobility Reports | @traffordDataLab",
        tag = "* The data doesn't meet quality and privacy thresholds",
        colour = NULL) +
@@ -69,7 +65,7 @@ ggplot(df, aes(x = date, y = ma)) +
   )
 
 # write data ---------------------------
-write_csv(select(df, -ma), "data.csv")
+write_csv(df, "data.csv")
 ggsave("plot.svg", dpi = 300, scale = 1)
 ggsave("plot.png", dpi = 300, scale = 1)
 
