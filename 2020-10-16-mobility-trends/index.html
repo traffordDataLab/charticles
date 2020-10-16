@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
+        <meta name="mobility, retail, pharmacies, parks, coronavirus" content=""/>
+        <meta name="Charticle reporting change in the frequency of visits to resturants, supermarkets and local parks in Trafford during the coronavirus outbreak." content=""/>
+
+        <title>Mobility trends</title>
+
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" crossorigin="anonymous"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400%7CRoboto:300"/>
+        <link rel="stylesheet" href="../base.css"/>
+        <link rel="stylesheet" href="../charticle.css"/>
+    </head>
+    <body>
+        <div class="container">
+            <span id="a11yNav"><a href="#downloads" class="themeBlockDark">Skip to download options</a></span>
+            <main>
+                <h1>Visits to restaurants and supermarkets are plateauing</h1>
+                <time datetime="2020-10-16">October 16, 2020</time>
+
+                <p>
+                    Google's <a href="https://www.google.com/covid19/mobility/index.html?hl=en" target="_blank">community mobility data</a> allows us to monitor change in the percentage of trips made to various locations in Trafford during the course of the coronavirus outbreak compared to a baseline*.
+                </p>
+
+                <ul>
+                    <li>Visits to retail and recreational locations such as restaurants, cafes, shopping centres, theme parks, museums, libraries, and cinemas fell sharply after the introduction of lockdown restrictions in late March 2020. The frequency of visits has increased very slowly, peaking in early September. Levels have since plateaued at around -25% below the baseline.</li>
+                    <li>Trips to supermarkets and pharmacies also fell after lockdown but not as sharply as visits to retail and recreational locations. Levels have remained stable at around -17% below the baseline since early summer.</li>
+                    <li>Visits to local parks are quite variable because of changing weather conditions. However, after a fall post-lockdown levels exceeded the baseline during the summer but have since fallen.</li>
+                </ul>
+
+                <p class="notes">
+                    *The baseline is the median value for the same day of the week, 3 January - 6 February 2020.
+                </p>
+
+                <figure>
+                    <img src="plot.png" width="600" alt="Percentage change against baseline in visits to retail locations, supermarkets and local parks in Trafford since the middle of February 2020"/>
+                </figure>
+            </main>
+
+            <footer>
+                <span class="hideContent" id="downloadsLabel">Download options:</span>
+                <ul id="downloads" aria-labelledby="downloadsLabel">
+                    <li><a href="data.csv" aria-label="Download the CSV data" class="labButton" download>CSV<span class="fas fa-download"></span></a></li>
+                    <li><a href="plot.png" aria-label="Download the PNG image" class="labButton" download>PNG<span class="fas fa-download"></span></a></li>
+                    <li><a href="script.R" aria-label="Download the R script code" class="labButton" download>R<span class="fas fa-download"></span></a></li>
+                </ul>
+                <a href="https://www.trafforddatalab.io/charticles.html" aria-label="Return to Trafford Data Lab charticles page"><img src="https://www.trafforddatalab.io/assets/logo/trafforddatalab_logo.svg" alt="Trafford Data Lab" width="93"/></a>
+            </footer>
+        </div>
+    </body>
+</html>
