@@ -57,5 +57,5 @@ ggplot() +
 
 # write data ---------------------------
 write_csv(df, "data.csv")
-ggsave("plot.svg", dpi = 300, scale = 1)
+ggsave("plot.svg", dpi = 300, scale = 1, width = 9, height = 5) # adjustment for to improve charticle thumbnail
 ggsave("plot.png", dpi = 300, scale = 1)
