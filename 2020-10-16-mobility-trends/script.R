@@ -31,9 +31,9 @@ df <- read_csv("2020_GB_Region_Mobility_Report.csv") %>%
          measure = "Percentage change from baseline",
          unit = "Visits and length of stay") %>% 
   select(area_name, indicator, date, measure, unit, value, group)
-  
+
 # plot data ---------------------------
-ggplot(df, aes(x = date, y = value)) +
+main_plot <- ggplot(df, aes(x = date, y = value)) +
   geom_hline(yintercept = 0, size = 0.5, colour = "#333333", linetype = "dotted") +
   geom_line(aes(col = group), size = 0.5, show.legend = FALSE) +
   scale_colour_manual(values = c("Retail & recreation" = "#C1A13E", "Supermarket & pharmacy" = "#5D641E", "Parks*" = "#BAD0C4")) +
@@ -64,8 +64,15 @@ ggplot(df, aes(x = date, y = value)) +
     aspect.ratio = 0.5
   )
 
+# view the plot
+main_plot
+
+# alteration for SVG to look better in charticle thumbnail
+svg_plot <- main_plot +
+  theme(aspect.ratio = 1)
+
 # write data ---------------------------
 write_csv(df, "data.csv")
-ggsave("plot.svg", dpi = 300, scale = 1)
-ggsave("plot.png", dpi = 300, scale = 1)
+ggsave("plot.svg", plot = svg_plot, dpi = 300, scale = 1, width = 9, height = 5)
+ggsave("plot.png", plot = main_plot, dpi = 300, scale = 1)
 
