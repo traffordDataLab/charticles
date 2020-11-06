@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 693.00 471.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    line, polyline, polygon, path, rect, circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<rect x='148.22' y='195.11' width='5.72' height='15.07' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #C22630; fill-opacity: 0.70;' />
+<rect x='148.22' y='100.94' width='114.38' height='15.07' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #C22630; fill-opacity: 0.70;' />
+<rect x='148.22' y='138.61' width='34.31' height='15.07' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #C22630; fill-opacity: 0.70;' />
+<rect x='148.22' y='176.27' width='28.60' height='15.07' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #C22630; fill-opacity: 0.70;' />
+<rect x='148.22' y='82.11' width='285.96' height='15.07' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #C22630; fill-opacity: 0.70;' />
+<rect x='148.22' y='157.44' width='28.60' height='15.07' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #C22630; fill-opacity: 0.70;' />
+<rect x='148.22' y='119.78' width='34.31' height='15.07' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #C22630; fill-opacity: 0.70;' />
+<line x1='148.22' y1='213.94' x2='148.22' y2='78.34' style='stroke-width: 2.13; stroke: #333333; stroke-linecap: butt;' />
+<text x='155.65' y='205.86' style='font-size: 8.54px; font-weight: bold; fill: #212121; font-family: Arial;' textLength='5.01px' lengthAdjust='spacingAndGlyphs'>1</text>
+<text x='264.32' y='111.69' style='font-size: 8.54px; font-weight: bold; fill: #212121; font-family: Arial;' textLength='10.01px' lengthAdjust='spacingAndGlyphs'>20</text>
+<text x='184.25' y='149.36' style='font-size: 8.54px; font-weight: bold; fill: #212121; font-family: Arial;' textLength='5.01px' lengthAdjust='spacingAndGlyphs'>6</text>
+<text x='178.53' y='187.03' style='font-size: 8.54px; font-weight: bold; fill: #212121; font-family: Arial;' textLength='5.01px' lengthAdjust='spacingAndGlyphs'>5</text>
+<text x='435.89' y='92.86' style='font-size: 8.54px; font-weight: bold; fill: #212121; font-family: Arial;' textLength='10.01px' lengthAdjust='spacingAndGlyphs'>50</text>
+<text x='178.53' y='168.19' style='font-size: 8.54px; font-weight: bold; fill: #212121; font-family: Arial;' textLength='5.01px' lengthAdjust='spacingAndGlyphs'>5</text>
+<text x='184.25' y='130.53' style='font-size: 8.54px; font-weight: bold; fill: #212121; font-family: Arial;' textLength='5.01px' lengthAdjust='spacingAndGlyphs'>6</text>
+<rect x='148.22' y='232.11' width='514.72' height='15.07' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #E98B3A; fill-opacity: 0.70;' />
+<rect x='148.22' y='288.61' width='68.63' height='15.07' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #E98B3A; fill-opacity: 0.70;' />
+<rect x='148.22' y='307.44' width='45.75' height='15.07' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #E98B3A; fill-opacity: 0.70;' />
+<rect x='148.22' y='401.60' width='5.72' height='15.07' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #E98B3A; fill-opacity: 0.70;' />
+<rect x='148.22' y='326.27' width='40.03' height='15.07' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #E98B3A; fill-opacity: 0.70;' />
+<rect x='148.22' y='269.77' width='68.63' height='15.07' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #E98B3A; fill-opacity: 0.70;' />
+<rect x='148.22' y='363.94' width='11.44' height='15.07' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #E98B3A; fill-opacity: 0.70;' />
+<rect x='148.22' y='345.10' width='11.44' height='15.07' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #E98B3A; fill-opacity: 0.70;' />
+<rect x='148.22' y='382.77' width='5.72' height='15.07' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #E98B3A; fill-opacity: 0.70;' />
+<rect x='148.22' y='250.94' width='308.83' height='15.07' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #E98B3A; fill-opacity: 0.70;' />
+<line x1='148.22' y1='420.44' x2='148.22' y2='228.34' style='stroke-width: 2.13; stroke: #333333; stroke-linecap: butt;' />
+<text x='664.65' y='242.86' style='font-size: 8.54px; font-weight: bold; fill: #212121; font-family: Arial;' textLength='10.01px' lengthAdjust='spacingAndGlyphs'>90</text>
+<text x='218.56' y='299.36' style='font-size: 8.54px; font-weight: bold; fill: #212121; font-family: Arial;' textLength='10.01px' lengthAdjust='spacingAndGlyphs'>12</text>
+<text x='195.69' y='318.19' style='font-size: 8.54px; font-weight: bold; fill: #212121; font-family: Arial;' textLength='5.01px' lengthAdjust='spacingAndGlyphs'>8</text>
+<text x='155.65' y='412.36' style='font-size: 8.54px; font-weight: bold; fill: #212121; font-family: Arial;' textLength='5.01px' lengthAdjust='spacingAndGlyphs'>1</text>
+<text x='189.97' y='337.02' style='font-size: 8.54px; font-weight: bold; fill: #212121; font-family: Arial;' textLength='5.01px' lengthAdjust='spacingAndGlyphs'>7</text>
+<text x='218.56' y='280.52' style='font-size: 8.54px; font-weight: bold; fill: #212121; font-family: Arial;' textLength='10.01px' lengthAdjust='spacingAndGlyphs'>12</text>
+<text x='161.37' y='374.69' style='font-size: 8.54px; font-weight: bold; fill: #212121; font-family: Arial;' textLength='5.01px' lengthAdjust='spacingAndGlyphs'>2</text>
+<text x='161.37' y='355.86' style='font-size: 8.54px; font-weight: bold; fill: #212121; font-family: Arial;' textLength='5.01px' lengthAdjust='spacingAndGlyphs'>2</text>
+<text x='155.65' y='393.52' style='font-size: 8.54px; font-weight: bold; fill: #212121; font-family: Arial;' textLength='5.01px' lengthAdjust='spacingAndGlyphs'>1</text>
+<text x='458.77' y='261.69' style='font-size: 8.54px; font-weight: bold; fill: #212121; font-family: Arial;' textLength='10.01px' lengthAdjust='spacingAndGlyphs'>54</text>
+<defs>
+  <clipPath id='cpNjY0LjY1fDY2NC42NXwyMTMuOTR8NzguMzQ='>
+    <rect x='664.65' y='78.34' width='0.00' height='135.60' />
+  </clipPath>
+</defs>
+<defs>
+  <clipPath id='cpMC4wMHw2OTMuMDB8NDcxLjAwfDAuMDA='>
+    <rect x='0.00' y='0.00' width='693.00' height='471.00' />
+  </clipPath>
+</defs>
+<defs>
+  <clipPath id='cpNjY0LjY1fDY2NC42NXw0MjAuNDR8MjI4LjM0'>
+    <rect x='664.65' y='228.34' width='0.00' height='192.10' />
+  </clipPath>
+</defs>
+<defs>
+  <clipPath id='cpMC4wMHw2OTMuMDB8NDcxLjAwfDAuMDA='>
+    <rect x='0.00' y='0.00' width='693.00' height='471.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw2OTMuMDB8NDcxLjAwfDAuMDA=)'><text x='84.47' y='206.22' style='font-size: 9.60px; fill: #4D4D4D; font-family: Arial;' textLength='58.37px' lengthAdjust='spacingAndGlyphs'>Corn Bunting</text></g>
+<g clip-path='url(#cpMC4wMHw2OTMuMDB8NDcxLjAwfDAuMDA=)'><text x='82.82' y='187.39' style='font-size: 9.60px; fill: #4D4D4D; font-family: Arial;' textLength='60.01px' lengthAdjust='spacingAndGlyphs'>Mistle Thrush</text></g>
+<g clip-path='url(#cpMC4wMHw2OTMuMDB8NDcxLjAwfDAuMDA=)'><text x='85.58' y='168.55' style='font-size: 9.60px; fill: #4D4D4D; font-family: Arial;' textLength='57.26px' lengthAdjust='spacingAndGlyphs'>Song Thrush</text></g>
+<g clip-path='url(#cpMC4wMHw2OTMuMDB8NDcxLjAwfDAuMDA=)'><text x='76.13' y='149.72' style='font-size: 9.60px; fill: #4D4D4D; font-family: Arial;' textLength='66.70px' lengthAdjust='spacingAndGlyphs'>Lesser Redpoll</text></g>
+<g clip-path='url(#cpMC4wMHw2OTMuMDB8NDcxLjAwfDAuMDA=)'><text x='76.71' y='130.89' style='font-size: 9.60px; fill: #4D4D4D; font-family: Arial;' textLength='66.13px' lengthAdjust='spacingAndGlyphs'>Yellowhammer</text></g>
+<g clip-path='url(#cpMC4wMHw2OTMuMDB8NDcxLjAwfDAuMDA=)'><text x='103.93' y='112.05' style='font-size: 9.60px; fill: #4D4D4D; font-family: Arial;' textLength='38.91px' lengthAdjust='spacingAndGlyphs'>Fieldfare</text></g>
+<g clip-path='url(#cpMC4wMHw2OTMuMDB8NDcxLjAwfDAuMDA=)'><text x='103.93' y='93.22' style='font-size: 9.60px; fill: #4D4D4D; font-family: Arial;' textLength='38.91px' lengthAdjust='spacingAndGlyphs'>Redwing</text></g>
+<g clip-path='url(#cpMC4wMHw2OTMuMDB8NDcxLjAwfDAuMDA=)'><text x='28.35' y='412.71' style='font-size: 9.60px; fill: #4D4D4D; font-family: Arial;' textLength='114.49px' lengthAdjust='spacingAndGlyphs'>Lesser Black-Backed Gull</text></g>
+<g clip-path='url(#cpMC4wMHw2OTMuMDB8NDcxLjAwfDAuMDA=)'><text x='91.71' y='393.88' style='font-size: 9.60px; fill: #4D4D4D; font-family: Arial;' textLength='51.13px' lengthAdjust='spacingAndGlyphs'>Stock Dove</text></g>
+<g clip-path='url(#cpMC4wMHw2OTMuMDB8NDcxLjAwfDAuMDA=)'><text x='92.81' y='375.05' style='font-size: 9.60px; fill: #4D4D4D; font-family: Arial;' textLength='50.02px' lengthAdjust='spacingAndGlyphs'>Mute Swan</text></g>
+<g clip-path='url(#cpMC4wMHw2OTMuMDB8NDcxLjAwfDAuMDA=)'><text x='82.24' y='356.22' style='font-size: 9.60px; fill: #4D4D4D; font-family: Arial;' textLength='60.60px' lengthAdjust='spacingAndGlyphs'>Reed Bunting</text></g>
+<g clip-path='url(#cpMC4wMHw2OTMuMDB8NDcxLjAwfDAuMDA=)'><text x='110.05' y='337.38' style='font-size: 9.60px; fill: #4D4D4D; font-family: Arial;' textLength='32.79px' lengthAdjust='spacingAndGlyphs'>Mallard</text></g>
+<g clip-path='url(#cpMC4wMHw2OTMuMDB8NDcxLjAwfDAuMDA=)'><text x='106.71' y='318.55' style='font-size: 9.60px; fill: #4D4D4D; font-family: Arial;' textLength='36.13px' lengthAdjust='spacingAndGlyphs'>Gadwall</text></g>
+<g clip-path='url(#cpMC4wMHw2OTMuMDB8NDcxLjAwfDAuMDA=)'><text x='103.37' y='299.72' style='font-size: 9.60px; fill: #4D4D4D; font-family: Arial;' textLength='39.47px' lengthAdjust='spacingAndGlyphs'>Dunnock</text></g>
+<g clip-path='url(#cpMC4wMHw2OTMuMDB8NDcxLjAwfDAuMDA=)'><text x='82.81' y='280.88' style='font-size: 9.60px; fill: #4D4D4D; font-family: Arial;' textLength='60.03px' lengthAdjust='spacingAndGlyphs'>Meadow Pipit</text></g>
+<g clip-path='url(#cpMC4wMHw2OTMuMDB8NDcxLjAwfDAuMDA=)'><text x='74.47' y='262.05' style='font-size: 9.60px; fill: #4D4D4D; font-family: Arial;' textLength='68.37px' lengthAdjust='spacingAndGlyphs'>Whooper Swan</text></g>
+<g clip-path='url(#cpMC4wMHw2OTMuMDB8NDcxLjAwfDAuMDA=)'><text x='59.46' y='243.22' style='font-size: 9.60px; fill: #4D4D4D; font-family: Arial;' textLength='83.37px' lengthAdjust='spacingAndGlyphs'>Black-Headed Gull</text></g>
+<g clip-path='url(#cpMC4wMHw2OTMuMDB8NDcxLjAwfDAuMDA=)'><text x='148.22' y='55.89' style='font-size: 12.00px; fill: #757575; font-family: Arial;' textLength='18.67px' lengthAdjust='spacingAndGlyphs'>last</text></g>
+<g clip-path='url(#cpMC4wMHw2OTMuMDB8NDcxLjAwfDAuMDA=)'><text x='170.23' y='55.89' style='font-size: 12.00px; fill: #757575; font-family: Arial;' textLength='13.35px' lengthAdjust='spacingAndGlyphs'>30</text></g>
+<g clip-path='url(#cpMC4wMHw2OTMuMDB8NDcxLjAwfDAuMDA=)'><text x='186.91' y='55.89' style='font-size: 12.00px; fill: #757575; font-family: Arial;' textLength='25.35px' lengthAdjust='spacingAndGlyphs'>days</text></g>
+<g clip-path='url(#cpMC4wMHw2OTMuMDB8NDcxLjAwfDAuMDA=)'><text x='148.22' y='38.36' style='font-size: 14.40px; font-weight: bold; font-family: Arial;' textLength='392.82px' lengthAdjust='spacingAndGlyphs'>Birds of conservation concern spotted on Carrington Moss</text></g>
+<g clip-path='url(#cpMC4wMHw2OTMuMDB8NDcxLjAwfDAuMDA=)'><text x='454.18' y='450.51' style='font-size: 9.60px; fill: #999999; font-family: Arial;' textLength='210.48px' lengthAdjust='spacingAndGlyphs'>Data: ebird.org | Birds of Conservation Concern</text></g>
+</svg>

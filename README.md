@@ -7,6 +7,8 @@
 | `2020-07-13` | [Claimant rate](https://www.trafforddatalab.io/charticles/2020-07-13-claimant-rate) |
 | `2020-10-15` | [Child poverty](https://www.trafforddatalab.io/charticles/2020-10-15-child-poverty) |
 | `2020-10-16` | [Mobility trends](https://www.trafforddatalab.io/charticles/2020-10-16-mobility-trends) |
+| `2020-11-06` | [Birds of conservation concern](https://www.trafforddatalab.io/charticles/2020-11-06-birds-of-conservation-concern) |
+
 
 ## 2019
 
