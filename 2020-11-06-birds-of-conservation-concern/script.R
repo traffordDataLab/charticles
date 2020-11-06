@@ -12,7 +12,7 @@ BoCC4 <- read_csv("BoCC4_list.csv") %>%
 
 # Bird sightings at Carrington Moss over last 30 days #
 # Source: https://ebird.org/hotspot/L3267897
-birds <- ebirdregion(key = "6hanhdiola5p", loc = "L3267897", back = 30) %>% 
+birds <- ebirdregion(key = "#", loc = "L3267897", back = 30) %>% 
   group_by(comName) %>%
   summarise(n = sum(howMany)) %>% 
   mutate(comName = tolower(comName))
