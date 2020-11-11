@@ -71,7 +71,6 @@ tm <- tm_shape(filter(wards, area_name %in% sf$area_name), is.master = TRUE) +
             panel.label.height = 2,
             panel.label.size = 1.5, 
             panel.label.bg.color = "#FFFFFF") +
-  tm_credits("Contains OS data © Crown copyright and database right (2020)", position = c("right", "BOTTOM")) +
   tmap_style("gray")
 
 tm
