@@ -1,0 +1,49 @@
+area_name,period,rate,lcl,ucl
+Trafford,2017-2019,8.1,6,10.7
+Trafford,2016-2018,6.8,4.9,9.3
+Trafford,2015-2017,7.3,5.3,9.9
+Trafford,2014-2016,6.8,4.9,9.3
+Trafford,2013-2015,8.1,6,10.8
+Trafford,2012-2014,9.7,7.3,12.6
+Trafford,2011-2013,10.3,7.9,13.3
+Trafford,2010-2012,10.5,8,13.5
+Trafford,2009-2011,8.8,6.6,11.5
+Trafford,2008-2010,9.2,6.9,12
+Trafford,2007-2009,7.6,5.5,10.2
+Trafford,2006-2008,8.3,6.1,11.1
+Trafford,2005-2007,8.7,6.5,11.5
+Trafford,2004-2006,10.14,7.7,13.2
+Trafford,2003-2005,10.1,7.6,13.2
+Trafford,2002-2004,9.8,7.4,12.8
+England,2017-2019,10.1,NA,NA
+England,2016-2018,9.6,NA,NA
+England,2015-2017,9.6,NA,NA
+England,2014-2016,9.9,NA,NA
+England,2013-2015,10.1,NA,NA
+England,2012-2014,10,NA,NA
+England,2011-2013,9.8,NA,NA
+England,2010-2012,9.5,NA,NA
+England,2009-2011,9.5,NA,NA
+England,2008-2010,9.4,NA,NA
+England,2007-2009,9.3,NA,NA
+England,2006-2008,9.2,NA,NA
+England,2005-2007,9.4,NA,NA
+England,2004-2006,9.9,NA,NA
+England,2003-2005,10.1,NA,NA
+England,2002-2004,10.2,NA,NA
+North West,2017-2019,10.6,NA,NA
+North West,2016-2018,10.4,NA,NA
+North West,2015-2017,10.4,NA,NA
+North West,2014-2016,11,NA,NA
+North West,2013-2015,11.3,NA,NA
+North West,2012-2014,11.5,NA,NA
+North West,2011-2013,11.3,NA,NA
+North West,2010-2012,10.8,NA,NA
+North West,2009-2011,10.8,NA,NA
+North West,2008-2010,10.5,NA,NA
+North West,2007-2009,10.7,NA,NA
+North West,2006-2008,10.3,NA,NA
+North West,2005-2007,10.7,NA,NA
+North West,2004-2006,10.8,NA,NA
+North West,2003-2005,10.9,NA,NA
+North West,2002-2004,10.7,NA,NA

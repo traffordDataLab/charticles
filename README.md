@@ -10,6 +10,7 @@
 | `2020-11-06` | [Birds of conservation concern](https://www.trafforddatalab.io/charticles/2020-11-06-birds-of-conservation-concern) |
 | `2020-11-09` | [Dwellings with no outdoor space](https://www.trafforddatalab.io/charticles/2020-11-09-dwellings-no-outdoor-space) |
 | `2020-11-11` | [Golf courses](https://www.trafforddatalab.io/charticles/2020-11-11-golf-courses) |
+| `2020-11-16` | [Suicides](https://www.trafforddatalab.io/charticles/2020-11-16-suicides) |
 
 ## 2019
 
