@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
+        <meta name="keywords" content="internet, trafford"/>
+        <meta name="description" content="Levels of Internet engagement in Trafford;s neighbourhoods"/>
+
+        <title>Internet engagment</title>
+
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" crossorigin="anonymous"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400%7CRoboto:300"/>
+        <link rel="stylesheet" href="../base.css"/>
+        <link rel="stylesheet" href="../charticle.css"/>
+    </head>
+    <body>
+        <div class="container">
+            <span id="a11yNav"><a href="#downloads" class="themeBlockDark">Skip to download options</a></span>
+            <main>
+                <h1>A North-South digital divide</h1>
+                <time datetime="YYYY-MM-DD">January 14, 2021</time>
+
+                <p>
+                    The <a href="https://data.cdrc.ac.uk/dataset/internet-user-classification" target="_blank">2018 Internet User Classification (IUC)</a> uses data from online retailers, the 2011 Census and Ofcom to create a typology of Internet engagement at a local area level. The IUC profiles local areas into 10 different groups which differ by characteristics such as broadband speed, laptop ownership, and use of the Internet for online shopping. Pen portraits for each IUC group are available on the <a href="https://data.cdrc.ac.uk/dataset/internet-user-classification" target="_blank">CDRC website</a>.
+                </p>
+
+                <p>
+                    Internet engagement is highest in the South of Trafford with the majority of neighbourhoods classified as 'e-Veterans'. In these areas residents use multiple devices to access the Internet for a wide variety of purposes. Across the centre of the borough is a band of neighbourhoods characterised as 'Passive and Uncommitted Users'. Internet engagement in these areas is low with broadband access well below average. In the North West of the borough the majority of neighbourhoods show average levels of Internet engagement.
+                </p>
+
+                <p>
+                    There are pockets of 'Digital Seniors' in Davyhulme West, Flixton, St Mary's and Bowdon. Residents in these areas use the Internet infrequently but are adept at online banking and shopping. Neighbourhoods in Bucklow-St Martins, St Mary's and Clifford have the lowest levels of Internet engagement and are classified as 'e-Withdrawn'. These areas are typically marked by high levels of socio-economic deprivation.
+                </p>
+
+                <figure>
+                    <img src="plot.png" width="600" alt="Map showing yhe distribution of Internet engagement across Trafford's neighbourhoods"/>
+                </figure>
+            </main>
+
+            <footer>
+                <span class="hideContent" id="downloadsLabel">Download options:</span>
+                <ul id="downloads" aria-labelledby="downloadsLabel">
+                    <li><a href="data.csv" aria-label="Download the CSV data" class="labButton" download>CSV<span class="fas fa-download"></span></a></li>
+                    <li><a href="plot.png" aria-label="Download the PNG image" class="labButton" download>PNG<span class="fas fa-download"></span></a></li>
+                    <li><a href="script.R" aria-label="Download the R script code" class="labButton" download>R<span class="fas fa-download"></span></a></li>
+                </ul>
+                <a href="https://www.trafforddatalab.io/charticles.html" aria-label="Return to Trafford Data Lab charticles page"><img src="https://www.trafforddatalab.io/assets/logo/trafforddatalab_logo.svg" alt="Trafford Data Lab" width="93"/></a>
+            </footer>
+        </div>
+    </body>
+</html>
