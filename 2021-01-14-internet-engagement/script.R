@@ -58,7 +58,7 @@ map <- ggplot() +
                   color = "#FFFFFF", size  = 1.5, fontface = "bold",
                   box.padding = 0, point.padding = 0) +
   scale_fill_d3() +
-  labs(title = "Neigbourhood differences in Internet engagement",
+  labs(title = "Neighbourhood differences in Internet engagement",
        subtitle = paste0("<span style = 'color:#757575;'>Number of LSOAs, ", id, ", 2018</span>"),
        caption = "Contains Ordnance Survey data © Crown copyright and database right 2021\nSource: 2018 Internet User Classification") +
   coord_sf(datum = NA) +
