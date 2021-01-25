@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
+        <meta name="keywords" content="life expectancy, health"/>
+        <meta name="description" content="Average life expectancy in Trafford's MSOAs"/>
+
+        <title>Average life expectancy in Trafford's MSOAs</title>
+
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" crossorigin="anonymous"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400%7CRoboto:300"/>
+        <link rel="stylesheet" href="../base.css"/>
+        <link rel="stylesheet" href="../charticle.css"/>
+    </head>
+    <body>
+        <div class="container">
+            <span id="a11yNav"><a href="#downloads" class="themeBlockDark">Skip to download options</a></span>
+            <main>
+                <h1>Stark differences in life expectancy across Trafford</h1>
+                <time datetime="YYYY-MM-DD">January 25, 2021</time>
+
+                <p>
+                    Life expectancy is the average number of years a person can expect to live based on contemporary mortality rates. Figures for 2015-19 are published at small area level for Middle-layer Super Output Areas (MSOA). These are areas with an average population of about 8,000 people. The <a href="https://commonslibrary.parliament.uk" target="_blank">House of Commons Library</a> have published a helpful <a href="https://visual.parliament.uk/msoanames/map?long=-2.340154116392114&lat=53.4211218505869&zoom=10.803148798810708" target="_blank">interactive map</a> of these areas.
+                </p>
+
+                <p>
+                    Average life expectancy for males varies from 74.9 years in Partington to 83.8 years in Timperley North. The average life expectancy for males in England is 79.7. Partington, Stretford East, Urmston East, Old Trafford, Gorse Hill and Firswood all have average life expectancies for males <a href="https://fingertips.phe.org.uk/search/93283#page/3/gid/1/pat/101/par/E08000009/ati/3/are/E02001275/iid/93283/age/1/sex/1/cid/4/tbm/1/page-options/ovw-do-0_eng-do-0_eng-vo-1_car-do-0" target="_blank">significantly lower</a> than the England average.
+                </p>
+
+                <p>
+                    On average, females born in Partington can expect to live 77.7 years. This is <a href="https://fingertips.phe.org.uk/search/93283#page/3/gid/1/pat/101/par/E08000009/ati/3/are/E02001275/iid/93283/age/1/sex/2/cid/4/tbm/1/page-options/ovw-do-0_eng-do-0_eng-vo-1_car-do-0" target="_blank">significantly lower</a> than the average life expectancy for females in England which is 83.2 years. Lostock & Stretford Meadows and Urmston East also report significantly lower life expectancies than the England average. However, females in Partington also have a lower average life expectancy than males in England.
+                </p>
+
+                <p>
+                    The gender gap in life expectancy between males and females varies sharply between small areas. The largest gap is 7.4 years in Old Trafford compared with less than a year in West Timperley. The gender gap in life expectancy in England is 3.6 years.
+                </p>    
+
+                <figure>
+                    <img src="plot.png" width="600" alt="Chart showing differences in life expectancy between males and females in small areas of Trafford"/>
+                </figure>
+            </main>
+
+            <footer>
+                <span class="hideContent" id="downloadsLabel">Download options:</span>
+                <ul id="downloads" aria-labelledby="downloadsLabel">
+                    <li><a href="data.csv" aria-label="Download the CSV data" class="labButton" download>CSV<span class="fas fa-download"></span></a></li>
+                    <li><a href="plot.png" aria-label="Download the PNG image" class="labButton" download>PNG<span class="fas fa-download"></span></a></li>
+                    <li><a href="script.R" aria-label="Download the R script code" class="labButton" download>R<span class="fas fa-download"></span></a></li>
+                </ul>
+                <a href="https://www.trafforddatalab.io/charticles.html" aria-label="Return to Trafford Data Lab charticles page"><img src="https://www.trafforddatalab.io/assets/logo/trafforddatalab_logo.svg" alt="Trafford Data Lab" width="93"/></a>
+            </footer>
+        </div>
+    </body>
+</html>

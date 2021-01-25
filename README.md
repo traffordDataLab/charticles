@@ -3,6 +3,7 @@
 | Date | Title |
 | :--- | :--- |
 | `2021-01-14` | [Internet engagement](https://www.trafforddatalab.io/charticles/2021-01-14-internet-engagement) |
+| `2021-01-25` | [Life expectancy](https://www.trafforddatalab.io/charticles/2021-01-15-life-expectancy) |
 
 ## 2020
 
