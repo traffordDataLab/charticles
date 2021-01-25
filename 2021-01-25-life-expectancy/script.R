@@ -41,7 +41,7 @@ ggplot(data = filter(df, AreaName != "England"),
              arrow = arrow(length = unit(0.01, "npc"))) +
   scale_colour_manual(values = c("Female" = "#77CAE0", "Male" = "#03658F")) +
   scale_fill_manual(values = c("Female" = "#77CAE0", "Male" = "#03658F")) +
-  scale_y_continuous(limits = c(72,88)) +
+  scale_y_continuous(limits = c(74,88), breaks = c(seq(74,88,2))) +
   labs(title = "Differences in life expectancy at birth between <span style = 'color:#03658F;'>males</span> and <span style = 'color:#77CAE0;'>females</span>",
        subtitle = "<span style = 'color:#757575;'>Average years sorted by gender gap, MSOAs in Trafford, 2015-19</span>",
        caption = "Source: Public Health England | @traffordDataLab",
