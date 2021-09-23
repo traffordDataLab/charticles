@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
+        <meta name="keywords" content="nitrogen dioxide air pollution cars charticle climate change"/>
+        <meta name="description" content="Charticle visualising the nitrogen dioxide monthly mean levels at the A56 monitoring station in Trafford"/>
+
+        <title>Roadside pollution</title>
+
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" crossorigin="anonymous"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400%7CRoboto:300"/>
+        <link rel="stylesheet" href="../base.css"/>
+        <link rel="stylesheet" href="../charticle.css"/>
+    </head>
+    <body>
+        <div class="container">
+            <span id="a11yNav"><a href="#downloads" class="themeBlockDark">Skip to download options</a></span>
+            <main>
+                <h1>Roadside pollution</h1>
+                <time datetime="2021-09-23">September 23, 2021</time>
+
+                <p>
+                  The burning of fossil fuels for transportation and industry is a major contributor to air pollution emissions such as Nitrogen Dioxide (NO<sub>2</sub>). The Covid-19 pandemic and associated restrictions changed the transportation paterns and therefore could have had an impact on the pollution levels measured at roadside.
+                </p>
+
+                <p>
+                    In Trafford, after the start of the Covid-19 pandemic and during the associated lockdowns and restrictions the NO<sub>2</sub> levels measured at the roadside site on the A46 have been lower compared to periods with no restrictions. The spring and summer months of 2020 presented lower NO<sub>2</sub> monthly means compared to the same seasons in 2019 and 2021, visible in the chart below in light blue. Consequently the level of pollution appears to be higher after the staged end of restrictions during spring and summer 2021 compared to the spring and summer months of 2020. The winter months of 2020/2021 registered the lowest levels of monthly mean NO<sub>2</sub> compared to the previous two winters.
+                </p>
+
+                <p>
+                  In addition to man-made emissions the measured pollution levels for a specific location are affected by other factors such as weather conditions like wind speed, temperature, sunlight, and humidity.
+                </p>
+
+                <figure>
+                    <img src="plot.png" width="600" alt="Timeline of the nitrogen dioxide monthly mean levels at the A56 station in Trafford"/>
+                </figure>
+            </main>
+
+            <footer>
+                <span class="hideContent" id="downloadsLabel">Download options:</span>
+                <ul id="downloads" aria-labelledby="downloadsLabel">
+                    <li><a href="data.csv" aria-label="Download the CSV data" class="labButton" download>CSV<span class="fas fa-download"></span></a></li>
+                    <li><a href="plot.png" aria-label="Download the PNG image" class="labButton" download>PNG<span class="fas fa-download"></span></a></li>
+                    <li><a href="script.R" aria-label="Download the R script code" class="labButton" download>R<span class="fas fa-download"></span></a></li>
+                </ul>
+                <a href="https://www.trafforddatalab.io/charticles.html" aria-label="Return to Trafford Data Lab charticles page"><img src="https://www.trafforddatalab.io/assets/logo/trafforddatalab_logo.svg" alt="Trafford Data Lab" width="93"/></a>
+            </footer>
+        </div>
+    </body>
+</html>
