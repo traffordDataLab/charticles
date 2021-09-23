@@ -93,7 +93,7 @@ ggplot(month_mean,aes(period,value,group=category)) +
         panel.grid.minor = element_blank(),
         strip.text = element_text(size = 10, face = "bold", hjust = 0)) +
   labs(title = expression(bold(paste("Monthly mean ", NO[2], " concentrations"))),
-       subtitle = "Trafford A56, August 2021 to September 2018",
+       subtitle = "Trafford A56, September 2018 to August 2021",
        caption = "Source: airqualityengland.co.uk  |  @traffordDataLab",
        x = "",
        y = "µg/m³") 
