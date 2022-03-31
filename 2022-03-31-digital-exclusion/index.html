@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
+        <meta name="keywords" content="digital exclusion, digital, DERI, index, population, trafford, LSOA, visualisation, charticle"/>
+        <meta name="description" content="Population percent at risk of Digital exclusion in Trafford"/>
+
+        <title>Population percent at risk of Digital exclusion in Trafford</title>
+
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" crossorigin="anonymous"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400%7CRoboto:300"/>
+        <link rel="stylesheet" href="../base.css"/>
+        <link rel="stylesheet" href="../charticle.css"/>
+    </head>
+    <body>
+        <div class="container">
+            <span id="a11yNav"><a href="#downloads" class="themeBlockDark">Skip to download options</a></span>
+            <main>
+                <h1>Population at risk of digital exclusion</h1>
+                <time datetime="2022-03-31">March 31, 2022</time>
+
+                <p>Digital exclusion could be a barrier to access services and opportunities that are accessible only or more easily accessible online.</p>
+
+<p>The <a href="https://www.gmtableau.nhs.uk/t/GMCA/views/DigitalExclusionRiskIndexv1_5/DERIhomepage" target="_blank">Digital Exclusion Risk Index (DERI)</a>  created by the <a href="https://www.greatermanchester-ca.gov.uk/what-we-do/research/office-of-data-analytics/" target="_blank">GMCA</a> expresses the risk or “likelihood” of  digital exclusion by area (LSOA) compared to other areas (LSOAs), nationally or within a district, using a score.</p>
+
+<p>The DERI score  is based on the combination of scores of 11 indicators related to 3 topics: Broadband, Demography and Deprivation covering risk factors such as broadband connectivity, older age, disability, deprivation,  poverty, and skills levels that are considered to influence digital exclusion.</p>
+
+<p>At a district level the areas are scored in each of the indicators according to their level among the maximum and minimum values of the areas within the district. Each of the indicator’s scores for the area is then weighted and combined to create the DERI score.</p>
+
+<p>In Trafford there are pockets of higher risk of digital exclusion in Bucklow-St Martins and Bowdon. 7.7 % of the population of Trafford live in an area (LSOA) with a DERI score of 5 or 6 representing a high risk of digital exclusion, whilst 53.2% live in an area with DERI index of 1 or 2 representing a low risk of digital exclusion.</p>
+
+                <figure>
+                    <img src="plot.png" width="600" alt="Map of the Digital Exclusion Risk Index for Trafford's areas and a column showing the population % by index"/>
+                </figure>
+            </main>
+
+            <footer>
+                <span class="hideContent" id="downloadsLabel">Download options:</span>
+                <ul id="downloads" aria-labelledby="downloadsLabel">
+                    <li><a href="data.csv" aria-label="Download the CSV data" class="labButton" download>CSV<span class="fas fa-download"></span></a></li>
+                    <li><a href="plot.png" aria-label="Download the PNG image" class="labButton" download>PNG<span class="fas fa-download"></span></a></li>
+                    <li><a href="script.R" aria-label="Download the R script code" class="labButton" download>R<span class="fas fa-download"></span></a></li>
+                </ul>
+                <a href="https://www.trafforddatalab.io/charticles.html" aria-label="Return to Trafford Data Lab charticles page"><img src="https://www.trafforddatalab.io/assets/logo/trafforddatalab_logo.svg" alt="Trafford Data Lab" width="93"/></a>
+            </footer>
+        </div>
+    </body>
+</html>
