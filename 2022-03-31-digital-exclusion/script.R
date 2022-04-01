@@ -1,7 +1,7 @@
 # Digital Exclusion #
 
 # Source: GMCA
-# URL: https://www.gmtableau.nhs.uk/t/GMCA/views/DigitalExclusionRiskIndexv1_5/DERIhomepage?%3Aiid=1&%3AisGuestRedirectFromVizportal=y&%3Aembed=y
+# URL: https://github.com/GreaterManchesterODA/Digital-Exclusion-Risk-Index/tree/main/Version%201.5
 # Licence: Open Government Licence 3.0
 
 # load libraries ---------------------------
@@ -66,7 +66,7 @@ map <- ggplot(lsoa_digital) +
                      label = function(x) paste0(x, ""),
                      direction = -1) +
   labs(x = NULL, y = NULL,
-       title = "Digital Exclusion Risk Index",
+       title = "Digital Exclusion Risk Index (DERI)",
        subtitle = "Trafford LSOAs, 2019",
        fill = NULL) +
   coord_sf(datum = NA) +
@@ -76,21 +76,22 @@ map <- ggplot(lsoa_digital) +
         legend.text = element_text(size = 10))
 
 chart <- DERI_score_pop %>% 
-  ggplot(aes(x = area_name, y = value, fill = DERI_score)) +
-  geom_col(show.legend = FALSE, position = position_stack(reverse = T), width = 0.2) +
-  geom_label(aes(label = paste0(value, "%")),
+  mutate(colour_var = if_else(DERI_score == 1, "#585656", "#FFFFFF")) %>%
+  ggplot(aes(x = area_name, y = value)) +
+  geom_col(aes(fill = DERI_score), show.legend = FALSE, position = position_stack(reverse = T), width = 0.2) +
+  geom_text(aes(label = paste0(value, "%"), colour = colour_var),
+             position = position_stack(vjust = 0.5, reverse = T), size = 2.5) +
+  geom_text(aes(x = 0.85, label = DERI_score),
              position = position_stack(vjust = 0.5),
-             colour = "#FFFFFF", fill = NA, label.size = NA, size = 2.5) +
-  geom_label(aes(x = 0.85, label = DERI_score),
-             position = position_stack(vjust = 0.5),
-             colour = "black", fill = NA, label.size = NA, size = 3, fontface = "bold") +
+             colour = "black", size = 3, fontface = "bold") +
   scale_fill_viridis(option = "D", discrete = T, 
                      label = function(x) paste0(x, ""),
                      direction = -1) +
+  scale_color_identity() +
   scale_y_continuous(expand = c(0, 1)) +
   scale_x_discrete(expand = c(0.1, 0.1)) +
   labs(title = " ",
-       subtitle = "Population %\nby Index",
+       subtitle = "Population %\nby DERI score",
        caption = "Higher index indicates higher risk of digital exclusion\nSource: GMCA/ONS\n Contains OS data © Crown copyright and database right 2022",
        x = NULL, y = NULL) +
   theme_minimal() +
@@ -100,6 +101,7 @@ chart <- DERI_score_pop %>%
         axis.line.y = element_blank(),
         axis.text.x = element_blank(),
         axis.text.y =element_blank(),
+        legend.position = "none"
   )
 
 ggplot() + 
