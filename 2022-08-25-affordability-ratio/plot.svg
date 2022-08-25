@@ -102,7 +102,7 @@
 <text x='301.91' y='53.62' style='font-size: 14.00px;fill: #757575; font-family: "Arial";' textLength='155.60px' lengthAdjust='spacingAndGlyphs'>Similar Local Authorities*</text>
 <text x='486.74' y='53.62' style='font-size: 14.00px;fill: #757575; font-family: "Arial";' textLength='51.36px' lengthAdjust='spacingAndGlyphs'>England</text>
 <text x='53.70' y='30.78' style='font-size: 20.00px; font-weight: bold;fill: #757575; font-family: "Arial";' textLength='467.93px' lengthAdjust='spacingAndGlyphs'>Ratio of median house prices to median earnings</text>
-<text x='678.83' y='540.92' text-anchor='end' style='font-size: 10.00px;fill: #7F7F7F; font-family: "Arial";' textLength='235.86px' lengthAdjust='spacingAndGlyphs'>*Mean of the 15 Trafford's CIPFA nearest neighbours</text>
+<text x='678.83' y='540.92' text-anchor='end' style='font-size: 10.00px;fill: #7F7F7F; font-family: "Arial";' textLength='235.86px' lengthAdjust='spacingAndGlyphs'>*Mean of the Trafford's 15 CIPFA nearest neighbours</text>
 <text x='678.83' y='551.72' text-anchor='end' style='font-size: 10.00px;fill: #7F7F7F; font-family: "Arial";' textLength='141.68px' lengthAdjust='spacingAndGlyphs'>Source: ONS | @trafforddatalab</text>
 </g>
 </svg>

@@ -76,7 +76,7 @@ ggplot(trend,
   labs(
     title = "Ratio of median house prices to median earnings",
     subtitle = NULL,
-    caption = "*Mean of the 15 Trafford's CIPFA nearest neighbours\nSource: ONS | @trafforddatalab",
+    caption = "*Mean of the Trafford's 15 CIPFA nearest neighbours\nSource: ONS | @trafforddatalab",
     x = NULL,
     y = "Ratio",
     colour = NULL
@@ -92,7 +92,7 @@ ggplot(trend,
   guides(fill = "none")
 
 # write data ---------------------------
-write_csv(data, "data1.csv")
-ggsave("plot1.svg", dpi = 300, scale = 1)
-ggsave("plot1.png", dpi = 300, scale = 1)
+write_csv(data, "data.csv")
+ggsave("plot.svg", dpi = 300, scale = 1)
+ggsave("plot.png", dpi = 300, scale = 1)
 
