@@ -1,0 +1,85 @@
+area_code,area_name,period,Dose,value,measure,unit,indicator
+E02001259,Old Trafford,2022-10-19,First Dose,66.7,percent,persons,Vaccination uptake percentage
+E02001259,Old Trafford,2022-10-19,Second Dose,62,percent,persons,Vaccination uptake percentage
+E02001259,Old Trafford,2022-10-19,Third Injection,39.4,percent,persons,Vaccination uptake percentage
+E02001260,Trafford Park West & Kingsway Park,2022-10-19,First Dose,85.9,percent,persons,Vaccination uptake percentage
+E02001260,Trafford Park West & Kingsway Park,2022-10-19,Second Dose,83,percent,persons,Vaccination uptake percentage
+E02001260,Trafford Park West & Kingsway Park,2022-10-19,Third Injection,68.7,percent,persons,Vaccination uptake percentage
+E02001261,Gorse Hill,2022-10-19,First Dose,73.5,percent,persons,Vaccination uptake percentage
+E02001261,Gorse Hill,2022-10-19,Second Dose,69.5,percent,persons,Vaccination uptake percentage
+E02001261,Gorse Hill,2022-10-19,Third Injection,51.4,percent,persons,Vaccination uptake percentage
+E02001262,Firswood,2022-10-19,First Dose,75,percent,persons,Vaccination uptake percentage
+E02001262,Firswood,2022-10-19,Second Dose,71.3,percent,persons,Vaccination uptake percentage
+E02001262,Firswood,2022-10-19,Third Injection,49.6,percent,persons,Vaccination uptake percentage
+E02001263,Davyhulme,2022-10-19,First Dose,89.4,percent,persons,Vaccination uptake percentage
+E02001263,Davyhulme,2022-10-19,Second Dose,87.4,percent,persons,Vaccination uptake percentage
+E02001263,Davyhulme,2022-10-19,Third Injection,73.9,percent,persons,Vaccination uptake percentage
+E02001264,Trafford Park East & Sevenways,2022-10-19,First Dose,80.1,percent,persons,Vaccination uptake percentage
+E02001264,Trafford Park East & Sevenways,2022-10-19,Second Dose,76.5,percent,persons,Vaccination uptake percentage
+E02001264,Trafford Park East & Sevenways,2022-10-19,Third Injection,59.1,percent,persons,Vaccination uptake percentage
+E02001265,Flixton & Moorside,2022-10-19,First Dose,85.2,percent,persons,Vaccination uptake percentage
+E02001265,Flixton & Moorside,2022-10-19,Second Dose,82.1,percent,persons,Vaccination uptake percentage
+E02001265,Flixton & Moorside,2022-10-19,Third Injection,66.4,percent,persons,Vaccination uptake percentage
+E02001266,Lostock & Stretford Meadows,2022-10-19,First Dose,80.1,percent,persons,Vaccination uptake percentage
+E02001266,Lostock & Stretford Meadows,2022-10-19,Second Dose,77.1,percent,persons,Vaccination uptake percentage
+E02001266,Lostock & Stretford Meadows,2022-10-19,Third Injection,61.1,percent,persons,Vaccination uptake percentage
+E02001267,Urmston East,2022-10-19,First Dose,86.2,percent,persons,Vaccination uptake percentage
+E02001267,Urmston East,2022-10-19,Second Dose,83.4,percent,persons,Vaccination uptake percentage
+E02001267,Urmston East,2022-10-19,Third Injection,70.3,percent,persons,Vaccination uptake percentage
+E02001268,Urmston West,2022-10-19,First Dose,89.7,percent,persons,Vaccination uptake percentage
+E02001268,Urmston West,2022-10-19,Second Dose,87.6,percent,persons,Vaccination uptake percentage
+E02001268,Urmston West,2022-10-19,Third Injection,75.6,percent,persons,Vaccination uptake percentage
+E02001269,Stretford East,2022-10-19,First Dose,78,percent,persons,Vaccination uptake percentage
+E02001269,Stretford East,2022-10-19,Second Dose,74.4,percent,persons,Vaccination uptake percentage
+E02001269,Stretford East,2022-10-19,Third Injection,58.1,percent,persons,Vaccination uptake percentage
+E02001270,Sale North,2022-10-19,First Dose,86.7,percent,persons,Vaccination uptake percentage
+E02001270,Sale North,2022-10-19,Second Dose,84,percent,persons,Vaccination uptake percentage
+E02001270,Sale North,2022-10-19,Third Injection,71.7,percent,persons,Vaccination uptake percentage
+E02001271,Ashton upon Mersey North,2022-10-19,First Dose,84.4,percent,persons,Vaccination uptake percentage
+E02001271,Ashton upon Mersey North,2022-10-19,Second Dose,80.9,percent,persons,Vaccination uptake percentage
+E02001271,Ashton upon Mersey North,2022-10-19,Third Injection,65.4,percent,persons,Vaccination uptake percentage
+E02001272,Sale East,2022-10-19,First Dose,87.9,percent,persons,Vaccination uptake percentage
+E02001272,Sale East,2022-10-19,Second Dose,85.6,percent,persons,Vaccination uptake percentage
+E02001272,Sale East,2022-10-19,Third Injection,73.5,percent,persons,Vaccination uptake percentage
+E02001273,Sale Central,2022-10-19,First Dose,83.8,percent,persons,Vaccination uptake percentage
+E02001273,Sale Central,2022-10-19,Second Dose,81.3,percent,persons,Vaccination uptake percentage
+E02001273,Sale Central,2022-10-19,Third Injection,68.8,percent,persons,Vaccination uptake percentage
+E02001274,Ashton upon Mersey South,2022-10-19,First Dose,88.8,percent,persons,Vaccination uptake percentage
+E02001274,Ashton upon Mersey South,2022-10-19,Second Dose,86.4,percent,persons,Vaccination uptake percentage
+E02001274,Ashton upon Mersey South,2022-10-19,Third Injection,74.2,percent,persons,Vaccination uptake percentage
+E02001275,Partington,2022-10-19,First Dose,73,percent,persons,Vaccination uptake percentage
+E02001275,Partington,2022-10-19,Second Dose,68.9,percent,persons,Vaccination uptake percentage
+E02001275,Partington,2022-10-19,Third Injection,50.9,percent,persons,Vaccination uptake percentage
+E02001276,Sale Moor,2022-10-19,First Dose,82.8,percent,persons,Vaccination uptake percentage
+E02001276,Sale Moor,2022-10-19,Second Dose,79.3,percent,persons,Vaccination uptake percentage
+E02001276,Sale Moor,2022-10-19,Third Injection,64.3,percent,persons,Vaccination uptake percentage
+E02001277,Broadheath & Firsway,2022-10-19,First Dose,78.4,percent,persons,Vaccination uptake percentage
+E02001277,Broadheath & Firsway,2022-10-19,Second Dose,74.9,percent,persons,Vaccination uptake percentage
+E02001277,Broadheath & Firsway,2022-10-19,Third Injection,58.1,percent,persons,Vaccination uptake percentage
+E02001278,West Timperley,2022-10-19,First Dose,88.8,percent,persons,Vaccination uptake percentage
+E02001278,West Timperley,2022-10-19,Second Dose,86.2,percent,persons,Vaccination uptake percentage
+E02001278,West Timperley,2022-10-19,Third Injection,72.8,percent,persons,Vaccination uptake percentage
+E02001279,Timperley North,2022-10-19,First Dose,90.4,percent,persons,Vaccination uptake percentage
+E02001279,Timperley North,2022-10-19,Second Dose,88.2,percent,persons,Vaccination uptake percentage
+E02001279,Timperley North,2022-10-19,Third Injection,75.7,percent,persons,Vaccination uptake percentage
+E02001280,Timperley East,2022-10-19,First Dose,83.5,percent,persons,Vaccination uptake percentage
+E02001280,Timperley East,2022-10-19,Second Dose,80.3,percent,persons,Vaccination uptake percentage
+E02001280,Timperley East,2022-10-19,Third Injection,64.2,percent,persons,Vaccination uptake percentage
+E02001281,Timperley South,2022-10-19,First Dose,90.4,percent,persons,Vaccination uptake percentage
+E02001281,Timperley South,2022-10-19,Second Dose,88.4,percent,persons,Vaccination uptake percentage
+E02001281,Timperley South,2022-10-19,Third Injection,75.5,percent,persons,Vaccination uptake percentage
+E02001282,Altrincham East,2022-10-19,First Dose,84.9,percent,persons,Vaccination uptake percentage
+E02001282,Altrincham East,2022-10-19,Second Dose,82,percent,persons,Vaccination uptake percentage
+E02001282,Altrincham East,2022-10-19,Third Injection,67.9,percent,persons,Vaccination uptake percentage
+E02001283,"Altrincham West, Dunham & Warburton",2022-10-19,First Dose,84.9,percent,persons,Vaccination uptake percentage
+E02001283,"Altrincham West, Dunham & Warburton",2022-10-19,Second Dose,82,percent,persons,Vaccination uptake percentage
+E02001283,"Altrincham West, Dunham & Warburton",2022-10-19,Third Injection,69.1,percent,persons,Vaccination uptake percentage
+E02001284,Hale,2022-10-19,First Dose,88.4,percent,persons,Vaccination uptake percentage
+E02001284,Hale,2022-10-19,Second Dose,86,percent,persons,Vaccination uptake percentage
+E02001284,Hale,2022-10-19,Third Injection,73.5,percent,persons,Vaccination uptake percentage
+E02001285,Bowdon,2022-10-19,First Dose,87.8,percent,persons,Vaccination uptake percentage
+E02001285,Bowdon,2022-10-19,Second Dose,85.4,percent,persons,Vaccination uptake percentage
+E02001285,Bowdon,2022-10-19,Third Injection,73.3,percent,persons,Vaccination uptake percentage
+E02001286,Hale Barns,2022-10-19,First Dose,86.8,percent,persons,Vaccination uptake percentage
+E02001286,Hale Barns,2022-10-19,Second Dose,84,percent,persons,Vaccination uptake percentage
+E02001286,Hale Barns,2022-10-19,Third Injection,69.5,percent,persons,Vaccination uptake percentage
