@@ -1,6 +1,6 @@
-# COVID 19 Vaccination uptake rate for Trafford areas
+# COVID-19 Vaccination uptake rate for Trafford areas
 
-COVID 19 vaccination uptake rate for Trafford MSOAs at 19 October 2022
+COVID-19 vaccination uptake rate for Trafford MSOAs on the 19th of October 2022
 
 #### Data sources
 
