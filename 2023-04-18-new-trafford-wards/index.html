@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
+        <meta name="keywords" content=""/>
+        <meta name="description" content=""/>
+
+        <title>Trafford's changing boundaries</title>
+
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" crossorigin="anonymous"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400%7CRoboto:300"/>
+        <link rel="stylesheet" href="../base.css"/>
+        <link rel="stylesheet" href="../charticle.css"/>
+        
+        <style>
+            /* 
+                Styles for the before/after image slider
+                Adapted from work by @Matt_R_Steele - https://codepen.io/Streetproject/pen/gRNebL
+            */
+            
+            figure
+            {
+                padding: 0 10% 0 10%;
+                height: 600px;
+                margin-bottom: 2em;
+            }
+            
+            #oldBoundaries, #newBoundaries
+            {
+                position: absolute;
+                width: 600px;
+                height: 600px;
+                overflow: hidden;
+            }
+            
+            #oldBoundaries img
+            {
+                display: block;
+                vertical-align: middle;
+            }
+            
+            #newBoundaries
+            {
+                display: block;
+                width: 15px;
+                max-width: 600px;
+                resize: horizontal;
+                background-image: url("plot_2023.png");
+                background-size: 600px;
+                background-color: #fff;
+                border-right: 1px dotted #ccc;
+                border-bottom-left-radius: 3px;
+                border-bottom-right-radius: 3px;
+                animation-delay: 2s;
+                animation-duration: 4s;
+                animation-name: slider_demo;
+                padding-bottom: 0.5em;
+            }
+            
+            #newBoundaries::after
+            {
+                content: "";
+                position: absolute;
+                width: 1px;
+                height: 1px;
+                background-color: #aaa;
+                border: 7px solid #757575;
+                border-top-color: #aaa;
+                border-left-color: #aaa;
+                bottom: 0;
+                right: 0;
+                z-index: 10000;
+                border-radius: 3px;
+                pointer-events: none;
+            }
+            
+            @keyframes slider_demo
+            {
+                0%
+                {
+                    width: 15px;
+                }
+                
+                50%
+                {
+                    width: 60%;
+                }
+                
+                100%
+                {
+                    width: 15px;
+                }
+            }
+            
+            .notes
+            {
+                display: block; /* This overrides the HTML hidden attribute so that the instructions on using the slider appear if CSS is enabled */
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <span id="a11yNav"><a href="#downloads" class="themeBlockDark">Skip to download options</a></span>
+            <main>
+                <h1>Trafford's changing boundaries</h1>
+                <time datetime="2023-04-14">April 14, 2023</time>
+
+                <figure>
+                    <div id="oldBoundaries">
+                        <img src="plot_2004-2022.png" width="600" alt="Map of Trafford showing the wards and locality boundaries from 2004 to 2022."/>
+                    </div>
+                    <div id="newBoundaries" role="img" aria-label="Map of Trafford showing the new wards and locality boundaries from May 2023. This element can be re-sized horizontally to interactively reveal the new boundaries over the top of the previous boundaries." hidden="hidden"></div>
+                </figure>
+                
+                <figure class="hideContent">
+                    <img src="plot_2023.png" width="600" alt="Map of Trafford showing the new wards and locality boundaries from May 2023."/>
+                </figure>
+                
+                <p class="notes" hidden="hidden">
+                    NOTE: Drag the slider widget above to compare the old and new boundaries
+                </p>
+                
+                <p>
+                    MAIN TEXT
+                </p>
+            </main>
+
+            <footer>
+                <span class="hideContent" id="downloadsLabel">Download options:</span>
+                <ul id="downloads" aria-labelledby="downloadsLabel">
+                    <li><a href="data.csv" aria-label="Download the CSV data" class="labButton" download>CSV<span class="fas fa-download"></span></a></li>
+                    <li><a href="plot.png" aria-label="Download the PNG image" class="labButton" download>PNG<span class="fas fa-download"></span></a></li>
+                    <li><a href="script.R" aria-label="Download the R script code" class="labButton" download>R<span class="fas fa-download"></span></a></li>
+                </ul>
+                <a href="https://www.trafforddatalab.io/charticles.html" aria-label="Return to Trafford Data Lab charticles page"><img src="https://www.trafforddatalab.io/assets/logo/trafforddatalab_logo.svg" alt="Trafford Data Lab" width="93"/></a>
+            </footer>
+        </div>
+    </body>
+</html>
