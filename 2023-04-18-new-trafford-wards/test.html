@@ -52,13 +52,13 @@
                 border-right: 2px dotted #ccc;
                 /*border-bottom-left-radius: 3px;
                 border-bottom-right-radius: 3px;*/
-                animation-delay: 2s;
+                animation-delay: 1s;
                 animation-duration: 4s;
                 animation-name: slider_demo;
                 padding-bottom: 0.5em;
             }
             
-            #newBoundaries::after
+            /*#newBoundaries::after
             {
                 content: "";
                 position: absolute;
@@ -73,7 +73,7 @@
                 z-index: 10000;
                 border-radius: 3px;
                 pointer-events: none;
-            }
+            }*/
             
             @keyframes slider_demo
             {
@@ -84,7 +84,7 @@
                 
                 50%
                 {
-                    width: 20%;
+                    width: 25%;
                 }
                 
                 100%
@@ -110,7 +110,6 @@
                 
                 #oldBoundaries, #newBoundaries
                 {
-                    position: absolute;
                     width: 490px;
                     height: 490px;
                 }
@@ -132,7 +131,6 @@
                 
                 #oldBoundaries, #newBoundaries
                 {
-                    position: absolute;
                     width: 440px;
                     height: 440px;
                 }
@@ -154,7 +152,6 @@
                 
                 #oldBoundaries, #newBoundaries
                 {
-                    position: absolute;
                     width: 390px;
                     height: 390px;
                 }
