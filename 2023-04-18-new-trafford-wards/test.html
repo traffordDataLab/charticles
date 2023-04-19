@@ -43,7 +43,7 @@
             
             #newBoundaries
             {
-                width: 1%;
+                width: 15px;
                 max-width: 600px;
                 resize: horizontal;
                 background-image: url("plot_2023.png");
@@ -58,7 +58,7 @@
                 padding-bottom: 0.5em;
             }
             
-            /*#newBoundaries::after
+            #newBoundaries::after
             {
                 content: "";
                 position: absolute;
@@ -73,7 +73,7 @@
                 z-index: 10000;
                 border-radius: 3px;
                 pointer-events: none;
-            }*/
+            }
             
             @keyframes slider_demo
             {
@@ -97,6 +97,7 @@
             {
                 display: block; /* This overrides the HTML hidden attribute so that the instructions on using the slider appear if CSS is enabled */
             }
+            
             
             /* Resizing the maps to ensure they don't extend beyond the container and cause horizontal scrolling */
             @media (max-width:800px)
@@ -177,7 +178,7 @@
                     <div id="oldBoundaries">
                         <img src="plot_2004-2022.png" width="600" alt="Map of Trafford showing the wards and locality boundaries from 2004 to 2022."/>
                     </div>
-                    <div id="newBoundaries" role="img" aria-label="Map of Trafford showing the new wards and locality boundaries from May 2023. This element can be re-sized horizontally to interactively reveal the new boundaries over the top of the previous boundaries." hidden="hidden"></div>
+                    <div id="newBoundaries" aria-label="Map of Trafford showing the new wards and locality boundaries from May 2023. This element can be re-sized horizontally to interactively reveal the new boundaries over the top of the previous boundaries." hidden="hidden"></div>
                 </figure>
                 
                 <figure class="hideContent">
@@ -185,7 +186,7 @@
                 </figure>
                 
                 <p class="notes" hidden="hidden">
-                    NOTE: Drag the slider widget above to compare the old and new boundaries
+                    NOTE: Slide the widget above left and right, or use the following links, to compare the <a href="plot_2004-2022.png" target="_blank">old</a> and <a href="plot_2023.png" target="_blank">new</a> boundaries
                 </p>
                 
                 <p>
