@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
+        <meta name="keywords" content="electoral, ward, localities, locality, boundaries, boundary, visualisation, charticle"/>
+        <meta name="description" content="Charticle visualising the changes to the ward and locality boundaries in Trafford"/>
+
+        <title>Trafford's changing boundaries</title>
+
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" crossorigin="anonymous"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400%7CRoboto:300"/>
+        <link rel="stylesheet" href="../base.css"/>
+        <link rel="stylesheet" href="../charticle.css"/>
+        
+        <style>
+            /* 
+                Styles for the before/after image slider
+                Adapted from work by @Matt_R_Steele - https://codepen.io/Streetproject/pen/gRNebL
+            */
+            
+            figure
+            {
+                padding: 0 10% 0 10%;
+                height: 600px;
+                margin-bottom: 2em;
+            }
+            
+            #oldBoundaries, #newBoundaries
+            {
+                position: absolute;
+                width: 600px;
+                height: 600px;
+                overflow: hidden;
+            }
+            
+            #oldBoundaries img
+            {
+                display: block;
+                vertical-align: middle;
+            }
+            
+            #newBoundaries
+            {
+                display: block;
+                width: 15px;
+                max-width: 600px;
+                resize: horizontal;
+                background-image: url("plot_2023.png");
+                background-size: 600px;
+                background-color: #fff;
+                border-right: 2px dotted #ccc;
+                border-bottom-left-radius: 3px;
+                border-bottom-right-radius: 3px;
+                animation-delay: 2s;
+                animation-duration: 4s;
+                animation-name: slider_demo;
+                padding-bottom: 0.5em;
+            }
+            
+            @keyframes slider_demo
+            {
+                0%
+                {
+                    width: 15px;
+                }
+                
+                50%
+                {
+                    width: 60%;
+                }
+                
+                100%
+                {
+                    width: 15px;
+                }
+            }
+            
+            .notes
+            {
+                display: block; /* This overrides the HTML hidden attribute so that the instructions on using the slider appear if CSS is enabled */
+            }
+            
+            /* Resizing the maps to ensure they don't extend beyond the container and cause horizontal scrolling */
+            @media (max-width:800px)
+            {
+                figure
+                {
+                    padding: 0 5% 0 5%;
+                    height: 490px;
+                }
+                
+                #oldBoundaries, #newBoundaries
+                {
+                    position: absolute;
+                    width: 490px;
+                    height: 490px;
+                }
+                
+                #newBoundaries
+                {
+                    max-width: 490px;
+                    background-size: 490px;   
+                }
+            }
+            
+            @media (max-width:600px)
+            {
+                figure
+                {
+                    padding: 0;
+                    height: 440px;
+                }
+                
+                #oldBoundaries, #newBoundaries
+                {
+                    position: absolute;
+                    width: 440px;
+                    height: 440px;
+                }
+                
+                #newBoundaries
+                {
+                    max-width: 440px;
+                    background-size: 440px;   
+                }
+            }
+            
+            @media (max-width:500px)
+            {
+                figure
+                {
+                    padding: 0;
+                    height: 390px;
+                }
+                
+                #oldBoundaries, #newBoundaries
+                {
+                    position: absolute;
+                    width: 390px;
+                    height: 390px;
+                }
+                
+                #newBoundaries
+                {
+                    max-width: 390px;
+                    background-size: 390px;   
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <span id="a11yNav"><a href="#downloads" class="themeBlockDark">Skip to download options</a></span>
+            <main>
+                <h1>Trafford's changing boundaries</h1>
+                <time datetime="2023-04-18">April 18, 2023</time>
+
+                <figure>
+                    <div id="oldBoundaries">
+                        <img src="plot_2004-2022.png" width="600" alt="Map of Trafford showing the wards and locality boundaries from 2004 to 2022."/>
+                    </div>
+                    <div id="newBoundaries" role="img" aria-label="Map of Trafford showing the new wards and locality boundaries from May 2023. This element can be re-sized horizontally to interactively reveal the new boundaries over the top of the previous boundaries." hidden="hidden"></div>
+                </figure>
+                
+                <figure class="hideContent">
+                    <img src="plot_2023.png" width="600" alt="Map of Trafford showing the new wards and locality boundaries from May 2023."/>
+                </figure>
+                
+                <p class="notes" hidden="hidden">
+                    NOTE: Drag the slider widget above to compare the old and new boundaries
+                </p>
+                
+                <p>
+                    Electoral wards are administrative areas, represented at council by locally elected councillors to serve the needs of the residents. Occasionally these areas are amended, for example in response to changing population numbers etc. For the first time since 2004 Trafford's wards will be changing, with the new boundaries coming into force on 04 May 2023, coinciding with the Local Government Elections in England. There will still be 21 wards, however some of the names and areas they cover will change.
+                </p>
+                <p>
+                    To assist with the management of work that goes on across the borough, Trafford has historically grouped its wards into 4 larger areas known as <em>localities</em>, named &quot;<strong>Central</strong>&quot;, &quot;<strong>North</strong>&quot;, &quot;<strong>South</strong>&quot; and &quot;<strong>West&quot;</strong>. As the ward boundaries are changing, so too are the localities. The map images show the current ward and locality boundaries compared with the new.
+                </p>
+                
+                <h2>Current wards and localities (2004 - 2022)</h2>
+                <ul>
+                    <li><strong>Central:</strong> Ashton upon Mersey, Brooklands, Priory, Sale Moor, St Mary's</li>
+                    <li><strong>North:</strong> Clifford, Gorse Hill, Longford, Stretford</li>
+                    <li><strong>South:</strong> Altrincham, Bowdon, Broadheath, Hale Barns, Hale Central, Timperley, Village</li>
+                    <li><strong>West:</strong> Bucklow-St Martins, Davyhulme East, Davyhulme West, Flixton, Urmston</li>
+                </ul>
+                
+                <h2>New wards and localities (from 04 May 2023)</h2>
+                <ul>
+                    <li><strong>Central:</strong> Ashton upon Mersey, Brooklands, Manor, Sale Central, Sale Moor</li>
+                    <li><strong>North:</strong> Gorse Hill &amp; Cornbrook, Longford, Lostock &amp; Barton, Old Trafford, Stretford &amp; Humphrey Park</li>
+                    <li><strong>South:</strong> Altrincham, Bowdon, Broadheath, Hale, Hale Barns &amp; Timperley South, Timperley Central, Timperley North</li>
+                    <li><strong>West:</strong> Bucklow-St Martins, Davyhulme, Flixton, Urmston</li>
+                </ul>
+                
+                <p>You can download the maps of the current and new boundaries as PNG images using the following &quot;<strong>OLD</strong>&quot; and &quot;<strong>NEW</strong>&quot; download options respectively, as well as the &quot;<strong>R</strong>&quot; script that created them.</p>
+            </main>
+
+            <footer>
+                <span class="hideContent" id="downloadsLabel">Download options:</span>
+                <ul id="downloads" aria-labelledby="downloadsLabel">
+                    <li><a href="plot_2004-2022.png" aria-label="Download the PNG image of the old boundaries" class="labButton" download>OLD<span class="fas fa-download"></span></a></li>
+                    <li><a href="plot_2023.png" aria-label="Download the PNG image of the new boundaries" class="labButton" download>NEW<span class="fas fa-download"></span></a></li>
+                    <li><a href="script.R" aria-label="Download the R script code" class="labButton" download>R<span class="fas fa-download"></span></a></li>
+                </ul>
+                <a href="https://www.trafforddatalab.io/charticles.html" aria-label="Return to Trafford Data Lab charticles page"><img src="https://www.trafforddatalab.io/assets/logo/trafforddatalab_logo.svg" alt="Trafford Data Lab" width="93"/></a>
+            </footer>
+        </div>
+    </body>
+</html>
