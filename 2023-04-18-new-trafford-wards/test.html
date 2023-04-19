@@ -29,6 +29,7 @@
             #oldBoundaries, #newBoundaries
             {
                 position: absolute;
+                display: block;
                 width: 600px;
                 height: 600px;
                 overflow: hidden;
@@ -42,19 +43,18 @@
             
             #newBoundaries
             {
-                display: block;
-                width: 15px;
+                width: 1%;
                 max-width: 600px;
                 resize: horizontal;
                 background-image: url("plot_2023.png");
                 background-size: 600px;
                 background-color: #fff;
-                /*border-right: 2px dotted #ccc;
-                border-bottom-left-radius: 3px;
-                border-bottom-right-radius: 3px;
+                border-right: 2px dotted #ccc;
+                /*border-bottom-left-radius: 3px;
+                border-bottom-right-radius: 3px;*/
                 animation-delay: 2s;
                 animation-duration: 4s;
-                animation-name: slider_demo;*/
+                animation-name: slider_demo;
                 padding-bottom: 0.5em;
             }
             
@@ -75,23 +75,23 @@
                 pointer-events: none;
             }*/
             
-            /*@keyframes slider_demo
+            @keyframes slider_demo
             {
                 0%
                 {
-                    width: 15px;
+                    width: 1%;
                 }
                 
                 50%
                 {
-                    width: 60%;
+                    width: 20%;
                 }
                 
                 100%
                 {
-                    width: 15px;
+                    width: 1%;
                 }
-            }*/
+            }
             
             .notes
             {
