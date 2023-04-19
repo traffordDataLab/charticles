@@ -58,7 +58,24 @@
                 padding-bottom: 0.5em;
             }
             
-            @keyframes slider_demo
+            #newBoundaries::after
+            {
+                content: "";
+                position: absolute;
+                width: 1px;
+                height: 1px;
+                background-color: #aaa;
+                border: 7px solid #757575;
+                border-top-color: #aaa;
+                border-left-color: #aaa;
+                bottom: 0;
+                right: 0;
+                z-index: 10000;
+                border-radius: 3px;
+                pointer-events: none;
+            }
+            
+            /*@keyframes slider_demo
             {
                 0%
                 {
@@ -74,7 +91,7 @@
                 {
                     width: 15px;
                 }
-            }
+            }*/
             
             .notes
             {
