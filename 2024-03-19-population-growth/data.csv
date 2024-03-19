@@ -1,0 +1,535 @@
+area_code,area_name,indicator,meausre,value,period
+E92000001,England,Births,Count year to mid-2022,591225,2022-06-01
+E92000001,England,Births,% change year to mid-2022,1.05,2022-06-01
+E92000001,England,Deaths,Count year to mid-2022,538305,2022-06-01
+E92000001,England,Deaths,% change year to mid-2022,0.95,2022-06-01
+E92000001,England,Births minus Deaths,Count year to mid-2022,52920,2022-06-01
+E92000001,England,Births minus Deaths,% change year to mid-2022,0.09,2022-06-01
+E92000001,England,Internal Migration Net,Count year to mid-2022,-20452,2022-06-01
+E92000001,England,Internal Migration Net,% change year to mid-2022,-0.04,2022-06-01
+E92000001,England,International Migration Net,Count year to mid-2022,519492,2022-06-01
+E92000001,England,International Migration Net,% change year to mid-2022,0.92,2022-06-01
+E92000001,England,Population change,Count year to mid-2022,551507,2022-06-01
+E92000001,England,Population change,% change year to mid-2022,0.98,2022-06-01
+E08000009,Trafford,Births,Count year to mid-2022,2274,2022-06-01
+E08000009,Trafford,Births,% change year to mid-2022,0.97,2022-06-01
+E08000009,Trafford,Deaths,Count year to mid-2022,2103,2022-06-01
+E08000009,Trafford,Deaths,% change year to mid-2022,0.89,2022-06-01
+E08000009,Trafford,Births minus Deaths,Count year to mid-2022,171,2022-06-01
+E08000009,Trafford,Births minus Deaths,% change year to mid-2022,0.07,2022-06-01
+E08000009,Trafford,Internal Migration Net,Count year to mid-2022,-1241,2022-06-01
+E08000009,Trafford,Internal Migration Net,% change year to mid-2022,-0.53,2022-06-01
+E08000009,Trafford,International Migration Net,Count year to mid-2022,1787,2022-06-01
+E08000009,Trafford,International Migration Net,% change year to mid-2022,0.76,2022-06-01
+E08000009,Trafford,Population change,Count year to mid-2022,715,2022-06-01
+E08000009,Trafford,Population change,% change year to mid-2022,0.3,2022-06-01
+E08000009,Trafford,births ,Count year to mid-Year,2895,2012
+E08000009,Trafford,births ,Per 1000 year to mid-Year,12.67,2012
+E08000009,Trafford,deaths ,Count year to mid-Year,1872,2012
+E08000009,Trafford,deaths ,Per 1000 year to mid-Year,8.19,2012
+E08000009,Trafford,internal in ,Count year to mid-Year,11311,2012
+E08000009,Trafford,internal in ,Per 1000 year to mid-Year,49.5,2012
+E08000009,Trafford,internal net ,Count year to mid-Year,592,2012
+E08000009,Trafford,internal net ,Per 1000 year to mid-Year,2.59,2012
+E08000009,Trafford,internal out ,Count year to mid-Year,10719,2012
+E08000009,Trafford,internal out ,Per 1000 year to mid-Year,46.91,2012
+E08000009,Trafford,international in ,Count year to mid-Year,1256,2012
+E08000009,Trafford,international in ,Per 1000 year to mid-Year,5.5,2012
+E08000009,Trafford,international net ,Count year to mid-Year,4,2012
+E08000009,Trafford,international net ,Per 1000 year to mid-Year,0.02,2012
+E08000009,Trafford,international out ,Count year to mid-Year,1252,2012
+E08000009,Trafford,international out ,Per 1000 year to mid-Year,5.48,2012
+E08000009,Trafford,natchange ,Count year to mid-Year,1023,2012
+E08000009,Trafford,natchange ,Per 1000 year to mid-Year,4.48,2012
+E08000009,Trafford,births ,Count year to mid-Year,2778,2013
+E08000009,Trafford,births ,Per 1000 year to mid-Year,12.06,2013
+E08000009,Trafford,deaths ,Count year to mid-Year,1992,2013
+E08000009,Trafford,deaths ,Per 1000 year to mid-Year,8.65,2013
+E08000009,Trafford,internal in ,Count year to mid-Year,11507,2013
+E08000009,Trafford,internal in ,Per 1000 year to mid-Year,49.95,2013
+E08000009,Trafford,internal net ,Count year to mid-Year,1051,2013
+E08000009,Trafford,internal net ,Per 1000 year to mid-Year,4.56,2013
+E08000009,Trafford,internal out ,Count year to mid-Year,10456,2013
+E08000009,Trafford,internal out ,Per 1000 year to mid-Year,45.39,2013
+E08000009,Trafford,international in ,Count year to mid-Year,1258,2013
+E08000009,Trafford,international in ,Per 1000 year to mid-Year,5.46,2013
+E08000009,Trafford,international net ,Count year to mid-Year,134,2013
+E08000009,Trafford,international net ,Per 1000 year to mid-Year,0.58,2013
+E08000009,Trafford,international out ,Count year to mid-Year,1124,2013
+E08000009,Trafford,international out ,Per 1000 year to mid-Year,4.88,2013
+E08000009,Trafford,natchange ,Count year to mid-Year,786,2013
+E08000009,Trafford,natchange ,Per 1000 year to mid-Year,3.41,2013
+E08000009,Trafford,births ,Count year to mid-Year,2845,2014
+E08000009,Trafford,births ,Per 1000 year to mid-Year,12.27,2014
+E08000009,Trafford,deaths ,Count year to mid-Year,1831,2014
+E08000009,Trafford,deaths ,Per 1000 year to mid-Year,7.9,2014
+E08000009,Trafford,internal in ,Count year to mid-Year,12071,2014
+E08000009,Trafford,internal in ,Per 1000 year to mid-Year,52.08,2014
+E08000009,Trafford,internal net ,Count year to mid-Year,226,2014
+E08000009,Trafford,internal net ,Per 1000 year to mid-Year,0.97,2014
+E08000009,Trafford,internal out ,Count year to mid-Year,11845,2014
+E08000009,Trafford,internal out ,Per 1000 year to mid-Year,51.1,2014
+E08000009,Trafford,international in ,Count year to mid-Year,1574,2014
+E08000009,Trafford,international in ,Per 1000 year to mid-Year,6.79,2014
+E08000009,Trafford,international net ,Count year to mid-Year,327,2014
+E08000009,Trafford,international net ,Per 1000 year to mid-Year,1.41,2014
+E08000009,Trafford,international out ,Count year to mid-Year,1247,2014
+E08000009,Trafford,international out ,Per 1000 year to mid-Year,5.38,2014
+E08000009,Trafford,natchange ,Count year to mid-Year,1014,2014
+E08000009,Trafford,natchange ,Per 1000 year to mid-Year,4.37,2014
+E08000009,Trafford,births ,Count year to mid-Year,2683,2015
+E08000009,Trafford,births ,Per 1000 year to mid-Year,11.54,2015
+E08000009,Trafford,deaths ,Count year to mid-Year,2120,2015
+E08000009,Trafford,deaths ,Per 1000 year to mid-Year,9.12,2015
+E08000009,Trafford,internal in ,Count year to mid-Year,11572,2015
+E08000009,Trafford,internal in ,Per 1000 year to mid-Year,49.77,2015
+E08000009,Trafford,internal net ,Count year to mid-Year,42,2015
+E08000009,Trafford,internal net ,Per 1000 year to mid-Year,0.18,2015
+E08000009,Trafford,internal out ,Count year to mid-Year,11530,2015
+E08000009,Trafford,internal out ,Per 1000 year to mid-Year,49.59,2015
+E08000009,Trafford,international in ,Count year to mid-Year,1491,2015
+E08000009,Trafford,international in ,Per 1000 year to mid-Year,6.41,2015
+E08000009,Trafford,international net ,Count year to mid-Year,225,2015
+E08000009,Trafford,international net ,Per 1000 year to mid-Year,0.97,2015
+E08000009,Trafford,international out ,Count year to mid-Year,1266,2015
+E08000009,Trafford,international out ,Per 1000 year to mid-Year,5.45,2015
+E08000009,Trafford,natchange ,Count year to mid-Year,563,2015
+E08000009,Trafford,natchange ,Per 1000 year to mid-Year,2.42,2015
+E08000009,Trafford,births ,Count year to mid-Year,2869,2016
+E08000009,Trafford,births ,Per 1000 year to mid-Year,12.28,2016
+E08000009,Trafford,deaths ,Count year to mid-Year,1917,2016
+E08000009,Trafford,deaths ,Per 1000 year to mid-Year,8.2,2016
+E08000009,Trafford,internal in ,Count year to mid-Year,11235,2016
+E08000009,Trafford,internal in ,Per 1000 year to mid-Year,48.07,2016
+E08000009,Trafford,internal net ,Count year to mid-Year,38,2016
+E08000009,Trafford,internal net ,Per 1000 year to mid-Year,0.16,2016
+E08000009,Trafford,internal out ,Count year to mid-Year,11197,2016
+E08000009,Trafford,internal out ,Per 1000 year to mid-Year,47.91,2016
+E08000009,Trafford,international in ,Count year to mid-Year,1597,2016
+E08000009,Trafford,international in ,Per 1000 year to mid-Year,6.83,2016
+E08000009,Trafford,international net ,Count year to mid-Year,301,2016
+E08000009,Trafford,international net ,Per 1000 year to mid-Year,1.29,2016
+E08000009,Trafford,international out ,Count year to mid-Year,1296,2016
+E08000009,Trafford,international out ,Per 1000 year to mid-Year,5.55,2016
+E08000009,Trafford,natchange ,Count year to mid-Year,952,2016
+E08000009,Trafford,natchange ,Per 1000 year to mid-Year,4.07,2016
+E08000009,Trafford,births ,Count year to mid-Year,2776,2017
+E08000009,Trafford,births ,Per 1000 year to mid-Year,11.82,2017
+E08000009,Trafford,deaths ,Count year to mid-Year,2059,2017
+E08000009,Trafford,deaths ,Per 1000 year to mid-Year,8.76,2017
+E08000009,Trafford,internal in ,Count year to mid-Year,13455,2017
+E08000009,Trafford,internal in ,Per 1000 year to mid-Year,57.28,2017
+E08000009,Trafford,internal net ,Count year to mid-Year,542,2017
+E08000009,Trafford,internal net ,Per 1000 year to mid-Year,2.31,2017
+E08000009,Trafford,internal out ,Count year to mid-Year,12913,2017
+E08000009,Trafford,internal out ,Per 1000 year to mid-Year,54.97,2017
+E08000009,Trafford,international in ,Count year to mid-Year,1507,2017
+E08000009,Trafford,international in ,Per 1000 year to mid-Year,6.42,2017
+E08000009,Trafford,international net ,Count year to mid-Year,79,2017
+E08000009,Trafford,international net ,Per 1000 year to mid-Year,0.34,2017
+E08000009,Trafford,international out ,Count year to mid-Year,1428,2017
+E08000009,Trafford,international out ,Per 1000 year to mid-Year,6.08,2017
+E08000009,Trafford,natchange ,Count year to mid-Year,717,2017
+E08000009,Trafford,natchange ,Per 1000 year to mid-Year,3.05,2017
+E08000009,Trafford,births ,Count year to mid-Year,2635,2018
+E08000009,Trafford,births ,Per 1000 year to mid-Year,11.18,2018
+E08000009,Trafford,deaths ,Count year to mid-Year,2095,2018
+E08000009,Trafford,deaths ,Per 1000 year to mid-Year,8.89,2018
+E08000009,Trafford,internal in ,Count year to mid-Year,13210,2018
+E08000009,Trafford,internal in ,Per 1000 year to mid-Year,56.06,2018
+E08000009,Trafford,internal net ,Count year to mid-Year,238,2018
+E08000009,Trafford,internal net ,Per 1000 year to mid-Year,1.01,2018
+E08000009,Trafford,internal out ,Count year to mid-Year,12972,2018
+E08000009,Trafford,internal out ,Per 1000 year to mid-Year,55.05,2018
+E08000009,Trafford,international in ,Count year to mid-Year,1575,2018
+E08000009,Trafford,international in ,Per 1000 year to mid-Year,6.68,2018
+E08000009,Trafford,international net ,Count year to mid-Year,21,2018
+E08000009,Trafford,international net ,Per 1000 year to mid-Year,0.09,2018
+E08000009,Trafford,international out ,Count year to mid-Year,1554,2018
+E08000009,Trafford,international out ,Per 1000 year to mid-Year,6.6,2018
+E08000009,Trafford,natchange ,Count year to mid-Year,540,2018
+E08000009,Trafford,natchange ,Per 1000 year to mid-Year,2.29,2018
+E08000009,Trafford,births ,Count year to mid-Year,2611,2019
+E08000009,Trafford,births ,Per 1000 year to mid-Year,11.06,2019
+E08000009,Trafford,deaths ,Count year to mid-Year,1956,2019
+E08000009,Trafford,deaths ,Per 1000 year to mid-Year,8.28,2019
+E08000009,Trafford,internal in ,Count year to mid-Year,13762,2019
+E08000009,Trafford,internal in ,Per 1000 year to mid-Year,58.28,2019
+E08000009,Trafford,internal net ,Count year to mid-Year,-49,2019
+E08000009,Trafford,internal net ,Per 1000 year to mid-Year,-0.21,2019
+E08000009,Trafford,internal out ,Count year to mid-Year,13811,2019
+E08000009,Trafford,internal out ,Per 1000 year to mid-Year,58.49,2019
+E08000009,Trafford,international in ,Count year to mid-Year,1490,2019
+E08000009,Trafford,international in ,Per 1000 year to mid-Year,6.31,2019
+E08000009,Trafford,international net ,Count year to mid-Year,-63,2019
+E08000009,Trafford,international net ,Per 1000 year to mid-Year,-0.27,2019
+E08000009,Trafford,international out ,Count year to mid-Year,1553,2019
+E08000009,Trafford,international out ,Per 1000 year to mid-Year,6.58,2019
+E08000009,Trafford,natchange ,Count year to mid-Year,655,2019
+E08000009,Trafford,natchange ,Per 1000 year to mid-Year,2.77,2019
+E08000009,Trafford,births ,Count year to mid-Year,2404,2020
+E08000009,Trafford,births ,Per 1000 year to mid-Year,10.19,2020
+E08000009,Trafford,deaths ,Count year to mid-Year,2307,2020
+E08000009,Trafford,deaths ,Per 1000 year to mid-Year,9.78,2020
+E08000009,Trafford,internal in ,Count year to mid-Year,12188,2020
+E08000009,Trafford,internal in ,Per 1000 year to mid-Year,51.66,2020
+E08000009,Trafford,internal net ,Count year to mid-Year,-111,2020
+E08000009,Trafford,internal net ,Per 1000 year to mid-Year,-0.47,2020
+E08000009,Trafford,internal out ,Count year to mid-Year,12299,2020
+E08000009,Trafford,internal out ,Per 1000 year to mid-Year,52.13,2020
+E08000009,Trafford,international in ,Count year to mid-Year,1406,2020
+E08000009,Trafford,international in ,Per 1000 year to mid-Year,5.96,2020
+E08000009,Trafford,international net ,Count year to mid-Year,-202,2020
+E08000009,Trafford,international net ,Per 1000 year to mid-Year,-0.86,2020
+E08000009,Trafford,international out ,Count year to mid-Year,1608,2020
+E08000009,Trafford,international out ,Per 1000 year to mid-Year,6.82,2020
+E08000009,Trafford,natchange ,Count year to mid-Year,97,2020
+E08000009,Trafford,natchange ,Per 1000 year to mid-Year,0.41,2020
+E08000009,Trafford,births ,Count year to mid-Year,2351,2021
+E08000009,Trafford,births ,Per 1000 year to mid-Year,9.98,2021
+E08000009,Trafford,deaths ,Count year to mid-Year,2120,2021
+E08000009,Trafford,deaths ,Per 1000 year to mid-Year,9,2021
+E08000009,Trafford,internal in ,Count year to mid-Year,14630,2021
+E08000009,Trafford,internal in ,Per 1000 year to mid-Year,62.1,2021
+E08000009,Trafford,internal net ,Count year to mid-Year,-799,2021
+E08000009,Trafford,internal net ,Per 1000 year to mid-Year,-3.39,2021
+E08000009,Trafford,internal out ,Count year to mid-Year,15429,2021
+E08000009,Trafford,internal out ,Per 1000 year to mid-Year,65.49,2021
+E08000009,Trafford,international in ,Count year to mid-Year,1631,2021
+E08000009,Trafford,international in ,Per 1000 year to mid-Year,6.92,2021
+E08000009,Trafford,international net ,Count year to mid-Year,196,2021
+E08000009,Trafford,international net ,Per 1000 year to mid-Year,0.83,2021
+E08000009,Trafford,international out ,Count year to mid-Year,1435,2021
+E08000009,Trafford,international out ,Per 1000 year to mid-Year,6.09,2021
+E08000009,Trafford,natchange ,Count year to mid-Year,231,2021
+E08000009,Trafford,natchange ,Per 1000 year to mid-Year,0.98,2021
+E08000009,Trafford,births ,Count year to mid-Year,2274,2022
+E08000009,Trafford,births ,Per 1000 year to mid-Year,9.62,2022
+E08000009,Trafford,deaths ,Count year to mid-Year,2103,2022
+E08000009,Trafford,deaths ,Per 1000 year to mid-Year,8.9,2022
+E08000009,Trafford,internal in ,Count year to mid-Year,13629,2022
+E08000009,Trafford,internal in ,Per 1000 year to mid-Year,57.68,2022
+E08000009,Trafford,internal net ,Count year to mid-Year,-1241,2022
+E08000009,Trafford,internal net ,Per 1000 year to mid-Year,-5.25,2022
+E08000009,Trafford,internal out ,Count year to mid-Year,14870,2022
+E08000009,Trafford,internal out ,Per 1000 year to mid-Year,62.93,2022
+E08000009,Trafford,international in ,Count year to mid-Year,3048,2022
+E08000009,Trafford,international in ,Per 1000 year to mid-Year,12.9,2022
+E08000009,Trafford,international net ,Count year to mid-Year,1787,2022
+E08000009,Trafford,international net ,Per 1000 year to mid-Year,7.56,2022
+E08000009,Trafford,international out ,Count year to mid-Year,1261,2022
+E08000009,Trafford,international out ,Per 1000 year to mid-Year,5.34,2022
+E08000009,Trafford,natchange ,Count year to mid-Year,171,2022
+E08000009,Trafford,natchange ,Per 1000 year to mid-Year,0.72,2022
+E92000001,England,population ,Count year to mid-Year,56325961,2020
+E92000001,England,population ,Per 1000 year to mid-Year,1000,2020
+E92000001,England,births ,Count year to mid-Year,601801,2020
+E92000001,England,births ,Per 1000 year to mid-Year,10.68,2020
+E92000001,England,deaths ,Count year to mid-Year,557524,2020
+E92000001,England,deaths ,Per 1000 year to mid-Year,9.9,2020
+E92000001,England,internal in ,Count year to mid-Year,96504,2020
+E92000001,England,internal in ,Per 1000 year to mid-Year,1.71,2020
+E92000001,England,internal out ,Count year to mid-Year,130205,2020
+E92000001,England,internal out ,Per 1000 year to mid-Year,2.31,2020
+E92000001,England,internal net ,Count year to mid-Year,-33701,2020
+E92000001,England,internal net ,Per 1000 year to mid-Year,-0.6,2020
+E92000001,England,international in ,Count year to mid-Year,651947,2020
+E92000001,England,international in ,Per 1000 year to mid-Year,11.57,2020
+E92000001,England,international out ,Count year to mid-Year,558445,2020
+E92000001,England,international out ,Per 1000 year to mid-Year,9.91,2020
+E92000001,England,international net ,Count year to mid-Year,93502,2020
+E92000001,England,international net ,Per 1000 year to mid-Year,1.66,2020
+E92000001,England,special change ,Count year to mid-Year,2369,2020
+E92000001,England,special change ,Per 1000 year to mid-Year,0.04,2020
+E92000001,England,unattrib ,Count year to mid-Year,-10542,2020
+E92000001,England,unattrib ,Per 1000 year to mid-Year,-0.19,2020
+E92000001,England,other adjust ,Count year to mid-Year,0,2020
+E92000001,England,other adjust ,Per 1000 year to mid-Year,0,2020
+E92000001,England,natchange ,Count year to mid-Year,44277,2020
+E92000001,England,natchange ,Per 1000 year to mid-Year,0.79,2020
+E92000001,England,population ,Count year to mid-Year,56554891,2021
+E92000001,England,population ,Per 1000 year to mid-Year,1000,2021
+E92000001,England,births ,Count year to mid-Year,581255,2021
+E92000001,England,births ,Per 1000 year to mid-Year,10.28,2021
+E92000001,England,deaths ,Count year to mid-Year,540578,2021
+E92000001,England,deaths ,Per 1000 year to mid-Year,9.56,2021
+E92000001,England,internal in ,Count year to mid-Year,130544,2021
+E92000001,England,internal in ,Per 1000 year to mid-Year,2.31,2021
+E92000001,England,internal out ,Count year to mid-Year,146468,2021
+E92000001,England,internal out ,Per 1000 year to mid-Year,2.59,2021
+E92000001,England,internal net ,Count year to mid-Year,-15924,2021
+E92000001,England,internal net ,Per 1000 year to mid-Year,-0.28,2021
+E92000001,England,international in ,Count year to mid-Year,624669,2021
+E92000001,England,international in ,Per 1000 year to mid-Year,11.05,2021
+E92000001,England,international out ,Count year to mid-Year,418336,2021
+E92000001,England,international out ,Per 1000 year to mid-Year,7.4,2021
+E92000001,England,international net ,Count year to mid-Year,206333,2021
+E92000001,England,international net ,Per 1000 year to mid-Year,3.65,2021
+E92000001,England,special change ,Count year to mid-Year,4995,2021
+E92000001,England,special change ,Per 1000 year to mid-Year,0.09,2021
+E92000001,England,unattrib ,Count year to mid-Year,-7151,2021
+E92000001,England,unattrib ,Per 1000 year to mid-Year,-0.13,2021
+E92000001,England,other adjust ,Count year to mid-Year,0,2021
+E92000001,England,other adjust ,Per 1000 year to mid-Year,0,2021
+E92000001,England,natchange ,Count year to mid-Year,40677,2021
+E92000001,England,natchange ,Per 1000 year to mid-Year,0.72,2021
+E92000001,England,population ,Count year to mid-Year,57106398,2022
+E92000001,England,population ,Per 1000 year to mid-Year,1000,2022
+E92000001,England,births ,Count year to mid-Year,591225,2022
+E92000001,England,births ,Per 1000 year to mid-Year,10.35,2022
+E92000001,England,deaths ,Count year to mid-Year,538305,2022
+E92000001,England,deaths ,Per 1000 year to mid-Year,9.43,2022
+E92000001,England,internal in ,Count year to mid-Year,112337,2022
+E92000001,England,internal in ,Per 1000 year to mid-Year,1.97,2022
+E92000001,England,internal out ,Count year to mid-Year,132789,2022
+E92000001,England,internal out ,Per 1000 year to mid-Year,2.33,2022
+E92000001,England,internal net ,Count year to mid-Year,-20452,2022
+E92000001,England,internal net ,Per 1000 year to mid-Year,-0.36,2022
+E92000001,England,international in ,Count year to mid-Year,949640,2022
+E92000001,England,international in ,Per 1000 year to mid-Year,16.63,2022
+E92000001,England,international out ,Count year to mid-Year,430148,2022
+E92000001,England,international out ,Per 1000 year to mid-Year,7.53,2022
+E92000001,England,international net ,Count year to mid-Year,519492,2022
+E92000001,England,international net ,Per 1000 year to mid-Year,9.1,2022
+E92000001,England,special change ,Count year to mid-Year,-453,2022
+E92000001,England,special change ,Per 1000 year to mid-Year,-0.01,2022
+E92000001,England,unattrib ,Count year to mid-Year,NA,2022
+E92000001,England,unattrib ,Per 1000 year to mid-Year,NA,2022
+E92000001,England,other adjust ,Count year to mid-Year,0,2022
+E92000001,England,other adjust ,Per 1000 year to mid-Year,0,2022
+E92000001,England,natchange ,Count year to mid-Year,52920,2022
+E92000001,England,natchange ,Per 1000 year to mid-Year,0.93,2022
+E92000001,England,population ,Count year to mid-Year,53107169,2011
+E92000001,England,population ,Per 1000 year to mid-Year,1000,2011
+E92000001,England,births ,Count year to mid-Year,NA,2011
+E92000001,England,births ,Per 1000 year to mid-Year,NA,2011
+E92000001,England,deaths ,Count year to mid-Year,NA,2011
+E92000001,England,deaths ,Per 1000 year to mid-Year,NA,2011
+E92000001,England,internal in ,Count year to mid-Year,NA,2011
+E92000001,England,internal in ,Per 1000 year to mid-Year,NA,2011
+E92000001,England,internal out ,Count year to mid-Year,NA,2011
+E92000001,England,internal out ,Per 1000 year to mid-Year,NA,2011
+E92000001,England,internal net ,Count year to mid-Year,NA,2011
+E92000001,England,internal net ,Per 1000 year to mid-Year,NA,2011
+E92000001,England,international in ,Count year to mid-Year,NA,2011
+E92000001,England,international in ,Per 1000 year to mid-Year,NA,2011
+E92000001,England,international out ,Count year to mid-Year,NA,2011
+E92000001,England,international out ,Per 1000 year to mid-Year,NA,2011
+E92000001,England,international net ,Count year to mid-Year,NA,2011
+E92000001,England,international net ,Per 1000 year to mid-Year,NA,2011
+E92000001,England,special change ,Count year to mid-Year,NA,2011
+E92000001,England,special change ,Per 1000 year to mid-Year,NA,2011
+E92000001,England,unattrib ,Count year to mid-Year,NA,2011
+E92000001,England,unattrib ,Per 1000 year to mid-Year,NA,2011
+E92000001,England,other adjust ,Count year to mid-Year,NA,2011
+E92000001,England,other adjust ,Per 1000 year to mid-Year,NA,2011
+E92000001,England,natchange ,Count year to mid-Year,NA,2011
+E92000001,England,natchange ,Per 1000 year to mid-Year,NA,2011
+E92000001,England,population ,Count year to mid-Year,53506812,2012
+E92000001,England,population ,Per 1000 year to mid-Year,1000,2012
+E92000001,England,births ,Count year to mid-Year,693892,2012
+E92000001,England,births ,Per 1000 year to mid-Year,12.97,2012
+E92000001,England,deaths ,Count year to mid-Year,462730,2012
+E92000001,England,deaths ,Per 1000 year to mid-Year,8.65,2012
+E92000001,England,internal in ,Count year to mid-Year,108936,2012
+E92000001,England,internal in ,Per 1000 year to mid-Year,2.04,2012
+E92000001,England,internal out ,Count year to mid-Year,113563,2012
+E92000001,England,internal out ,Per 1000 year to mid-Year,2.12,2012
+E92000001,England,internal net ,Count year to mid-Year,-4627,2012
+E92000001,England,internal net ,Per 1000 year to mid-Year,-0.09,2012
+E92000001,England,international in ,Count year to mid-Year,577717,2012
+E92000001,England,international in ,Per 1000 year to mid-Year,10.8,2012
+E92000001,England,international out ,Count year to mid-Year,419614,2012
+E92000001,England,international out ,Per 1000 year to mid-Year,7.84,2012
+E92000001,England,international net ,Count year to mid-Year,158103,2012
+E92000001,England,international net ,Per 1000 year to mid-Year,2.95,2012
+E92000001,England,special change ,Count year to mid-Year,2001,2012
+E92000001,England,special change ,Per 1000 year to mid-Year,0.04,2012
+E92000001,England,unattrib ,Count year to mid-Year,13004,2012
+E92000001,England,unattrib ,Per 1000 year to mid-Year,0.24,2012
+E92000001,England,other adjust ,Count year to mid-Year,0,2012
+E92000001,England,other adjust ,Per 1000 year to mid-Year,0,2012
+E92000001,England,natchange ,Count year to mid-Year,231162,2012
+E92000001,England,natchange ,Per 1000 year to mid-Year,4.32,2012
+E92000001,England,population ,Count year to mid-Year,53918686,2013
+E92000001,England,population ,Per 1000 year to mid-Year,1000,2013
+E92000001,England,births ,Count year to mid-Year,676586,2013
+E92000001,England,births ,Per 1000 year to mid-Year,12.55,2013
+E92000001,England,deaths ,Count year to mid-Year,480976,2013
+E92000001,England,deaths ,Per 1000 year to mid-Year,8.92,2013
+E92000001,England,internal in ,Count year to mid-Year,108344,2013
+E92000001,England,internal in ,Per 1000 year to mid-Year,2.01,2013
+E92000001,England,internal out ,Count year to mid-Year,112875,2013
+E92000001,England,internal out ,Per 1000 year to mid-Year,2.09,2013
+E92000001,England,internal net ,Count year to mid-Year,-4531,2013
+E92000001,England,internal net ,Per 1000 year to mid-Year,-0.08,2013
+E92000001,England,international in ,Count year to mid-Year,602246,2013
+E92000001,England,international in ,Per 1000 year to mid-Year,11.17,2013
+E92000001,England,international out ,Count year to mid-Year,394551,2013
+E92000001,England,international out ,Per 1000 year to mid-Year,7.32,2013
+E92000001,England,international net ,Count year to mid-Year,207695,2013
+E92000001,England,international net ,Per 1000 year to mid-Year,3.85,2013
+E92000001,England,special change ,Count year to mid-Year,2264,2013
+E92000001,England,special change ,Per 1000 year to mid-Year,0.04,2013
+E92000001,England,unattrib ,Count year to mid-Year,10836,2013
+E92000001,England,unattrib ,Per 1000 year to mid-Year,0.2,2013
+E92000001,England,other adjust ,Count year to mid-Year,0,2013
+E92000001,England,other adjust ,Per 1000 year to mid-Year,0,2013
+E92000001,England,natchange ,Count year to mid-Year,195610,2013
+E92000001,England,natchange ,Per 1000 year to mid-Year,3.63,2013
+E92000001,England,population ,Count year to mid-Year,54370319,2014
+E92000001,England,population ,Per 1000 year to mid-Year,1000,2014
+E92000001,England,births ,Count year to mid-Year,663540,2014
+E92000001,England,births ,Per 1000 year to mid-Year,12.2,2014
+E92000001,England,deaths ,Count year to mid-Year,454990,2014
+E92000001,England,deaths ,Per 1000 year to mid-Year,8.37,2014
+E92000001,England,internal in ,Count year to mid-Year,111065,2014
+E92000001,England,internal in ,Per 1000 year to mid-Year,2.04,2014
+E92000001,England,internal out ,Count year to mid-Year,119858,2014
+E92000001,England,internal out ,Per 1000 year to mid-Year,2.2,2014
+E92000001,England,internal net ,Count year to mid-Year,-8793,2014
+E92000001,England,internal net ,Per 1000 year to mid-Year,-0.16,2014
+E92000001,England,international in ,Count year to mid-Year,667284,2014
+E92000001,England,international in ,Per 1000 year to mid-Year,12.27,2014
+E92000001,England,international out ,Count year to mid-Year,433142,2014
+E92000001,England,international out ,Per 1000 year to mid-Year,7.97,2014
+E92000001,England,international net ,Count year to mid-Year,234142,2014
+E92000001,England,international net ,Per 1000 year to mid-Year,4.31,2014
+E92000001,England,special change ,Count year to mid-Year,8012,2014
+E92000001,England,special change ,Per 1000 year to mid-Year,0.15,2014
+E92000001,England,unattrib ,Count year to mid-Year,9722,2014
+E92000001,England,unattrib ,Per 1000 year to mid-Year,0.18,2014
+E92000001,England,other adjust ,Count year to mid-Year,0,2014
+E92000001,England,other adjust ,Per 1000 year to mid-Year,0,2014
+E92000001,England,natchange ,Count year to mid-Year,208550,2014
+E92000001,England,natchange ,Per 1000 year to mid-Year,3.84,2014
+E92000001,England,population ,Count year to mid-Year,54808676,2015
+E92000001,England,population ,Per 1000 year to mid-Year,1000,2015
+E92000001,England,births ,Count year to mid-Year,662014,2015
+E92000001,England,births ,Per 1000 year to mid-Year,12.08,2015
+E92000001,England,deaths ,Count year to mid-Year,499672,2015
+E92000001,England,deaths ,Per 1000 year to mid-Year,9.12,2015
+E92000001,England,internal in ,Count year to mid-Year,112266,2015
+E92000001,England,internal in ,Per 1000 year to mid-Year,2.05,2015
+E92000001,England,internal out ,Count year to mid-Year,118632,2015
+E92000001,England,internal out ,Per 1000 year to mid-Year,2.16,2015
+E92000001,England,internal net ,Count year to mid-Year,-6366,2015
+E92000001,England,internal net ,Per 1000 year to mid-Year,-0.12,2015
+E92000001,England,international in ,Count year to mid-Year,704950,2015
+E92000001,England,international in ,Per 1000 year to mid-Year,12.86,2015
+E92000001,England,international out ,Count year to mid-Year,434066,2015
+E92000001,England,international out ,Per 1000 year to mid-Year,7.92,2015
+E92000001,England,international net ,Count year to mid-Year,270884,2015
+E92000001,England,international net ,Per 1000 year to mid-Year,4.94,2015
+E92000001,England,special change ,Count year to mid-Year,6077,2015
+E92000001,England,special change ,Per 1000 year to mid-Year,0.11,2015
+E92000001,England,unattrib ,Count year to mid-Year,5420,2015
+E92000001,England,unattrib ,Per 1000 year to mid-Year,0.1,2015
+E92000001,England,other adjust ,Count year to mid-Year,0,2015
+E92000001,England,other adjust ,Per 1000 year to mid-Year,0,2015
+E92000001,England,natchange ,Count year to mid-Year,162342,2015
+E92000001,England,natchange ,Per 1000 year to mid-Year,2.96,2015
+E92000001,England,population ,Count year to mid-Year,55289034,2016
+E92000001,England,population ,Per 1000 year to mid-Year,1000,2016
+E92000001,England,births ,Count year to mid-Year,668063,2016
+E92000001,England,births ,Per 1000 year to mid-Year,12.08,2016
+E92000001,England,deaths ,Count year to mid-Year,486960,2016
+E92000001,England,deaths ,Per 1000 year to mid-Year,8.81,2016
+E92000001,England,internal in ,Count year to mid-Year,109916,2016
+E92000001,England,internal in ,Per 1000 year to mid-Year,1.99,2016
+E92000001,England,internal out ,Count year to mid-Year,120970,2016
+E92000001,England,internal out ,Per 1000 year to mid-Year,2.19,2016
+E92000001,England,internal net ,Count year to mid-Year,-11054,2016
+E92000001,England,internal net ,Per 1000 year to mid-Year,-0.2,2016
+E92000001,England,international in ,Count year to mid-Year,760454,2016
+E92000001,England,international in ,Per 1000 year to mid-Year,13.75,2016
+E92000001,England,international out ,Count year to mid-Year,459696,2016
+E92000001,England,international out ,Per 1000 year to mid-Year,8.31,2016
+E92000001,England,international net ,Count year to mid-Year,300758,2016
+E92000001,England,international net ,Per 1000 year to mid-Year,5.44,2016
+E92000001,England,special change ,Count year to mid-Year,5993,2016
+E92000001,England,special change ,Per 1000 year to mid-Year,0.11,2016
+E92000001,England,unattrib ,Count year to mid-Year,3558,2016
+E92000001,England,unattrib ,Per 1000 year to mid-Year,0.06,2016
+E92000001,England,other adjust ,Count year to mid-Year,0,2016
+E92000001,England,other adjust ,Per 1000 year to mid-Year,0,2016
+E92000001,England,natchange ,Count year to mid-Year,181103,2016
+E92000001,England,natchange ,Per 1000 year to mid-Year,3.28,2016
+E92000001,England,population ,Count year to mid-Year,55619548,2017
+E92000001,England,population ,Per 1000 year to mid-Year,1000,2017
+E92000001,England,births ,Count year to mid-Year,652830,2017
+E92000001,England,births ,Per 1000 year to mid-Year,11.74,2017
+E92000001,England,deaths ,Count year to mid-Year,499814,2017
+E92000001,England,deaths ,Per 1000 year to mid-Year,8.99,2017
+E92000001,England,internal in ,Count year to mid-Year,106100,2017
+E92000001,England,internal in ,Per 1000 year to mid-Year,1.91,2017
+E92000001,England,internal out ,Count year to mid-Year,122923,2017
+E92000001,England,internal out ,Per 1000 year to mid-Year,2.21,2017
+E92000001,England,internal net ,Count year to mid-Year,-16823,2017
+E92000001,England,internal net ,Per 1000 year to mid-Year,-0.3,2017
+E92000001,England,international in ,Count year to mid-Year,654299,2017
+E92000001,England,international in ,Per 1000 year to mid-Year,11.76,2017
+E92000001,England,international out ,Count year to mid-Year,467994,2017
+E92000001,England,international out ,Per 1000 year to mid-Year,8.41,2017
+E92000001,England,international net ,Count year to mid-Year,186305,2017
+E92000001,England,international net ,Per 1000 year to mid-Year,3.35,2017
+E92000001,England,special change ,Count year to mid-Year,4072,2017
+E92000001,England,special change ,Per 1000 year to mid-Year,0.07,2017
+E92000001,England,unattrib ,Count year to mid-Year,3944,2017
+E92000001,England,unattrib ,Per 1000 year to mid-Year,0.07,2017
+E92000001,England,other adjust ,Count year to mid-Year,0,2017
+E92000001,England,other adjust ,Per 1000 year to mid-Year,0,2017
+E92000001,England,natchange ,Count year to mid-Year,153016,2017
+E92000001,England,natchange ,Per 1000 year to mid-Year,2.75,2017
+E92000001,England,population ,Count year to mid-Year,55924528,2018
+E92000001,England,population ,Per 1000 year to mid-Year,1000,2018
+E92000001,England,births ,Count year to mid-Year,636776,2018
+E92000001,England,births ,Per 1000 year to mid-Year,11.39,2018
+E92000001,England,deaths ,Count year to mid-Year,515507,2018
+E92000001,England,deaths ,Per 1000 year to mid-Year,9.22,2018
+E92000001,England,internal in ,Count year to mid-Year,105844,2018
+E92000001,England,internal in ,Per 1000 year to mid-Year,1.89,2018
+E92000001,England,internal out ,Count year to mid-Year,122948,2018
+E92000001,England,internal out ,Per 1000 year to mid-Year,2.2,2018
+E92000001,England,internal net ,Count year to mid-Year,-17104,2018
+E92000001,England,internal net ,Per 1000 year to mid-Year,-0.31,2018
+E92000001,England,international in ,Count year to mid-Year,689270,2018
+E92000001,England,international in ,Per 1000 year to mid-Year,12.33,2018
+E92000001,England,international out ,Count year to mid-Year,485361,2018
+E92000001,England,international out ,Per 1000 year to mid-Year,8.68,2018
+E92000001,England,international net ,Count year to mid-Year,203909,2018
+E92000001,England,international net ,Per 1000 year to mid-Year,3.65,2018
+E92000001,England,special change ,Count year to mid-Year,-1781,2018
+E92000001,England,special change ,Per 1000 year to mid-Year,-0.03,2018
+E92000001,England,unattrib ,Count year to mid-Year,-1313,2018
+E92000001,England,unattrib ,Per 1000 year to mid-Year,-0.02,2018
+E92000001,England,other adjust ,Count year to mid-Year,0,2018
+E92000001,England,other adjust ,Per 1000 year to mid-Year,0,2018
+E92000001,England,natchange ,Count year to mid-Year,121269,2018
+E92000001,England,natchange ,Per 1000 year to mid-Year,2.17,2018
+E92000001,England,population ,Count year to mid-Year,56230056,2019
+E92000001,England,population ,Per 1000 year to mid-Year,1000,2019
+E92000001,England,births ,Count year to mid-Year,617939,2019
+E92000001,England,births ,Per 1000 year to mid-Year,10.99,2019
+E92000001,England,deaths ,Count year to mid-Year,487688,2019
+E92000001,England,deaths ,Per 1000 year to mid-Year,8.67,2019
+E92000001,England,internal in ,Count year to mid-Year,105943,2019
+E92000001,England,internal in ,Per 1000 year to mid-Year,1.88,2019
+E92000001,England,internal out ,Count year to mid-Year,124462,2019
+E92000001,England,internal out ,Per 1000 year to mid-Year,2.21,2019
+E92000001,England,internal net ,Count year to mid-Year,-18519,2019
+E92000001,England,internal net ,Per 1000 year to mid-Year,-0.33,2019
+E92000001,England,international in ,Count year to mid-Year,739019,2019
+E92000001,England,international in ,Per 1000 year to mid-Year,13.14,2019
+E92000001,England,international out ,Count year to mid-Year,537687,2019
+E92000001,England,international out ,Per 1000 year to mid-Year,9.56,2019
+E92000001,England,international net ,Count year to mid-Year,201332,2019
+E92000001,England,international net ,Per 1000 year to mid-Year,3.58,2019
+E92000001,England,special change ,Count year to mid-Year,1639,2019
+E92000001,England,special change ,Per 1000 year to mid-Year,0.03,2019
+E92000001,England,unattrib ,Count year to mid-Year,-9175,2019
+E92000001,England,unattrib ,Per 1000 year to mid-Year,-0.16,2019
+E92000001,England,other adjust ,Count year to mid-Year,0,2019
+E92000001,England,other adjust ,Per 1000 year to mid-Year,0,2019
+E92000001,England,natchange ,Count year to mid-Year,130251,2019
+E92000001,England,natchange ,Per 1000 year to mid-Year,2.32,2019
