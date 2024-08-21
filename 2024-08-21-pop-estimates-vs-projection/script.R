@@ -51,8 +51,8 @@ ggplot() +
        subtitle = "Trafford, 2023",
        caption = "Projected population based on 2018 (line), Mid-year 2023 (bar)\nSource: ONS | @traffordDataLab") +
   theme(
-    plot.title = element_text(size=12, face = "bold", hjust = 0, colour = "#757575"),
-    plot.subtitle = element_text(size=10, hjust = , colour = "#757575"),
+    plot.title = element_text(size=14, face = "bold", hjust = 0, colour = "#757575"),
+    plot.subtitle = element_text(size=12, hjust = , colour = "#757575"),
     plot.caption = element_text(size = 8, hjust = 1, margin = margin(t = 15)),
     plot.title.position = "plot",
     axis.text.y = element_text(hjust = 1, size=8),
