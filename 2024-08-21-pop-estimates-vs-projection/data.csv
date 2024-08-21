@@ -1,0 +1,109 @@
+area_code,area_name,period,indicator,age,sex,measure,value
+E08000009,Trafford,2023-06-01,Mid-year population estimate,0-4,Total,Count,12749
+E08000009,Trafford,2023-06-01,Mid-year population estimate,5-9,Total,Count,16250
+E08000009,Trafford,2023-06-01,Mid-year population estimate,10-14,Total,Count,17512
+E08000009,Trafford,2023-06-01,Mid-year population estimate,15-19,Total,Count,14209
+E08000009,Trafford,2023-06-01,Mid-year population estimate,20-24,Total,Count,10533
+E08000009,Trafford,2023-06-01,Mid-year population estimate,25-29,Total,Count,12634
+E08000009,Trafford,2023-06-01,Mid-year population estimate,30-34,Total,Count,14458
+E08000009,Trafford,2023-06-01,Mid-year population estimate,35-39,Total,Count,17055
+E08000009,Trafford,2023-06-01,Mid-year population estimate,40-44,Total,Count,18200
+E08000009,Trafford,2023-06-01,Mid-year population estimate,45-49,Total,Count,16085
+E08000009,Trafford,2023-06-01,Mid-year population estimate,50-54,Total,Count,16393
+E08000009,Trafford,2023-06-01,Mid-year population estimate,55-59,Total,Count,15662
+E08000009,Trafford,2023-06-01,Mid-year population estimate,60-64,Total,Count,13667
+E08000009,Trafford,2023-06-01,Mid-year population estimate,65-69,Total,Count,11129
+E08000009,Trafford,2023-06-01,Mid-year population estimate,70-74,Total,Count,9889
+E08000009,Trafford,2023-06-01,Mid-year population estimate,75-79,Total,Count,9009
+E08000009,Trafford,2023-06-01,Mid-year population estimate,80-84,Total,Count,5975
+E08000009,Trafford,2023-06-01,Mid-year population estimate,85+,Total,Count,6071
+E08000009,Trafford,2023-06-01,Mid-year population estimate,0-4,Male,Count,6599
+E08000009,Trafford,2023-06-01,Mid-year population estimate,5-9,Male,Count,8291
+E08000009,Trafford,2023-06-01,Mid-year population estimate,10-14,Male,Count,9012
+E08000009,Trafford,2023-06-01,Mid-year population estimate,15-19,Male,Count,7256
+E08000009,Trafford,2023-06-01,Mid-year population estimate,20-24,Male,Count,5431
+E08000009,Trafford,2023-06-01,Mid-year population estimate,25-29,Male,Count,6407
+E08000009,Trafford,2023-06-01,Mid-year population estimate,30-34,Male,Count,6826
+E08000009,Trafford,2023-06-01,Mid-year population estimate,35-39,Male,Count,8034
+E08000009,Trafford,2023-06-01,Mid-year population estimate,40-44,Male,Count,8688
+E08000009,Trafford,2023-06-01,Mid-year population estimate,45-49,Male,Count,7876
+E08000009,Trafford,2023-06-01,Mid-year population estimate,50-54,Male,Count,8128
+E08000009,Trafford,2023-06-01,Mid-year population estimate,55-59,Male,Count,7704
+E08000009,Trafford,2023-06-01,Mid-year population estimate,60-64,Male,Count,6717
+E08000009,Trafford,2023-06-01,Mid-year population estimate,65-69,Male,Count,5473
+E08000009,Trafford,2023-06-01,Mid-year population estimate,70-74,Male,Count,4651
+E08000009,Trafford,2023-06-01,Mid-year population estimate,75-79,Male,Count,4036
+E08000009,Trafford,2023-06-01,Mid-year population estimate,80-84,Male,Count,2505
+E08000009,Trafford,2023-06-01,Mid-year population estimate,85+,Male,Count,2283
+E08000009,Trafford,2023-06-01,Mid-year population estimate,0-4,Female,Count,6150
+E08000009,Trafford,2023-06-01,Mid-year population estimate,5-9,Female,Count,7959
+E08000009,Trafford,2023-06-01,Mid-year population estimate,10-14,Female,Count,8500
+E08000009,Trafford,2023-06-01,Mid-year population estimate,15-19,Female,Count,6953
+E08000009,Trafford,2023-06-01,Mid-year population estimate,20-24,Female,Count,5102
+E08000009,Trafford,2023-06-01,Mid-year population estimate,25-29,Female,Count,6227
+E08000009,Trafford,2023-06-01,Mid-year population estimate,30-34,Female,Count,7632
+E08000009,Trafford,2023-06-01,Mid-year population estimate,35-39,Female,Count,9021
+E08000009,Trafford,2023-06-01,Mid-year population estimate,40-44,Female,Count,9512
+E08000009,Trafford,2023-06-01,Mid-year population estimate,45-49,Female,Count,8209
+E08000009,Trafford,2023-06-01,Mid-year population estimate,50-54,Female,Count,8265
+E08000009,Trafford,2023-06-01,Mid-year population estimate,55-59,Female,Count,7958
+E08000009,Trafford,2023-06-01,Mid-year population estimate,60-64,Female,Count,6950
+E08000009,Trafford,2023-06-01,Mid-year population estimate,65-69,Female,Count,5656
+E08000009,Trafford,2023-06-01,Mid-year population estimate,70-74,Female,Count,5238
+E08000009,Trafford,2023-06-01,Mid-year population estimate,75-79,Female,Count,4973
+E08000009,Trafford,2023-06-01,Mid-year population estimate,80-84,Female,Count,3470
+E08000009,Trafford,2023-06-01,Mid-year population estimate,85+,Female,Count,3788
+E08000009,Trafford,2023-06-01,2018 based population projection,0-4,Total,Count,13787
+E08000009,Trafford,2023-06-01,2018 based population projection,5-9,Total,Count,16343
+E08000009,Trafford,2023-06-01,2018 based population projection,10-14,Total,Count,17631
+E08000009,Trafford,2023-06-01,2018 based population projection,15-19,Total,Count,14743
+E08000009,Trafford,2023-06-01,2018 based population projection,20-24,Total,Count,9170
+E08000009,Trafford,2023-06-01,2018 based population projection,25-29,Total,Count,12640
+E08000009,Trafford,2023-06-01,2018 based population projection,30-34,Total,Count,15367
+E08000009,Trafford,2023-06-01,2018 based population projection,35-39,Total,Count,17431
+E08000009,Trafford,2023-06-01,2018 based population projection,40-44,Total,Count,18598
+E08000009,Trafford,2023-06-01,2018 based population projection,45-49,Total,Count,16606
+E08000009,Trafford,2023-06-01,2018 based population projection,50-54,Total,Count,16777
+E08000009,Trafford,2023-06-01,2018 based population projection,55-59,Total,Count,16207
+E08000009,Trafford,2023-06-01,2018 based population projection,60-64,Total,Count,14119
+E08000009,Trafford,2023-06-01,2018 based population projection,65-69,Total,Count,11331
+E08000009,Trafford,2023-06-01,2018 based population projection,70-74,Total,Count,9915
+E08000009,Trafford,2023-06-01,2018 based population projection,75-79,Total,Count,9216
+E08000009,Trafford,2023-06-01,2018 based population projection,80-84,Total,Count,5962
+E08000009,Trafford,2023-06-01,2018 based population projection,85+,Total,Count,6540
+E08000009,Trafford,2023-06-01,2018 based population projection,0-4,Male,Count,7107
+E08000009,Trafford,2023-06-01,2018 based population projection,5-9,Male,Count,8364
+E08000009,Trafford,2023-06-01,2018 based population projection,10-14,Male,Count,9021
+E08000009,Trafford,2023-06-01,2018 based population projection,15-19,Male,Count,7567
+E08000009,Trafford,2023-06-01,2018 based population projection,20-24,Male,Count,4790
+E08000009,Trafford,2023-06-01,2018 based population projection,25-29,Male,Count,6486
+E08000009,Trafford,2023-06-01,2018 based population projection,30-34,Male,Count,7472
+E08000009,Trafford,2023-06-01,2018 based population projection,35-39,Male,Count,8242
+E08000009,Trafford,2023-06-01,2018 based population projection,40-44,Male,Count,8946
+E08000009,Trafford,2023-06-01,2018 based population projection,45-49,Male,Count,8143
+E08000009,Trafford,2023-06-01,2018 based population projection,50-54,Male,Count,8157
+E08000009,Trafford,2023-06-01,2018 based population projection,55-59,Male,Count,7720
+E08000009,Trafford,2023-06-01,2018 based population projection,60-64,Male,Count,6885
+E08000009,Trafford,2023-06-01,2018 based population projection,65-69,Male,Count,5600
+E08000009,Trafford,2023-06-01,2018 based population projection,70-74,Male,Count,4695
+E08000009,Trafford,2023-06-01,2018 based population projection,75-79,Male,Count,4198
+E08000009,Trafford,2023-06-01,2018 based population projection,80-84,Male,Count,2512
+E08000009,Trafford,2023-06-01,2018 based population projection,85+,Male,Count,2477
+E08000009,Trafford,2023-06-01,2018 based population projection,0-4,Female,Count,6679
+E08000009,Trafford,2023-06-01,2018 based population projection,5-9,Female,Count,7979
+E08000009,Trafford,2023-06-01,2018 based population projection,10-14,Female,Count,8610
+E08000009,Trafford,2023-06-01,2018 based population projection,15-19,Female,Count,7176
+E08000009,Trafford,2023-06-01,2018 based population projection,20-24,Female,Count,4380
+E08000009,Trafford,2023-06-01,2018 based population projection,25-29,Female,Count,6153
+E08000009,Trafford,2023-06-01,2018 based population projection,30-34,Female,Count,7896
+E08000009,Trafford,2023-06-01,2018 based population projection,35-39,Female,Count,9189
+E08000009,Trafford,2023-06-01,2018 based population projection,40-44,Female,Count,9652
+E08000009,Trafford,2023-06-01,2018 based population projection,45-49,Female,Count,8464
+E08000009,Trafford,2023-06-01,2018 based population projection,50-54,Female,Count,8619
+E08000009,Trafford,2023-06-01,2018 based population projection,55-59,Female,Count,8487
+E08000009,Trafford,2023-06-01,2018 based population projection,60-64,Female,Count,7235
+E08000009,Trafford,2023-06-01,2018 based population projection,65-69,Female,Count,5731
+E08000009,Trafford,2023-06-01,2018 based population projection,70-74,Female,Count,5219
+E08000009,Trafford,2023-06-01,2018 based population projection,75-79,Female,Count,5018
+E08000009,Trafford,2023-06-01,2018 based population projection,80-84,Female,Count,3450
+E08000009,Trafford,2023-06-01,2018 based population projection,85+,Female,Count,4063
