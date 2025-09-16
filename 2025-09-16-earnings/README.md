@@ -1,6 +1,6 @@
 # Employees working in Trafford earn less than those that live in Trafford
 
-Workplace and residence based employees earnings in Trafford by full-part time, female-male, and their combinations.
+Workplace and residence based employee earnings in Trafford by full-part time, female-male, and their combinations.
 
 #### Data sources
 
