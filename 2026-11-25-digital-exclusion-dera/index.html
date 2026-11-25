@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
+        <meta name="keywords" content="digital exclusion, digital, DERA, index, population, trafford, LSOA, visualisation, charticle"/>
+        <meta name="description" content="Population percent at risk of Digital exclusion in Trafford based on the LSOAs DERA score"/>
+
+        <title>Population percent at risk of Digital exclusion in Trafford</title>
+
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" crossorigin="anonymous"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400%7CRoboto:300"/>
+        <link rel="stylesheet" href="../base.css"/>
+        <link rel="stylesheet" href="../charticle.css"/>
+    </head>
+    <body>
+        <div class="container">
+            <span id="a11yNav"><a href="#downloads" class="themeBlockDark">Skip to download options</a></span>
+            <main>
+                <h1>National Digital Exclusion Risk Index</h1>
+                <time datetime="2026-11-25">November 25, 2026</time>
+
+                <p>Digital exclusion is recognised as a key driver of health inequalities. The <a href= "https://www.england.nhs.uk/about/equality/equality-hub/national-healthcare-inequalities-improvement-programme/" target="_blank">NHS England Healthcare Inequalities Improvement Programme</a> comisioned the development of the National Digital Exclusion Risk Index which can be explored through the <a href= "https://experience.arcgis.com/experience/e990bec3d90f4a0dbb15e56dd58da5e7/page/Home" target="_blank">Digital Exclusion Risk Atlas (DERA)</a></p>
+                
+                <p>The index scores four domains: Digital access and capability, Affordability and economic pressure, Ability and skills, and Agency, motivation and trust. It uses 12 indicators, with three indicators per domain. Some of the indicators included are: broadband availability, mobile connectivity, income deprivation, housing insecurity, lower educational attainment, disability, english proficiency, older age structures and social isolation.</p>
+                
+                <p>The map and bar below illustrate Trafford's LSOAs decile ranking when compared to all LSOA in England. Each decile contain 10% of England's LSOAs with lower deciles indicating a higher risk of digital exclusion. While the overall outlook of Trafford is positive, there ate pockets of population at risk of digital exclusion.</p>
+                
+                <p>Although Trafford doesn’t have any LSOAs in decile 1, it does have four LSOAs in decile 2. This means that 2.6% (or 6,251 people) of Trafford’s population resides in a LSOA that falls within the 20% most at risk of digital exclusion in England, according to this index. These LSOAs are located within the wards of Bucklow-St Martins, Urmston, Manor, Old Trafford, and Sale Moor.<p>
+                  
+                  <p>Furthermore, 8.5% (or 20,425 people) of Trafford’s population lives in a LSOA that is within the 40% most at risk of digital exclusion. This includes the LSOAs mentioned above, as well as additional LSOAs within the same wards, along with Longford and Timperley Central wards.</p>
+
+                <figure>
+                    <img src="plot.png" width="600" alt="Map of the Digital Exclusion Risk Index for Trafford's areas and a column showing the population % by index"/>
+                </figure>
+            </main>
+
+            <footer>
+                <span class="hideContent" id="downloadsLabel">Download options:</span>
+                <ul id="downloads" aria-labelledby="downloadsLabel">
+                    <li><a href="data.csv" aria-label="Download the CSV data" class="labButton" download>CSV<span class="fas fa-download"></span></a></li>
+                    <li><a href="plot.png" aria-label="Download the PNG image" class="labButton" download>PNG<span class="fas fa-download"></span></a></li>
+                    <li><a href="script.R" aria-label="Download the R script code" class="labButton" download>R<span class="fas fa-download"></span></a></li>
+                </ul>
+                <a href="https://www.trafforddatalab.io/charticles.html" aria-label="Return to Trafford Data Lab charticles page"><img src="https://www.trafforddatalab.io/assets/logo/trafforddatalab_logo.svg" alt="Trafford Data Lab" width="93"/></a>
+            </footer>
+        </div>
+    </body>
+</html>
