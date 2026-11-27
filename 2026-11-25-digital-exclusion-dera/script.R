@@ -2,7 +2,7 @@
 
 # Source: NHS England
 # URL: https://www.england.nhs.uk/about/equality/equality-hub/national-healthcare-inequalities-improvement-programme/the-digital-exclusion-risk-atlas/
-# Licence: Open Government Licence 3.0
+# Licence:
 
 # load libraries ---------------------------
 library(tidyverse) ; library(httr) ; library(sf) ;  library(ggrepel)
